@@ -848,6 +848,13 @@ position: absolute;
     position: absolute;
     left: -37px;
     top: 24px;
+    
+}
+.al_thirty_january{
+    font-family: Mangan Regular;
+}
+.al_second_february{
+    font-family: Mangan Regular;
 }
 .al_thirty_january:before {
     content: '';
@@ -858,6 +865,7 @@ position: absolute;
     left: -34px;
     top: 24px;
     z-index: 9;
+    font-family: Mangan 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .al_second_february:after {
     content: '';

@@ -224,13 +224,13 @@
 
 
 
-<div class="row al_second_block_row">
+<div class="row al_second_block_row counter">
 
 <div class="col-md-3 col-sm-6 col-6"> 
         <div class="al_editions">
         <div class="edition_img"><img src="vendor/bootstrap/images/al_edition.png" alt="edition" width="80" height="70"> </div>
         <div class="edition_below_text">
-            <h3>24</h3>
+            <h3 id="counter1">24</h3>
             <span>Editions</span>
         </div>
         </div>
@@ -240,8 +240,8 @@
         <div class="al_football">
         <div class="football_img"><img src="vendor/bootstrap/images/al_football.png" alt="football" width="80" height="70"> </div>
         <div class="football_below_text">
-            <h3>110k</h3>
-            <span>Football</span>
+            <h3 id="counter2">110k</h3>
+            <span>Footfall</span>
         </div>
         </div>
 
@@ -251,7 +251,7 @@
         <div class="al_events">
         <div class="events_img"><img src="vendor/bootstrap/images/al_events.png" alt="Events" width="80" height="70">  </div>
         <div class="events_below_text">
-            <h3> 80+</h3>
+            <h3 id="counter3"> 80+</h3>
             <span>Events</span>
         </div>
         </div>
@@ -262,7 +262,7 @@
         <div class="al_colleges">
         <div class="colleges_img"><img src="vendor/bootstrap/images/al_college.png" alt="College" width="80" height="70"> </div>
         <div class="colleges_below_text">
-            <h3> 450 </h3>
+            <h3 id="counter4"> 450 </h3>
             <span>Colleges</span>
         </div>
         </div>
@@ -500,6 +500,56 @@
     <script src="vendor/bootstrap/js/wow.min.js"></script>
     <script src="vendor/bootstrap/js/custom.js"> </script>
     <script src="vendor/bootstrap/js/owl.carousel.min.js"> </script>
+
+
+<script type="text/javascript">
+  function animateValue(obj, start = 0, end = null, duration = 3000) {
+    if (obj) {
+
+        // save starting text for later (and as a fallback text if JS not running and/or google)
+        var textStarting = obj.innerHTML;
+
+        // remove non-numeric from starting text if not specified
+        end = end || parseInt(textStarting.replace(/\D/g, ""));
+
+        var range = end - start;
+
+        // no timer shorter than 50ms (not really visible any way)
+        var minTimer = 50;
+
+        // calc step time to show all interediate values
+        var stepTime = Math.abs(Math.floor(duration / range));
+
+        // never go below minTimer
+        stepTime = Math.max(stepTime, minTimer);
+
+        // get current time and calculate desired end time
+        var startTime = new Date().getTime();
+        var endTime = startTime + duration;
+        var timer;
+
+        function run() {
+            var now = new Date().getTime();
+            var remaining = Math.max((endTime - now) / duration, 0);
+            var value = Math.round(end - (remaining * range));
+            // replace numeric digits only in the original string
+            obj.innerHTML = textStarting.replace(/([0-9]+)/g, value);
+            if (value == end) {
+                clearInterval(timer);
+            }
+        }
+
+        timer = setInterval(run, stepTime);
+        run();
+    }
+}
+animateValue(document.getElementById("counter1"));
+animateValue(document.getElementById("counter2"));
+animateValue(document.getElementById("counter3"));
+animateValue(document.getElementById("counter4"));
+
+  
+</script>
 
   </body>
 

@@ -1803,8 +1803,7 @@ section.al_modules_block .al_title_above_sky {
     min-height: 138px;
 }
 .mod_first_border_style_thin {
-    background-color: #00acb3;
-    background-color: #00acb3;
+    background-color: #1e1a33;
 }
 .al_mod_shap_back_first, .al_mod_shap_back_first:after {
     -webkit-clip-path: polygon(1% 46%, 100% 0, 76% 98%, 14% 83%);
@@ -1827,6 +1826,9 @@ section.al_modules_block .al_title_above_sky {
     right: 4px;
     bottom: 4px;
 }
+
+.al_mod_shap_back_first:hover::after{
+        background: #e3a532}
 
 .vogue_nation {
 position: absolute;
@@ -1872,6 +1874,10 @@ clip-path: polygon(25% 0, 87% 17%, 100% 63%, 0 91%);
     right: 3px;
     bottom: 4px;
 }
+
+.al_mod_shap_back_second:hover::after{
+        background: #e3a532}
+
 .class_apart {
 position: absolute;
     top: 40px;
@@ -1918,6 +1924,10 @@ width: 130px;
     right: 4px;
     bottom: 3px;
 }
+.al_mod_shap_back_third:hover::after{
+        background: #e3a532}
+
+
 .dance {
     position: absolute;
     top: 32px;
@@ -1962,6 +1972,10 @@ clip-path: polygon(0 63%, 36% 0, 100% 35%, 66% 100%);
     right: 4px;
     bottom: 3px;
 }
+
+.al_mod_shap_back_forth:hover::after{
+        background: #e3a532}
+
 .sports {
     position: absolute;
     top: 35px;
@@ -2015,6 +2029,10 @@ clip-path: polygon(0 63%, 36% 0, 100% 35%, 66% 100%);
     bottom: 4px;
 }
 
+.al_mod_s_shap_back_first:hover::after{
+        background: #e3a532}
+
+
 .movie {
 position: absolute;
     top: 40px;
@@ -2057,6 +2075,9 @@ position: absolute;
     right: 4px;
     bottom: 4px;
 }
+
+.al_mod_s_shap_back_second:hover::after{
+        background: #e3a532}
 
 .music {
     position: absolute;
@@ -2101,6 +2122,10 @@ clip-path: polygon(3% 35%, 49% 1%, 100% 57%, 0 100%);
     right: 4px;
     bottom: 3px;
 }
+
+.al_mod_s_shap_back_third:hover::after{
+        background: #e3a532}
+
 .literary {
     position: absolute;
     top: 30px;
@@ -2145,6 +2170,10 @@ clip-path: polygon(0 51%, 54% 0, 100% 63%, 55% 100%);
     right: 4px;
     bottom: 3px;
 }
+
+.al_mod_s_shap_back_forth:hover::after{
+        background: #e3a532}
+
 .mun {
      position: absolute;
     top: 40px;
@@ -2199,6 +2228,9 @@ clip-path: polygon(0 51%, 54% 0, 100% 63%, 55% 100%);
     bottom: 4px;
 }
 
+.al_mod_t_shap_back_first:hover::after{
+        background: #e3a532}
+
 .digital {
 position: absolute;
     top: 28px;
@@ -2243,6 +2275,9 @@ position: absolute;
     bottom: 4px;
 }
 
+.al_mod_t_shap_back_second:hover::after{
+        background: #e3a532}
+
 .drama {
 position: absolute;
     top: 10px;
@@ -2286,6 +2321,10 @@ clip-path: polygon(3% 39%, 56% 9%, 98% 37%, 57% 95%);
     right: 4px;
     bottom: 3px;
 }
+
+.al_mod_t_shap_back_third:hover::after{
+        background: #e3a532}
+
 .art_talkies {
     position: absolute;
     top: 30px;
@@ -2329,6 +2368,10 @@ clip-path: polygon(0 16%, 45% 0, 89% 63%, 17% 100%);
     right: 4px;
     bottom: 3px;
 }
+
+.al_mod_t_shap_back_forth:hover::after{
+        background: #e3a532}
+
 .quizzes {
 position: absolute;
     top: 30px;
@@ -4130,4 +4173,25 @@ display: block;
 .al_copyright_block p {
     font-size: 11px;
     text-transform: uppercase;
+}
+
+
+/*    Temporary  */
+
+.al_mod_t_featured_text span  {
+    color: #fff;
+    font-size: 20px;
+    line-height: 10px;
+}
+
+.al_mod_s_featured_text span  {
+    color: #fff;
+    font-size: 20px;
+    line-height: 10px;
+}
+
+.al_mod_featured_text span  {
+    color: #fff;
+    font-size: 20px;
+    line-height: 10px;
 }

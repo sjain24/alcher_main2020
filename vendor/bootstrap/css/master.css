@@ -4141,7 +4141,7 @@ a.gplus i {
     text-align: center;
     width: 30px;
     height: 30px;
-    background: #f1574a;
+    background:  #C13584;
     vertical-align: middle;
     line-height: 30px;
     border-radius: 100px;
@@ -4156,7 +4156,7 @@ a.gplus i {
 }
 ul.al_footer_contact_details {
     margin-top: 25px;
-    columns: 3;
+    columns: 2;
 }
 ul.al_footer_contact_details li span {
 display: block;

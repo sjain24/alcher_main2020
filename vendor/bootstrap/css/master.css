@@ -649,6 +649,11 @@ span.al_letter_n:before {
     height: 51px;
     top: 0px;
     left: -60.8%;
+    
+}
+@keyframes example {
+    0%   { left:-40%; top:-15px;}
+    100%  { left:0%; top:-15px;}
 }
 span.al_letter_n:after {
     content: '';
@@ -661,7 +666,13 @@ span.al_letter_n:after {
     height: 45px;
     /* display: none; */
     top: -15px;
-    left: -5.8%;
+    left: -40%;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 span.al_letter_o:before {
     content: '';

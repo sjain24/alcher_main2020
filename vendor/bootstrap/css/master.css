@@ -1588,8 +1588,8 @@ li.forth_ballon img {
     min-height: 180px;
 }
 .comedy_border_style_thin {
-    background-color: #e3a531;
-    background-color: #e3a531;
+    background-color: #fff;
+    background-color: #fff;
 }
 .al_comedy_back_first, .al_comedy_back_first:after {
    -webkit-clip-path: polygon(35% 0, 100% 26%, 68% 100%, 1% 74%);
@@ -1605,11 +1605,7 @@ width: 180px;
 .al_comedy_back_first:after {
     content: "";
     position: absolute;
-    background: url(../images/jee.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    
+    background: #e3a531;
 }
 .comedy_border_style_thin:after {
     top: 3px;
@@ -1618,7 +1614,7 @@ width: 180px;
     bottom: 3px;
 }
 .al_comedy_back_first:hover::after{
-	    background: #e3a532;
+        background: #e3a532;
 }
 .comedy_box {
     position: absolute;
@@ -1630,7 +1626,7 @@ width: 180px;
 }
 
 .al_featured_text {
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 /* Rap Battle start ***********************************/
@@ -1659,8 +1655,7 @@ width: 180px;
 .al_rap_back_first:after {
     content: "";
     position: absolute;
-    background: url(../images/dolphin.png);
-    background-size: cover;
+    background: url(../images/al_rap_battle.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1706,10 +1701,10 @@ width: 180px;
 .al_creator_back_first:after {
     content: "";
     position: absolute;
-    background: url(../images/shoe.png);
+    background: url(../images/al_creator_fest.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+        background-size: 100%;
 }
 .creator_border_style_thin:after {
     top: 7px;
@@ -1744,8 +1739,7 @@ width: 180px;
 .al_inform_back_first:after {
     content: "";
     position: absolute;
-    background: url(../images/blood.png);
-    background-size: cover;
+    background: url(../images/al_informal.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1757,8 +1751,154 @@ top: 5px;
 }
 
 section.al_fift_block .al_featured_text span a {
-	font-size: 18px;
+    font-size: 18px;
 }
+
+
+
+
+/* Rap Battle start ***********************************/
+
+
+.al_rap_back_first2, .al_rap_back_first2:after {
+    -webkit-clip-path: polygon(54% 0, 100% 64%, 3% 100%, 0 36%);
+    clip-path: polygon(54% 0, 100% 64%, 3% 100%, 0 36%);
+}
+.al_rap_back_first2 {
+width: 180px;
+    height: 170px;
+    position: relative;
+    transition: 2s ease-in-out;
+    margin-top: 12px;
+}
+.al_rap_back_first2:after {
+    content: "";
+    position: absolute;
+    background: url(../images/dolphin.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+/* Creator Fest Start ***************************************/
+
+
+.al_creator_back_first2, .al_creator_back_first2:after {
+-webkit-clip-path: polygon(1% 46%, 100% 0, 76% 98%, 14% 83%);
+    clip-path: polygon(1% 46%, 100% 0, 76% 98%, 14% 83%);
+}
+.al_creator_back_first2 {
+width: 180px;
+    height: 170px;
+    position: relative;
+    transition: 2s ease-in-out;
+    margin-top: 12px;
+}
+.al_creator_back_first2:after {
+    content: "";
+    position: absolute;
+    background: url(../images/shoe.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* Informal Zone Start ************************************/
+
+
+.al_inform_back_first2, .al_inform_back_first2:after {
+-webkit-clip-path: polygon(0 23%, 63% 6%, 100% 46%, 13% 100%);
+    clip-path: polygon(0 23%, 63% 6%, 100% 46%, 13% 100%);
+}
+.al_inform_back_first2 {
+width: 180px;
+    height: 170px;
+    position: relative;
+    transition: 2s ease-in-out;
+    margin-top: 12px;
+}
+.al_inform_back_first2:after {
+    content: "";
+    position: absolute;
+    background: url(../images/blood.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!! My changes    */
+
+
+/* Whats new block start ******************************/
+
+.al_comedy_first_wrap2 {
+    display: inline-block;
+    vertical-align: top;
+    max-height: 180px;
+    min-height: 180px;
+}
+.comedy_border_style_thin2 {
+    background-color: #e3a531;
+    background-color: #e3a531;
+}
+
+.al_comedy_back_first2, .al_comedy_back_first2:after {
+   -webkit-clip-path: polygon(35% 0, 100% 26%, 68% 100%, 1% 74%);
+    clip-path: polygon(35% 0, 100% 26%, 68% 100%, 1% 74%);
+}
+.al_comedy_back_first2 {
+width: 180px;
+    height: 170px;
+    position: relative;
+    transition: 2s ease-in-out;
+    margin-top: 12px;
+}
+.al_comedy_back_first2:after {
+    content: "";
+    position: absolute;
+    background: url(../images/jee.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.comedy_border_style_thin2:after {
+top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!!! My changes    */
+
+
+
+
+
+
+
 
 /* Modules Block Css Start ************************************/
 

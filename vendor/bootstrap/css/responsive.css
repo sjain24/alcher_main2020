@@ -314,11 +314,21 @@ span.al_letter_n:before {
     top: 0px !important;
     left: -50.8% !important;
 }
+@keyframes example2{    
+    0%   { left:-40%; top:-7px;}
+    100%  { left:0%; top:-7px;}
+}
 span.al_letter_n:after{
 	width: 22px !important;
     height: 45px !important;
     top: -7px !important;
     left: 20.2% !important;
+    animation-name: example2 !important;
+    animation-duration: 2s !important;
+    animation-timing-function: ease-in-out !important;
+    animation-delay: 0.5s !important;
+    animation-iteration-count: infinite !important;
+    animation-direction: alternate !important;
 }
 
 span.al_letter_o:before{

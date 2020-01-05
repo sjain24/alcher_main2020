@@ -224,7 +224,7 @@
 
 
 
-<div class="row al_second_block_row counter">
+<div class="row al_second_block_row counter" id="scroll-to">
 
 <div class="col-md-3 col-sm-6 col-6"> 
         <div class="al_editions">
@@ -542,11 +542,21 @@
         run();
     }
 }
-animateValue(document.getElementById("counter1"));
-animateValue(document.getElementById("counter2"));
-animateValue(document.getElementById("counter3"));
-animateValue(document.getElementById("counter4"));
 
+$(window).scroll(function() {
+   var hT = $('#scroll-to').offset().top,
+       hH = $('#scroll-to').outerHeight(),
+       wH = $(window).height(),
+       wS = $(this).scrollTop();
+    console.log((hT-wH) , wS);
+   if (wS > (hT+hH-wH)){
+    animateValue(document.getElementById("counter1"));
+    animateValue(document.getElementById("counter2"));
+    animateValue(document.getElementById("counter3"));
+    animateValue(document.getElementById("counter4"));
+    $(window).off('scroll');
+   }
+});
   
 </script>
 

@@ -1588,8 +1588,8 @@ li.forth_ballon img {
     min-height: 180px;
 }
 .comedy_border_style_thin {
-    background-color: #fff;
-    background-color: #fff;
+    background-color: #e3a531;
+    background-color: #e3a531;
 }
 .al_comedy_back_first, .al_comedy_back_first:after {
    -webkit-clip-path: polygon(35% 0, 100% 26%, 68% 100%, 1% 74%);
@@ -1605,7 +1605,11 @@ width: 180px;
 .al_comedy_back_first:after {
     content: "";
     position: absolute;
-    background: #e3a531;
+    background: url(../images/jee.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
 }
 .comedy_border_style_thin:after {
     top: 3px;
@@ -1655,7 +1659,8 @@ width: 180px;
 .al_rap_back_first:after {
     content: "";
     position: absolute;
-    background: url(../images/al_rap_battle.png);
+    background: url(../images/dolphin.png);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1701,10 +1706,10 @@ width: 180px;
 .al_creator_back_first:after {
     content: "";
     position: absolute;
-    background: url(../images/al_creator_fest.png);
+    background: url(../images/shoe.png);
     background-position: center;
     background-repeat: no-repeat;
-        background-size: 100%;
+    background-size: cover;
 }
 .creator_border_style_thin:after {
     top: 7px;
@@ -1739,7 +1744,8 @@ width: 180px;
 .al_inform_back_first:after {
     content: "";
     position: absolute;
-    background: url(../images/al_informal.png);
+    background: url(../images/blood.png);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }

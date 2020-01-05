@@ -1521,6 +1521,7 @@ li.first_ballon img {
 	transform-origin: 0% 0%;
   transform: translate(-10%) rotate(10deg);
   animation: FirstBallon 7s ease-in-out infinite;
+  opacity: 0.1;
 }
 
 @keyframes FirstBallon {
@@ -1535,6 +1536,7 @@ li.first_ballon img {
 li.second_ballon img {
   transform: translate(-10%) rotate(10deg);
   animation: SecondBallon 7s ease-in-out infinite;
+  opacity: 0.1;
 }
 
 @keyframes SecondBallon {
@@ -1549,6 +1551,7 @@ li.second_ballon img {
 li.third_ballon img {
   transform: translate(-10%) rotate(10deg);
   animation: ThirdBallon 7s ease-in-out infinite;
+  opacity: 0.1;
 }
 
 @keyframes ThirdBallon {
@@ -1563,6 +1566,7 @@ li.third_ballon img {
 li.forth_ballon img {
   transform: translate(-20%) rotate(-10deg);
   animation: ForthBallon 7s ease-in-out infinite;
+  opacity: 0.1;
 }
 
 @keyframes ForthBallon {

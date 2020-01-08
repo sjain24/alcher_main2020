@@ -1,29 +1,29 @@
 /* (1600x900) HD+ Display */
 @media only screen and (min-width: 1600px) { 
 span.al_letter_g:before{
-	    left: 40.6% !important;
+        left: 40.7% !important;
 }
 span.al_letter_g:after {
-	top: 54px !important;
-    left: 41.5% !important;
+       top: 48px !important;
+    left: 41.6% !important;
 }
 span.al_letter_a:after {
-	left: 44.5% !important;
+    left: 44.6% !important;
 }
 span.al_letter_l:before {
-	    left: 44% !important;
+        left: 44% !important;
 }
 span.al_letter_d:before{
-	left: 53.1% !important;
+    left: 53.1% !important;
 }
 span.al_letter_d:after {
-	left: 54.3% !important;
+    left: 54.3% !important;
 }
 span.al_letter_e:before{
-	left: 57.8% !important;
+    left: 57.5% !important;
 }
 span.al_letter_e:after {
-	    left: 56.5% !important;
+        left: 56.5% !important;
 }
 .al_date_text {
     top: 33% !important;
@@ -32,57 +32,57 @@ span.al_letter_e:after {
 }
 
 section.al_second_block {
-	    top: -7px !important;
+        top: -7px !important;
 }
 section.al_second_block:after {
-	    margin-top: 34px !important;
+        margin-top: 34px !important;
 }
 .rotate_kite:before{
-	height: 341px !important;
+    height: 341px !important;
 }
 section.al_fourth_block .al_title_section h2:before {
-	    left: 37% !important;
-	        background: #f1a008 !important;
+        left: 37% !important;
+            background: #f1a008 !important;
 }
 section.al_fourth_block .al_title_section h2:after{
-	right: 37% !important;
-	    background: #f1a008 !important;
+    right: 37% !important;
+        background: #f1a008 !important;
 }
 .al_hamburger_left_block {
-	max-height: 420px !important;
-	min-height: 420px !important;
+    max-height: 420px !important;
+    min-height: 420px !important;
 }
 .al_hamburger_right_block {
-	max-height: 420px !important;
-	min-height: 420px !important;
+    max-height: 420px !important;
+    min-height: 420px !important;
 }
 .al_hamburger_bottom_right_block{
-	max-height: 420px !important;
-	min-height: 420px !important;
+    max-height: 420px !important;
+    min-height: 420px !important;
 }
 .carousel-inner img{
-	height: 100% !important;
+    height: 100% !important;
 }
 h1.al_campus_title{
-	    font-size: 25px !important;
-	        bottom: 450px !important;
+        font-size: 25px !important;
+            bottom: 450px !important;
 }
 h1.al_event_title{
-	font-size: 25px !important;
-	        bottom: 450px !important;
+    font-size: 25px !important;
+            bottom: 450px !important;
 }
 h1.al_aftermovie_title{
-	    font-size: 25px !important;
+        font-size: 25px !important;
 }
 .sidenav .menu-items a{
-	    padding: 8px 8px 32px 0px !important;
-	        font-size: 21px !important;
+        padding: 8px 8px 32px 0px !important;
+            font-size: 21px !important;
 }
 section.al_initiatives_block{
-	    min-height: 100% !important;
+        min-height: 100% !important;
 }
 .line_up_div {
-	-webkit-clip-path: polygon(0% 0%, 100% 0%, 69% 100%, 5% 100%) !important;;
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 69% 100%, 5% 100%) !important;;
     clip-path: polygon(0% 0%, 100% 0%, 69% 100%, 5% 100%) !important;;
     max-width: 613px !important;
     min-width: 613px !important;
@@ -96,7 +96,7 @@ section.al_initiatives_block{
     right: -95px !important;
 }
 .al_pronite_first_wrap{
-	    max-width: 600px !important;
+        max-width: 600px !important;
     min-width: 600px !important;
 }
 .al_pronite_second_wrap {
@@ -117,16 +117,16 @@ section.al_initiatives_block{
 }
 
 .vogue_modal{
-	height: 100vh !important;
+    height: 100vh !important;
 }
 .vogue_arrow_div{
-	    min-height: 100vh !important;
-	    right: -53px !important;
-	    -webkit-clip-path: polygon(60% 0, 100% 0, 100% 100%, 4% 100%) !important;
+        min-height: 100vh !important;
+        right: -53px !important;
+        -webkit-clip-path: polygon(60% 0, 100% 0, 100% 100%, 4% 100%) !important;
     clip-path: polygon(60% 0, 100% 0, 100% 100%, 4% 100%) !important;
 }
 .vogue_div{
-	    -webkit-clip-path:polygon(0% 0, 100% 0, 60% 100%, 0% 100%) !important;
+        -webkit-clip-path:polygon(0% 0, 100% 0, 60% 100%, 0% 100%) !important;
     clip-path: polygon(0% 0, 100% 0, 60% 100%, 0% 100%) !important;
     left: -175px !important;
     max-width: 770px !important;
@@ -134,7 +134,7 @@ section.al_initiatives_block{
 }
 
 .vogue_title{
-	    padding: 15em 9em 0em 15em !important;
+        padding: 15em 9em 0em 15em !important;
 }
 .vogue_title h3{
 font-size: 30px !important;
@@ -142,32 +142,32 @@ font-size: 30px !important;
 }
 
 .vogue_title p{
-	    font-size: 16px !important;
+        font-size: 16px !important;
 }
 .al_vogue_first_wrap{
-	    max-width: 750px !important;
+        max-width: 750px !important;
     min-width: 750px !important;
 }
 .al_vogue_first{
-	    height: 100vh !important;
+        height: 100vh !important;
 }
 .al_vogue_first:after{
-	height: 100vh !important;
-	background-size: cover !important;
+    height: 100vh !important;
+    background-size: cover !important;
 }
 .al_vogue_first:after {
     -webkit-clip-path:polygon(44% 0, 100% 0%, 80% 100%, 4% 100%) !important;
     clip-path: polygon(44% 0, 100% 0%, 80% 100%, 4% 100%) !important
 }
 .al_vogue_second_wrap{
-	    max-width: 750px !important;
+        max-width: 750px !important;
     min-width: 750px !important;
 }
 .al_vogue_second{
-	    height: 100vh !important;
+        height: 100vh !important;
 }
 .al_vogue_second:after{
-	height: 100vh !important;
+    height: 100vh !important;
     background-size: cover !important;
 }
 .al_vogue_second:after {
@@ -182,746 +182,82 @@ font-size: 30px !important;
 
 
    .al_vogue_third{
-   	    height: 100vh !important;
+        height: 100vh !important;
    }
    .al_vogue_third:after{
-   	height: 100vh !important;
-   	background-size: cover !important;
-   	background-position: center left -263%;
-   	-webkit-clip-path: polygon(44% 0, 107% 0%, 70% 100%, 2% 100%) !important;
+    height: 100vh !important;
+    background-size: cover !important;
+    background-position: center left -263%;
+    -webkit-clip-path: polygon(44% 0, 107% 0%, 70% 100%, 2% 100%) !important;
     clip-path: polygon(44% 0, 107% 0%, 70% 100%, 2% 100%) !important;
    }
    .al_vogue_four_wrap {
-   	max-width: 750px !important;
+    max-width: 750px !important;
     min-width: 750px !important;
    }
    .al_vogue_four{
-   	height: 100vh !important;
+    height: 100vh !important;
    }
    .al_vogue_four:after{
-   	    height: 100vh !important;
+        height: 100vh !important;
    }
    .al_vogue_four:after {
     -webkit-clip-path: polygon(36% 0, 100% 0, 68% 100%, 2% 101%) !important;
     clip-path: polygon(36% 0, 100% 0, 68% 100%, 2% 101%) !important;
 }
 .vogueslide .nav-btn{
-	height: 70px !important;
-	width: 70px !important;
-	top: 88%!important;
+    height: 70px !important;
+    width: 70px !important;
+    top: 88%!important;
 }
 .vogueslide .next-slide{
-	    right: 280px !important;
+        right: 280px !important;
 }
 }
+
+@media only screen and (max-width: 1295px) { 
+span.al_letter_g:before{
+        top: 26px !important;
+    left: 36.2% !important;
+}
+span.al_letter_g:after{
+    left: 37.5% !important;
+}
+span.al_letter_a:after{
+        left: 42.3% !important;
+}
+span.al_letter_d:after{
+    left: 56.2% !important;
+}
+span.al_letter_d:before{
+    left: 54% !important;
+}
+span.al_letter_e:after{
+    width: 52px !important;
+    height: 52px !important;
+    top: 43px !important;
+    left: 59.5% !important;
+}
+span.al_letter_e:before{
+        width: 17px !important;
+    height: 15px !important;
+    top: 44px !important;
+    left: 60.9% !important;
+}
+section.al_second_block:after{
+        margin-top: 33px !important;
+}
+.rotate_kite:before{
+    height: 304px !important;
+}
+
+}
+
 /* iPhone 6, 7, & 8 Plus in portrait & landscape ************************/
 @media only screen 
 and (min-device-width : 414px) 
 and (max-device-width : 736px) {
 
-.al_left_metro_layout {
-    display: none !important;
-}
-.al_side_menu {
-    width: 100% !important;;
-}
-.al_sky .sky_second {
-    display: none !important;
-}
-.al_nav{
-	display: none;
-}
-.al_login{
-	display: none;
-}
-
-section.al_first_block{
-	height: 450px !important;
-}
-.gala-top span{
-	font-size: 43px !important;
-}
-
-span.al_letter_a:after {
-	width: 9px !important;
-    height: 20px !important;
-    top: 38px !important;
-    left: 35.1% !important;
-}
-span.al_letter_g:before{
-	width: 26px !important;
-    height: 52px !important;
-    top: 15px !important;
-    left: 26% !important;
-}
-span.al_letter_g:after{
-	width: 26px !important;
-    height: 52px !important;
-    top: 28px !important;
-    left: 28% !important;
-}
-
-span.al_letter_l:before{
-	width: 60px !important;
-    height: 60px !important;
-    top: -26px !important;
-    left: 33% !important;
-}
-
-span.al_letter_d:before{
-	width: 52px !important;
-    height: 125px !important;
-    top: -14px !important;
-    left: 57.4% !important;
-}
-span.al_letter_d:after{
-	width: 8px !important;
-    height: 20px !important;
-    top: 35px !important;
-    left: 61.1% !important;
-}
-span.al_letter_e:before{
-	width: 8px !important;
-    height: 15px !important;
-    top: 24px !important;
-    left: 69.8% !important;
-}
-span.al_letter_e:after{
-	width: 28px !important;
-    height: 51px !important;
-    top: 24px !important;
-    left: 67.2% !important;
-}
-.janeiro-top span{
-	font-size: 43px !important;
-}
-.gala-top:before{
-	    width: 210px !important;
-	    top: 50px !important;
-}
-.janeiro-top:before{
-	    width: 190px !important;
-	    top: 98px !important;
-}
-.janeiro-top:after{
-	    width: 230px !important;
-	    top: 104px !important;
-}
-
-span.al_letter_n:before {
-	width: 57px !important;
-    height: 51px !important;
-    top: 0px !important;
-    left: -50.8% !important;
-}
-@keyframes example2{    
-    0%   { left:-40%; top:-7px;}
-    100%  { left:0%; top:-7px;}
-}
-span.al_letter_n:after{
-	width: 22px !important;
-    height: 45px !important;
-    top: -7px !important;
-    left: 20.2% !important;
-    animation-name: example2 !important;
-    animation-duration: 2s !important;
-    animation-timing-function: ease-in-out !important;
-    animation-delay: 0.5s !important;
-    animation-iteration-count: infinite !important;
-    animation-direction: alternate !important;
-}
-
-span.al_letter_o:before{
-	width: 34px !important;
-    height: 51px !important;
-    top: -5px !important;
-    left: 40.2% !important;
-}
-span.al_letter_o:after{
-	width: 10px !important;
-    height: 20px !important;
-    top: 9px !important;
-    left: 74.2% !important;
-}
-.al_gala_de_title_block{
-	width: 100% !important;
-    margin: 265px auto !important;
-}
-a#menu-button{
-	position: absolute !important;
-    right: 0 !important;
-margin-top: -65px !important;
-}
-
-.al_left_coconut_tree{
-	bottom: 159px !important;
-    margin-left: 2px !important;
-}
-.al_left_coconut_tree img {
-    max-width: 40px !important;
-    max-height: 70px !important;
-    margin-top: 63px !important;
-    margin-left: 33px !important;
-}
-
-.al_right_coconut_tree{
-	    margin-right: 52px !important;
-}
-.al_right_coconut_tree:before{
-	    top: 144px !important;
-}
-.al_right_coconut_tree img{
-    max-width: 40px !important;
-    max-height: 70px !important;
-    margin-top: 75px !important;
-}
-
-.al_date_text{
-	top: 52% !important;
-    width: 50% !important;
-    right: 30px !important;
-}
-
-section.al_second_block .al_title_alcheringa img {
-	width: 100%;
-}
-section.al_second_block:after{
-	    margin-top: 33px !important;
-}
-
-.al_second_block_right_floating{
-    top: 54% !important;
-}
-.rotate_kite:before{
-	height: 260px !important;
-}
-section.al_third_block{
-	padding: 5em 0 !important;
-    height: 630px !important;
-    background-size: 205% !important;
-}
-section.al_third_block .al_title_section{
-	width: 60% !important;
-}
-section.al_second_block:after {
-	    margin-top: 33px !important;
-}
-img.al_wing{
-	top: 55px !important;
-    left: 21% !important;
-    max-width: 50px !important;
-}
-section.al_third_block .al_title_section h2{
-	font-size: 33px !important;
-}
-section.al_third_block .al_title_section h2:before{
-	left: 25% !important;
-    top: 124px !important;
-    height: 5px !important;
-}
-section.al_third_block .al_title_section h2:after{
-	right: 24% !important;
-    top: 124px !important;
-    height: 5px !important;
-}
-.rocket_stars{
-	display: none !important;
-}
-.al_title_sub_text{
-	width: 100% !important;
-	    padding: 50px 50px !important;
-}
-.al_left_horse_move{
-	left: -100px !important;
-}
-.al_left_horse_move img{
-	    width: 200px !important;
-}
-.al_right_horse_move{
-	right: -98px !important;
-}
-.al_right_horse_move img {
-    width: 200px !important;
-}
-
-section.al_fourth_block .al_title_section{
-	width: 80% !important;
-}
-section.al_fourth_block .al_title_section h2{
-	font-size: 40px !important;
-	line-height: 34px !important;
-    text-transform: uppercase !important;
-}
-section.al_fourth_block {
-	height: 100% !important;
-}
-li.first_ballon{
-	display: none !important;
-}
-li.third_ballon{
-	display: none !important;
-}
-li.second_ballon {
-    margin-top: 0px !important;
-    margin-left: -23px !important;
-}
-section.al_fourth_block .al_title_section h2:before{
-	    height: 6px !important;
-	    left: 16% !important;
-	    top: 161px !important;
-}
-section.al_fourth_block .al_title_section h2:after{
-	  height: 3px !important;
-	  right: 15% !important;
-	  top: 161px !important;
-}
-.al_featured_row{
-	width: 100% !important;
-}
-.al_shap_back_first{
-	    width: 130px !important;
-    height: 130px !important;
-}
-.rock_finger{
-	width: 50px !important;
-    height: 75px !important;
-    top: 34px !important;
-}
-.al_shap_second_wrap {
-	    max-height: 126px !important;
-    min-height: 126px !important;
-}
-.al_shap_back_second{
-	    width: 130px !important;
-    height: 125px !important;
-    margin-top: -3px !important;
-}
-.debate{
-	    top: 35px !important;
-	    height: 62px !important;
-}
-.al_shap_back_third{
-	    width: 135px !important;
-    height: 130px !important;
-    margin-top: 50px !important;
-}
-.vogue{
-	top: 95px !important;
-	    height: 60px !important;
-}
-.al_shap_back_forth{
-		    width: 130px !important;
-    height: 130px !important;
-    margin-top: 48px !important;
-}
-.northeast{
-	top: 77px !important;
-	    height: 58px !important;
-}
-section.al_fift_block .al_title_section{
-	width: 80% !important;
-}
-section.al_fift_block .al_title_section h2 {
-	    font-size: 40px !important;
-	        line-height: 34px !important;
-}
-section.al_fift_block .al_title_section h2:before{
-	height: 5px !important;
-	    left: 19% !important;
-    top: 112px !important;
-}
-section.al_fift_block .al_title_section h2:after{
-    height: 5px !important;
-	right: 15% !important;
-    top: 112px !important;
-}
-.al_comedy_back_first{
-	width: 160px !important;
-    height: 150px !important;
-}
-.al_rap_back_first {
-	width: 160px !important;
-    height: 150px !important;
-}
-.al_creator_back_first{
-	    width: 160px !important;
-    height: 150px !important;
-}
-.al_inform_back_first{
-	width: 160px !important;
-    height: 150px !important;
-}
-ul.al_footer_contact_details{
-        columns: 1 !important;
-}
-.footer_widget_title h2 {
-        text-align: left !important;
-}
-ul.al_footer_contact_details li {
-    margin-bottom: 16px !important;
-}
-.al_footer_logo_social {
-    padding: 2em 0px !important;
-}
-
-}
-
-
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-.al_left_metro_layout {
-    display: none !important;
-}
-.al_side_menu {
-    width: 100% !important;;
-}
-.al_sky .sky_second {
-    display: none !important;
-}
-.al_nav{
-    display: none;
-}
-.al_login{
-    display: none;
-}
-
-section.al_first_block{
-    height: 370px !important;
-}
-.gala-top span{
-    font-size: 43px !important;
-}
-
-span.al_letter_a:after {
-    width: 9px !important;
-    height: 20px !important;
-    top: 38px !important;
-    left: 33.1% !important;
-}
-span.al_letter_g:before{
-    width: 26px !important;
-    height: 52px !important;
-    top: 16px !important;
-    left: 23% !important;
-}
-span.al_letter_g:after{
-    width: 26px !important;
-    height: 52px !important;
-top: 28px !important;
-    left: 25% !important
-}
-
-span.al_letter_l:before{
-    width: 60px !important;
-    height: 60px !important;
-    top: -26px !important;
-    left: 33% !important;
-}
-
-span.al_letter_d:before{
-    width: 51px !important;
-    height: 125px !important;
-    top: -15px !important;
-    left: 59.4% !important;
-}
-span.al_letter_d:after{
-   width: 8px !important;
-    height: 20px !important;
-    top: 35px !important;
-    left: 63.1% !important;
-}
-span.al_letter_e:before{
-    width: 8px !important;
-    height: 15px !important;
-    top: 24px !important;
-    left: 72.8% !important;
-}
-span.al_letter_e:after{
-    width: 28px !important;
-    height: 51px !important;
-    top: 24px !important;
-left: 70.2% !important;
-}
-.janeiro-top span{
-    font-size: 43px !important;
-}
-.gala-top:before{
-        width: 210px !important;
-        top: 50px !important;
-}
-.janeiro-top:before{
-        width: 190px !important;
-        top: 98px !important;
-}
-.janeiro-top:after{
-        width: 230px !important;
-        top: 104px !important;
-}
-
-span.al_letter_n:before {
-    width: 57px !important;
-    height: 51px !important;
-    top: 0px !important;
-    left: -50.8% !important;
-}
-span.al_letter_n:after{
-    width: 22px !important;
-    height: 45px !important;
-    top: -7px !important;
-    left: 20.2% !important;
-}
-
-span.al_letter_o:before{
-    width: 34px !important;
-    height: 51px !important;
-    top: -5px !important;
-    left: 40.2% !important;
-}
-span.al_letter_o:after{
-    width: 10px !important;
-    height: 20px !important;
-    top: 9px !important;
-    left: 74.2% !important;
-}
-.al_gala_de_title_block{
-    width: 100% !important;
-    margin: 265px auto !important;
-}
-a#menu-button{
-    position: absolute !important;
-    right: 0 !important;
-margin-top: -65px !important;
-}
-
-.al_left_coconut_tree{
-    bottom: 159px !important;
-    margin-left: 0px !important;
-}
-.al_left_coconut_tree:before{
-        left: 53px !important;
-}
-.al_left_coconut_tree img {
-    max-width: 40px !important;
-    max-height: 70px !important;
-    margin-top: 63px !important;
-    margin-left: 33px !important;
-}
-
-.al_right_coconut_tree{
-        margin-right: 26px !important;
-    bottom: 174px !important;
-}
-.al_right_coconut_tree:before{
-        top: 144px !important;
-}
-.al_right_coconut_tree img{
-    max-width: 40px !important;
-    max-height: 70px !important;
-    margin-top: 75px !important;
-}
-
-.al_date_text{
-    top: 52% !important;
-    width: 50% !important;
-    right: 52px !important;
-}
-
-section.al_second_block .al_title_alcheringa img {
-    width: 100%;
-}
-section.al_second_block:after{
-        margin-top: 33px !important;
-}
-
-.al_second_block_right_floating{
-    top: 54% !important;
-}
-.rotate_kite:before{
-    height: 298px !important;
-}
-section.al_third_block{
-    padding: 5em 0 !important;
-    height: 630px !important;
-    background-size: 205% !important;
-}
-section.al_third_block .al_title_section{
-    width: 80% !important;
-}
-section.al_second_block:after {
-        margin-top: 33px !important;
-}
-img.al_wing{
-    top: 55px !important;
-    left: 16% !important;
-    max-width: 50px !important;
-}
-section.al_third_block .al_title_section h2{
-    font-size: 33px !important;
-}
-section.al_third_block .al_title_section h2:before{
-    left: 25% !important;
-    top: 124px !important;
-    height: 5px !important;
-}
-section.al_third_block .al_title_section h2:after{
-    right: 24% !important;
-    top: 124px !important;
-    height: 5px !important;
-}
-.rocket_stars{
-    display: none !important;
-}
-.al_title_sub_text{
-    width: 100% !important;
-        padding: 50px 50px !important;
-}
-.al_left_horse_move{
-    left: -100px !important;
-}
-.al_left_horse_move img{
-        width: 200px !important;
-}
-.al_right_horse_move{
-    right: -98px !important;
-}
-.al_right_horse_move img {
-    width: 200px !important;
-}
-
-section.al_fourth_block .al_title_section{
-    width: 80% !important;
-}
-section.al_fourth_block .al_title_section h2{
-    font-size: 40px !important;
-    line-height: 34px !important;
-    text-transform: uppercase !important;
-}
-section.al_fourth_block {
-    height: 100% !important;
-}
-li.first_ballon{
-    display: none !important;
-}
-li.third_ballon{
-    display: none !important;
-}
-li.second_ballon {
-    margin-top: 0px !important;
-    margin-left: -23px !important;
-}
-section.al_fourth_block .al_title_section h2:before{
-        height: 6px !important;
-        left: 16% !important;
-        top: 161px !important;
-}
-section.al_fourth_block .al_title_section h2:after{
-      height: 3px !important;
-      right: 15% !important;
-      top: 161px !important;
-}
-.al_featured_row{
-    width: 100% !important;
-}
-.al_shap_back_first{
-        width: 130px !important;
-    height: 130px !important;
-}
-.rock_finger{
-    width: 50px !important;
-    height: 75px !important;
-    top: 34px !important;
-}
-.al_shap_second_wrap {
-        max-height: 126px !important;
-    min-height: 126px !important;
-}
-.al_shap_back_second{
-        width: 130px !important;
-    height: 125px !important;
-    margin-top: -3px !important;
-}
-.debate{
-        top: 35px !important;
-        height: 62px !important;
-}
-.al_shap_back_third{
-        width: 135px !important;
-    height: 130px !important;
-    margin-top: 50px !important;
-}
-.vogue{
-    top: 95px !important;
-        height: 60px !important;
-}
-.al_shap_back_forth{
-            width: 130px !important;
-    height: 130px !important;
-    margin-top: 48px !important;
-}
-.northeast{
-    top: 77px !important;
-        height: 58px !important;
-}
-section.al_fift_block .al_title_section{
-    width: 80% !important;
-}
-section.al_fift_block .al_title_section h2 {
-        font-size: 40px !important;
-            line-height: 34px !important;
-}
-section.al_fift_block .al_title_section h2:before{
-    height: 5px !important;
-        left: 19% !important;
-    top: 112px !important;
-}
-section.al_fift_block .al_title_section h2:after{
-    height: 5px !important;
-    right: 15% !important;
-    top: 112px !important;
-}
-.al_comedy_back_first{
-    width: 160px !important;
-    height: 150px !important;
-}
-.al_rap_back_first {
-    width: 160px !important;
-    height: 150px !important;
-}
-.al_creator_back_first{
-        width: 160px !important;
-    height: 150px !important;
-}
-.al_inform_back_first{
-    width: 160px !important;
-    height: 150px !important;
-}
-ul.al_footer_contact_details{
-        columns: 1 !important;
-}
-.footer_widget_title h2 {
-        text-align: left !important;
-}
-ul.al_footer_contact_details li {
-    margin-bottom: 16px !important;
-}
-.al_footer_logo_social {
-    padding: 2em 0px !important;
-}
-}
-
-
-@media only screen and (min-width:361px) and (max-width: 480px) {
-  /* For mobile phones: */
-
-.al_login_register_btn a {
-    padding: 8px 55px !important;
-}
-  .al_container {
-    padding: 15em 0px !important;
-}
-.al_loader_logo img {
-    width: 90% !important;
-}
 .al_left_metro_layout {
     display: none !important;
 }
@@ -1087,6 +423,1441 @@ section.al_second_block:after{
 }
 .rotate_kite:before{
     height: 260px !important;
+}
+section.al_third_block{
+    padding: 5em 0 !important;
+    height: 630px !important;
+    background-size: 205% !important;
+}
+section.al_third_block .al_title_section{
+    width: 60% !important;
+}
+section.al_second_block:after {
+        margin-top: 33px !important;
+}
+img.al_wing{
+    top: 55px !important;
+    left: 21% !important;
+    max-width: 50px !important;
+}
+section.al_third_block .al_title_section h2{
+    font-size: 33px !important;
+}
+section.al_third_block .al_title_section h2:before{
+    left: 25% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+section.al_third_block .al_title_section h2:after{
+    right: 24% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+.rocket_stars{
+    display: none !important;
+}
+.al_title_sub_text{
+    width: 100% !important;
+        padding: 50px 50px !important;
+}
+.al_left_horse_move{
+    left: -100px !important;
+}
+.al_left_horse_move img{
+        width: 200px !important;
+}
+.al_right_horse_move{
+    right: -98px !important;
+}
+.al_right_horse_move img {
+    width: 200px !important;
+}
+
+section.al_fourth_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fourth_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 34px !important;
+    text-transform: uppercase !important;
+}
+section.al_fourth_block {
+    height: 100% !important;
+}
+li.first_ballon{
+    display: none !important;
+}
+li.third_ballon{
+    display: none !important;
+}
+li.second_ballon {
+    margin-top: 0px !important;
+    margin-left: -23px !important;
+}
+section.al_fourth_block .al_title_section h2:before{
+        height: 6px !important;
+        left: 16% !important;
+        top: 161px !important;
+}
+section.al_fourth_block .al_title_section h2:after{
+      height: 3px !important;
+      right: 15% !important;
+      top: 161px !important;
+}
+.al_featured_row{
+    width: 100% !important;
+}
+.al_shap_back_first{
+        width: 130px !important;
+    height: 130px !important;
+}
+.rock_finger{
+    width: 50px !important;
+    height: 75px !important;
+    top: 34px !important;
+}
+.al_shap_second_wrap {
+        max-height: 126px !important;
+    min-height: 126px !important;
+}
+.al_shap_back_second{
+        width: 130px !important;
+    height: 125px !important;
+    margin-top: -3px !important;
+}
+.debate{
+        top: 35px !important;
+        height: 62px !important;
+}
+.al_shap_back_third{
+        width: 135px !important;
+    height: 130px !important;
+    margin-top: 50px !important;
+}
+.vogue{
+    top: 95px !important;
+        height: 60px !important;
+}
+.al_shap_back_forth{
+            width: 130px !important;
+    height: 130px !important;
+    margin-top: 48px !important;
+}
+.northeast{
+    top: 77px !important;
+        height: 58px !important;
+}
+section.al_fift_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fift_block .al_title_section h2 {
+        font-size: 40px !important;
+            line-height: 34px !important;
+}
+section.al_fift_block .al_title_section h2:before{
+    height: 5px !important;
+        left: 19% !important;
+    top: 112px !important;
+}
+section.al_fift_block .al_title_section h2:after{
+    height: 5px !important;
+    right: 15% !important;
+    top: 112px !important;
+}
+.al_comedy_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_rap_back_first {
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_creator_back_first{
+        width: 160px !important;
+    height: 150px !important;
+}
+.al_inform_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+ul.al_footer_contact_details{
+        columns: 1 !important;
+}
+.footer_widget_title h2 {
+        text-align: left !important;
+}
+ul.al_footer_contact_details li {
+    margin-bottom: 16px !important;
+}
+.al_footer_logo_social {
+    padding: 2em 0px !important;
+}
+
+}
+
+
+@media only screen and (max-width: 720px) {
+  /* For mobile phones: */
+.al_left_metro_layout {
+    display: none !important;
+}
+.al_side_menu {
+    width: 100% !important;;
+}
+.al_sky .sky_second {
+    display: none !important;
+}
+.al_nav{
+    display: none;
+}
+.al_login{
+    display: none;
+}
+.al_container{
+    padding: 30em 0 !important;
+}
+.al_loader_logo img{
+    width: 90% !important;
+}
+
+section.al_first_block{
+    height: 400px !important;
+}
+.gala-top span{
+    font-size: 43px !important;
+}
+
+span.al_letter_a:after {
+    width: 9px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 41.6% !important;
+}
+span.al_letter_g:before{
+width: 26px !important;
+    height: 52px !important;
+    top: 13px !important;
+    left: 36.3% !important;
+}
+span.al_letter_g:after{
+    width: 26px !important;
+    height: 52px !important;
+top: 27px !important;
+    left: 37.5% !important;
+}
+
+span.al_letter_l:before{
+    width: 60px !important;
+    height: 60px !important;
+    top: -26px !important;
+    left: 40% !important;
+}
+
+span.al_letter_d:before{
+    width: 51px !important;
+    height: 125px !important;
+top: -17px !important;
+    left: 54.6% !important;
+}
+span.al_letter_d:after{
+width: 9px !important;
+    height: 20px !important;
+    top: 32px !important;
+    left: 56.5% !important;
+}
+span.al_letter_e:before{
+width: 8px !important;
+    height: 15px !important;
+    top: 24px !important;
+    left: 61.4% !important;
+}
+span.al_letter_e:after{
+width: 28px !important;
+    height: 51px !important;
+    top: 22px !important;
+    left: 59.8% !important;
+}
+.janeiro-top span{
+    font-size: 43px !important;
+}
+.gala-top:before{
+        width: 210px !important;
+        top: 50px !important;
+}
+.janeiro-top:before{
+        width: 190px !important;
+        top: 98px !important;
+}
+.janeiro-top:after{
+        width: 230px !important;
+        top: 104px !important;
+}
+
+span.al_letter_n:before {
+    width: 57px !important;
+    height: 51px !important;
+   top: -7px !important;
+    left: -67% !important;
+}
+span.al_letter_n:after{
+    width: 22px !important;
+    height: 45px !important;
+    top: -14px !important;
+    left: 20.2% !important;
+}
+
+span.al_letter_o:before{
+    width: 24px !important;
+    height: 51px !important;
+    top: 2px !important;
+    left: 10% !important;
+
+}
+span.al_letter_o:after{
+    width: 10px !important;
+    height: 20px !important;
+top: 9px !important;
+    left: 35.9% !important;
+}
+.al_gala_de_title_block{
+    width: 100% !important;
+    margin: 265px auto !important;
+}
+a#menu-button{
+    position: absolute !important;
+    right: 0 !important;
+margin-top: -65px !important;
+}
+
+.al_left_coconut_tree{
+    bottom: 159px !important;
+    margin-left: 0px !important;
+}
+.al_left_coconut_tree:before{
+  left: 123px !important;
+}
+.al_left_coconut_tree img {
+max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 63px !important;
+    margin-left: 94px !important;
+}
+
+.al_right_coconut_tree{
+        margin-right: 115px !important;
+    bottom: 174px !important;
+}
+.al_right_coconut_tree:before{
+        top: 144px !important;
+}
+.al_right_coconut_tree img{
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 75px !important;
+}
+
+.al_date_text{
+top: 41% !important;
+    width: 24% !important;
+    right: 52px !important;
+}
+
+section.al_second_block .al_title_alcheringa img {
+    width: 100%;
+}
+section.al_second_block:after{
+        margin-top: 33px !important;
+}
+
+.al_second_block_right_floating{
+    top: 54% !important;
+}
+.rotate_kite:before{
+    height: 218px !important;
+}
+section.al_third_block{
+    padding: 8em 0 !important;
+    height: 630px !important;
+    background-size: 205% !important;
+}
+section.al_third_block .al_title_section{
+    width: 50% !important;
+}
+section.al_second_block:after {
+        margin-top: 33px !important;
+}
+img.al_wing{
+    top: 102px !important;
+    left:33% !important;
+    max-width: 50px !important;
+}
+section.al_third_block .al_title_section h2{
+    font-size: 33px !important;
+}
+section.al_third_block .al_title_section h2:before{
+left: 34% !important;
+    top: 171px !important;
+    height: 5px !important;
+}
+section.al_third_block .al_title_section h2:after{
+    right: 32% !important;
+    top: 171px !important;
+    height: 5px !important;
+}
+.rocket_stars{
+    display: none !important;
+}
+.al_title_sub_text{
+    width: 100% !important;
+        padding: 50px 50px !important;
+}
+.al_left_horse_move{
+    left: -100px !important;
+}
+.al_left_horse_move img{
+        width: 200px !important;
+}
+.al_right_horse_move{
+    right: -98px !important;
+}
+.al_right_horse_move img {
+    width: 200px !important;
+}
+
+section.al_fourth_block .al_title_section{
+    width: 50% !important;
+}
+section.al_fourth_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 34px !important;
+    text-transform: uppercase !important;
+}
+section.al_fourth_block {
+    height: 100% !important;
+}
+li.first_ballon{
+    display: none !important;
+}
+li.third_ballon{
+    display: none !important;
+}
+li.second_ballon {
+    margin-top: 0px !important;
+    margin-left: 108px !important;
+}
+li.forth_ballon {
+    right: 0% !important;
+}
+section.al_fourth_block .al_title_section h2:before{
+        height: 6px !important;
+        left: 30% !important;
+        top: 161px !important;
+}
+section.al_fourth_block .al_title_section h2:after{
+      height: 3px !important;
+      right: 15% !important;
+      top: 161px !important;
+}
+.al_featured_row{
+    width: 100% !important;
+}
+.al_shap_back_first{
+        width: 130px !important;
+    height: 130px !important;
+}
+.rock_finger{
+    width: 50px !important;
+    height: 75px !important;
+    top: 34px !important;
+}
+.al_shap_second_wrap {
+        max-height: 126px !important;
+    min-height: 126px !important;
+}
+.al_shap_back_second{
+        width: 130px !important;
+    height: 125px !important;
+    margin-top: -3px !important;
+}
+.debate{
+        top: 35px !important;
+        height: 62px !important;
+}
+.al_shap_back_third{
+        width: 135px !important;
+    height: 130px !important;
+    margin-top: 50px !important;
+}
+.vogue{
+    top: 95px !important;
+        height: 60px !important;
+}
+.al_shap_back_forth{
+            width: 130px !important;
+    height: 130px !important;
+    margin-top: 48px !important;
+}
+.northeast{
+    top: 77px !important;
+        height: 58px !important;
+}
+section.al_fift_block .al_title_section{
+    width: 50% !important;
+}
+section.al_fift_block .al_title_section h2 {
+        font-size: 40px !important;
+            line-height: 34px !important;
+}
+section.al_fift_block .al_title_section h2:before{
+    height: 5px !important;
+        left: 33% !important;
+    top: 112px !important;
+}
+section.al_fift_block .al_title_section h2:after{
+    height: 5px !important;
+    right: 33% !important;
+    top: 112px !important;
+}
+.al_comedy_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_rap_back_first {
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_creator_back_first{
+        width: 160px !important;
+    height: 150px !important;
+}
+.al_inform_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+
+section.al_register{
+    background-size: cover !important;
+}
+.register_text_block{
+    padding: 9em 4em !important;
+}
+.al_register_block form {
+    padding: 10em 5em 10em 5em !important;
+}
+
+ul.al_footer_contact_details{
+        columns: 1 !important;
+}
+.footer_widget_title h2 {
+        text-align: left !important;
+}
+ul.al_footer_contact_details li {
+    margin-bottom: 16px !important;
+}
+.al_footer_logo_social {
+    padding: 2em 0px !important;
+}
+}
+
+
+@media only screen and (min-width:321px) and (max-width: 360px) {
+.al_login_register_btn a {
+    padding: 8px 55px !important;
+}
+  .al_container {
+    padding: 15em 0px !important;
+}
+.al_loader_logo img {
+    width: 90% !important;
+}
+.al_left_metro_layout {
+    display: none !important;
+}
+.al_side_menu {
+    width: 100% !important;;
+}
+.al_sky .sky_second {
+    display: none !important;
+}
+.al_nav{
+    display: none;
+}
+.al_login{
+    display: none;
+}
+
+section.al_first_block{
+    height: 450px !important;
+}
+.gala-top span{
+    font-size: 43px !important;
+}
+
+span.al_letter_a:after {
+    width: 9px !important;
+    height: 20px !important;
+top: 35px !important;
+    left: 33% !important;
+}
+span.al_letter_g:before{
+width: 26px !important;
+    height: 52px !important;
+    top: 15px !important;
+    left: 23% !important;
+}
+span.al_letter_g:after{
+width: 26px !important;
+    height: 52px !important;
+    top: 26px !important;
+    left: 25% !important;
+}
+
+span.al_letter_l:before{
+    width: 60px !important;
+    height: 60px !important;
+    top: -26px !important;
+    left: 33% !important;
+}
+
+span.al_letter_d:before{
+    width: 52px !important;
+    height: 125px !important;
+        top: -21px !important;
+    left: 59.4% !important;
+}
+span.al_letter_d:after{
+    width: 8px !important;
+    height: 20px !important;
+top: 32px !important;
+    left: 63.1% !important;
+}
+span.al_letter_e:before{
+    width: 8px !important;
+    height: 15px !important;
+    top: 23px !important;
+    left: 72.8% !important;
+}
+span.al_letter_e:after{
+    width: 28px !important;
+    height: 51px !important;
+top: 22px !important;
+    left: 69.7% !important;
+}
+.janeiro-top span{
+    font-size: 43px !important;
+}
+.gala-top:before{
+        width: 210px !important;
+        top: 50px !important;
+}
+.janeiro-top:before{
+        width: 190px !important;
+        top: 98px !important;
+}
+.janeiro-top:after{
+        width: 230px !important;
+        top: 104px !important;
+}
+
+span.al_letter_n:before {
+    width: 57px !important;
+    height: 51px !important;
+top: -4px !important;
+    left: -66.8% !important;
+}
+span.al_letter_n:after{
+    width: 22px !important;
+    height: 45px !important;
+top: -11px !important;
+    left: 20.2% !important;
+}
+
+span.al_letter_o:before{
+width: 26px !important;
+    height: 51px !important;
+    top: 1px !important;
+    left: 9% !important;
+}
+span.al_letter_o:after{
+    width: 10px !important;
+    height: 20px !important;
+    top: 9px !important;
+    left: 38.2% !important;
+}
+.al_gala_de_title_block{
+    width: 100% !important;
+    margin: 265px auto !important;
+}
+a#menu-button{
+    position: absolute !important;
+    right: 0 !important;
+margin-top: -65px !important;
+}
+
+.al_left_coconut_tree{
+    bottom: 159px !important;
+margin-left: -23px !important;
+}
+.al_left_coconut_tree img {
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 63px !important;
+margin-left: 38px !important;
+}
+.al_left_coconut_tree:before {
+        left: 54px !important;
+}
+
+.al_right_coconut_tree{
+        margin-right: 20px !important;
+}
+.al_right_coconut_tree:before{
+        top: 144px !important;
+}
+.al_right_coconut_tree img{
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 75px !important;
+}
+
+.al_date_text{
+    top: 52% !important;
+        width: 50% !important;
+    right: 45px !important;
+}
+
+section.al_second_block .al_title_alcheringa img {
+    width: 100%;
+}
+section.al_second_block:after{
+        margin-top: 33px !important;
+}
+
+.al_second_block_right_floating{
+    top: 54% !important;
+}
+.rotate_kite:before{
+    height: 297px !important;
+}
+section.al_third_block{
+    padding: 5em 0 !important;
+    height: 630px !important;
+    background-size: 205% !important;
+}
+section.al_third_block .al_title_section{
+    width: 60% !important;
+}
+section.al_second_block:after {
+        margin-top: 33px !important;
+}
+img.al_wing{
+top: 47px !important;
+    left: 15% !important;
+    max-width: 50px !important;
+}
+section.al_third_block .al_title_section h2{
+    font-size: 33px !important;
+}
+section.al_third_block .al_title_section h2:before{
+    left: 25% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+section.al_third_block .al_title_section h2:after{
+    right: 24% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+.rocket_stars{
+    display: none !important;
+}
+.al_title_sub_text{
+    width: 100% !important;
+        padding: 50px 50px !important;
+}
+.al_left_horse_move{
+    left: -100px !important;
+}
+.al_left_horse_move img{
+        width: 200px !important;
+}
+.al_right_horse_move{
+    right: -98px !important;
+}
+.al_right_horse_move img {
+    width: 200px !important;
+}
+
+section.al_fourth_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fourth_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 34px !important;
+    text-transform: uppercase !important;
+}
+section.al_fourth_block {
+    height: 100% !important;
+}
+li.first_ballon{
+    display: none !important;
+}
+li.third_ballon{
+    display: none !important;
+}
+li.second_ballon {
+margin-top: -27px !important;
+    margin-left: -23px !important;
+}
+section.al_fourth_block .al_title_section h2:before{
+        height: 6px !important;
+        left: 16% !important;
+        top: 161px !important;
+}
+section.al_fourth_block .al_title_section h2:after{
+      height: 3px !important;
+      right: 15% !important;
+      top: 161px !important;
+}
+.al_featured_row{
+    width: 100% !important;
+}
+.al_shap_back_first{
+        width: 130px !important;
+    height: 130px !important;
+}
+.rock_finger{
+    width: 50px !important;
+    height: 75px !important;
+    top: 34px !important;
+}
+.al_shap_second_wrap {
+        max-height: 126px !important;
+    min-height: 126px !important;
+}
+.al_shap_back_second{
+        width: 130px !important;
+    height: 125px !important;
+    margin-top: -3px !important;
+}
+.debate{
+        top: 35px !important;
+        height: 62px !important;
+}
+.al_shap_back_third{
+        width: 135px !important;
+    height: 130px !important;
+    margin-top: 50px !important;
+}
+.vogue{
+    top: 95px !important;
+        height: 60px !important;
+}
+.al_shap_back_forth{
+            width: 130px !important;
+    height: 130px !important;
+    margin-top: 48px !important;
+}
+.northeast{
+    top: 77px !important;
+        height: 58px !important;
+}
+section.al_fift_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fift_block .al_title_section h2 {
+        font-size: 40px !important;
+            line-height: 34px !important;
+}
+section.al_fift_block .al_title_section h2:before{
+    height: 5px !important;
+        left: 19% !important;
+    top: 112px !important;
+}
+section.al_fift_block .al_title_section h2:after{
+    height: 5px !important;
+    right: 15% !important;
+    top: 112px !important;
+}
+.al_comedy_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_rap_back_first {
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_creator_back_first{
+        width: 160px !important;
+    height: 150px !important;
+}
+.al_inform_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+
+section.al_project_block .al_project_title_section {
+    width: 90% !important;
+}
+.al_project_title_section .al_project_title_alcheringa h2{
+        font-size: 35px !important;
+        line-height: 50px !important;
+        text-transform: lowercase !important;
+}
+.al_project_text_block{
+    width: 90% !important;
+}
+section.al_northeast_block .al_title_section h2{
+    font-size: 35px !important;
+    border-bottom: 0px solid #1d1932 !important; 
+    line-height: 50px !important;
+    text-transform: lowercase !important;
+}
+.al_title_above_sky{
+    display: none;
+}
+a.al_read_more_btn{
+    padding-bottom: 25px;
+}
+section.al_ne_register_block{
+        padding: 2em 0em 2em 0em !important;
+}
+.register_action_inner h2{
+    font-size: 20px !important;
+}
+section.al_udaan_block{
+        padding: 2em 0em 0em 0em !important;
+}
+section.al_udaan_block .al_title_section{
+        width: 60% !important;
+}
+section.al_udaan_block .al_title_section h2{
+        font-size: 37px !important;
+            line-height: 35px !important;
+    text-transform: lowercase !important;
+}
+.al_ne_text_block{
+    padding: 3em 0 !important;
+}
+.al_blank_box{
+        margin-bottom: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2:before{
+    top: 118px !important;
+    height: 5px !important;
+    left: 19% !important;
+}
+section.al_initiatives_block .al_title_section h2:after{
+    height: 4px !important;
+    right: 20% !important;
+    top: 119px !important;
+}
+section.al_initiatives_block .al_title_section{
+    width: 70% !important;
+}
+
+section.al_modules_block .al_title_section {
+    width: 70% !important;
+    margin-bottom: 65px !important;
+}
+section.al_modules_block .al_title_section h2 {
+    font-size: 40px !important;
+    line-height: 35px !important;
+}
+.al_modules_row{
+    padding-top: 0em !important;
+}
+.al_mod_second_block_right_floating{
+right: 70px !important;
+    top: 68.5% !important;
+}
+section.al_pronites_block .al_title_section{
+        width: 65% !important;
+}
+section.al_pronites_block .al_title_section h2{
+    font-size: 45px !important;
+    line-height: 45px !important;
+}
+
+section.al_pronites_block .al_title_section h2:before{
+        height: 5px !important;
+        left: 21% !important;
+        top: 156px !important;
+}
+section.al_pronites_block .al_title_section h2:after{
+            height: 5px !important;
+            right: 19% !important;
+                top: 156px !important;
+}
+.line_up_div {
+max-height: 60px !important;
+    min-height: 60px !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: #1d1a33 !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    margin-bottom: 40px;
+}
+.line_up_title h3{
+        font-size: 25px !important;
+}
+.al_lineup_block{
+    padding: 2em 0 !important;
+}
+.line_up_title{
+    padding: 0px !important;
+}
+
+section.al_pronites_block .arrow_div {
+display: none;
+}
+.pronites{
+    margin-left: 0px !important;
+}
+.pronites .next-slide{
+        right: 40px !important;
+}
+.pronites .nav-btn{
+        top: 460px !important;
+}
+
+section.al_proshows_block .al_title_section {
+    width: 90% !important;
+        padding: 4em 0 !important;
+}
+section.al_proshows_block .al_title_section h2 {
+        font-size: 40px !important;
+        line-height: 38px !important;
+}
+.al_coming_soon h2{
+    font-size: 35px !important;
+}
+.vogue_arrow_div {
+    display: none;
+}
+.vogue_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.vogue_title {
+        padding: 2em 2em 2em 2em !important;
+}
+.vogue_title h3 {
+        font-size: 23px !important;
+            line-height: 40px !important;
+}
+.vogue_title h3:before{
+        max-width: 140px !important;
+    min-width: 140px !important;
+    left: 60px !important;
+}
+.vogueslide {
+    left: -35% !important;
+}
+.vogueslide a{
+bottom: 50px !important;
+    right: -22px !important;
+    padding: 4px 24px !important;
+    font-size: 17px !important;
+}
+.vogueslide .owl-nav {
+    display: none;
+}
+.al_vogue_first_wrap {
+        max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_vogue_first{
+        height: 352px !important;
+}
+.al_vogue_first:after{
+    height: 352px !important;
+}
+
+.al_vogue_second_wrap {
+        max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_vogue_second{
+    height: 352px !important;
+}
+.al_vogue_second:after{
+    height: 352px !important;
+}
+
+.al_vogue_third_wrap {
+        max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_vogue_third{
+    height: 352px !important;
+}
+.al_vogue_third:after{
+    height: 352px !important;
+}
+.al_vogue_four{
+    height: 352px !important;
+}
+.al_vogue_four:after {
+    -webkit-clip-path: polygon(25% 0, 51% 0%, 9% 149%, -9% 100%) !important;
+    clip-path: polygon(25% 0, 51% 0%, 9% 149%, -9% 100%) !important; 
+}
+
+.al_vogue_five {
+    height: 352px !important;
+}
+.al_vogue_five:after{
+   height: 352px !important;
+}
+.vogue_inside_right_div {
+        display: none !important;
+}
+.vogue_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.modal-header .close {
+    margin: 1rem 0rem -1rem auto !important;
+}
+.al_vertical_tab .nav-link {
+    margin-bottom: 5px !important;
+    margin-left: 80px !important;
+    margin-right: 80px !important;
+    padding: 4px 0px !important;
+    font-size: 18px !important;
+}
+.vogue_inside_title{
+    padding: 40px 0px !important;
+}
+.vogue_inside_title h3{
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.vogue_inside_title h3:before{
+        left: 77px !important;
+}
+.al_gm_text_block{
+        margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+.al_custom_nav_tab{
+    display: block;
+}
+
+.nav-tabs .nav-link {
+        font-size: 15px !important;
+    padding: 0px 10px 0px 0px !important;
+}
+.sidenav .menu-items a{
+        padding: 8px 8px 8px 45px !important;
+}
+.gc_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgb(38, 35, 57) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.gc_title{
+        padding: 2em 0em 0px 2em !important;
+}
+
+.gc_right_div {
+        max-width: 600px !important;
+    min-width: 600px !important;
+    position: absolute !important;
+    z-index: 99 !important;
+    right: 4px !important;
+}
+
+section.al_highway_block .al_title_section .al_title_alcheringa h2 {
+        font-size: 50px !important;
+}
+.al_high_date_text{
+    width: 80% !important;
+    right: 40% !important;
+}
+.al_high_date_text div{
+    font-size: 17px !important;
+}
+.al_high_thirty_january:before {
+    top: 28px !important;
+}
+.al_high_second_february:after{
+        top: 79px !important;
+}
+.al_location_title_section .al_location_title_alcheringa h2 {
+    font-size: 40px !important;
+}
+.al_location_title_section {
+        width: 100% !important;
+}
+.al_l1_back_first {
+    width: 140px !important;
+    height: 140px !important;
+}
+
+.al_l2_back_first{
+width: 154px !important;
+    height: 130px !important;
+}
+.al_l3_back_first {
+         width: 160px !important;
+    height: 120px !important;
+}
+
+.al_l4_back_first{
+    width: 160px !important;
+    height: 130px !important;
+}
+.al_l5_back_first {
+  width: 180px !important;
+    height: 140px !important;
+}
+.al_l6_back_first{
+        width: 120px !important;
+    height: 140px !important;
+}
+.al_location_featured_text {
+    margin-top: 0px !important;
+}
+
+section.al_register{
+    background-size: cover !important;
+}
+.register_text_block{
+    display: none;
+}
+
+.al_register_block form {
+ padding: 5em 2em 2em 2em !important;
+}
+
+ul.al_footer_contact_details{
+        columns: 1 !important;
+}
+.footer_widget_title h2 {
+        text-align: left !important;
+}
+ul.al_footer_contact_details li {
+    margin-bottom: 16px !important;
+}
+.al_footer_logo_social {
+    padding: 2em 0px !important;
+}
+
+}
+
+@media only screen and (min-width:361px) and (max-width: 480px) {
+  /* For mobile phones: */
+
+.al_login_register_btn a {
+    padding: 8px 55px !important;
+}
+  .al_container {
+    padding: 15em 0px !important;
+}
+.al_loader_logo img {
+    width: 90% !important;
+}
+.al_left_metro_layout {
+    display: none !important;
+}
+.al_side_menu {
+    width: 100% !important;;
+}
+.al_sky .sky_second {
+    display: none !important;
+}
+.al_nav{
+    display: none;
+}
+.al_login{
+    display: none;
+}
+
+section.al_first_block{
+    height: 450px !important;
+}
+.gala-top span{
+    font-size: 43px !important;
+}
+
+span.al_letter_a:after {
+    width: 9px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 35.7% !important;
+}
+span.al_letter_g:before{
+    width: 26px !important;
+    height: 52px !important;
+top: 13px !important;
+    left: 26% !important;
+}
+span.al_letter_g:after{
+    width: 26px !important;
+    height: 52px !important;
+top: 26px !important;
+    left: 28% !important;
+}
+
+span.al_letter_l:before{
+    width: 60px !important;
+    height: 60px !important;
+    top: -26px !important;
+    left: 33% !important;
+}
+
+span.al_letter_d:before{
+    width: 52px !important;
+    height: 125px !important;
+    top: -14px !important;
+    left: 57.4% !important;
+}
+span.al_letter_d:after{
+    width: 8px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 61.1% !important;
+}
+span.al_letter_e:before{
+    width: 8px !important;
+    height: 15px !important;
+    top: 23px !important;
+    left: 69.8% !important;
+}
+span.al_letter_e:after{
+    width: 28px !important;
+    height: 51px !important;
+    top: 22px !important;
+    left: 67.2% !important;
+}
+.janeiro-top span{
+    font-size: 43px !important;
+}
+.gala-top:before{
+        width: 210px !important;
+        top: 50px !important;
+}
+.janeiro-top:before{
+        width: 190px !important;
+        top: 98px !important;
+}
+.janeiro-top:after{
+        width: 230px !important;
+        top: 104px !important;
+}
+
+span.al_letter_n:before {
+    width: 57px !important;
+    height: 51px !important;
+top: -4px !important;
+    left: -66.8% !important;
+}
+span.al_letter_n:after{
+    width: 22px !important;
+    height: 45px !important;
+    top: -10px !important;
+    left: 20.2% !important;
+}
+
+span.al_letter_o:before{
+width: 28px !important;
+    height: 51px !important;
+    top: 0px !important;
+    left: 6.2% !important;
+}
+span.al_letter_o:after{
+    width: 10px !important;
+    height: 20px !important;
+    top: 9px !important;
+    left: 41.2% !important;
+}
+.al_gala_de_title_block{
+    width: 100% !important;
+    margin: 265px auto !important;
+}
+a#menu-button{
+    position: absolute !important;
+    right: 0 !important;
+margin-top: -65px !important;
+}
+
+.al_left_coconut_tree{
+    bottom: 159px !important;
+    margin-left: 2px !important;
+}
+.al_left_coconut_tree img {
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 63px !important;
+    margin-left: 33px !important;
+}
+
+.al_left_coconut_tree:before{
+    left: 55px !important;
+}
+.al_right_coconut_tree{
+        margin-right: 52px !important;
+}
+.al_right_coconut_tree:before{
+        top: 144px !important;
+}
+.al_right_coconut_tree img{
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 75px !important;
+}
+
+.al_date_text{
+    top: 52% !important;
+    width: 50% !important;
+    right: 30px !important;
+}
+
+section.al_second_block .al_title_alcheringa img {
+    width: 100%;
+}
+section.al_second_block:after{
+        margin-top: 33px !important;
+}
+
+.al_second_block_right_floating{
+    top: 54% !important;
+}
+.rotate_kite:before{
+    height: 270px !important;
+    left: 40% !important;
 }
 section.al_third_block{
     padding: 5em 0 !important;
@@ -1567,6 +2338,1397 @@ section.al_highway_block .al_title_section .al_title_alcheringa h2 {
 .al_l6_back_first{
         width: 140px !important;
     height: 170px !important;
+}
+section.al_register{
+    background-size: cover !important;
+}
+.register_text_block{
+    display: none;
+}
+
+.al_register_block form {
+ padding: 5em 2em 2em 2em !important;
+}
+ul.al_footer_contact_details{
+        columns: 1 !important;
+}
+.footer_widget_title h2 {
+        text-align: left !important;
+}
+ul.al_footer_contact_details li {
+    margin-bottom: 16px !important;
+}
+.al_footer_logo_social {
+    padding: 2em 0px !important;
+}
+}
+
+
+@media only screen and (max-width:321px) and (min-width:360px) {
+    .al_login_register_btn a {
+    padding: 8px 55px !important;
+}
+  .al_container {
+    padding: 15em 0px !important;
+}
+.al_loader_logo img {
+    width: 90% !important;
+}
+.al_left_metro_layout {
+    display: none !important;
+}
+.al_side_menu {
+    width: 100% !important;;
+}
+.al_sky .sky_second {
+    display: none !important;
+}
+.al_nav{
+    display: none;
+}
+.al_login{
+    display: none;
+}
+
+section.al_first_block{
+    height: 450px !important;
+}
+.gala-top span{
+    font-size: 43px !important;
+}
+
+span.al_letter_a:after {
+    width: 9px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 35.7% !important;
+}
+span.al_letter_g:before{
+    width: 26px !important;
+    height: 52px !important;
+top: 13px !important;
+    left: 26% !important;
+}
+span.al_letter_g:after{
+    width: 26px !important;
+    height: 52px !important;
+top: 26px !important;
+    left: 28% !important;
+}
+
+span.al_letter_l:before{
+    width: 60px !important;
+    height: 60px !important;
+    top: -26px !important;
+    left: 33% !important;
+}
+
+span.al_letter_d:before{
+    width: 52px !important;
+    height: 125px !important;
+    top: -14px !important;
+    left: 57.4% !important;
+}
+span.al_letter_d:after{
+    width: 8px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 61.1% !important;
+}
+span.al_letter_e:before{
+    width: 8px !important;
+    height: 15px !important;
+    top: 23px !important;
+    left: 69.8% !important;
+}
+span.al_letter_e:after{
+    width: 28px !important;
+    height: 51px !important;
+    top: 22px !important;
+    left: 67.2% !important;
+}
+.janeiro-top span{
+    font-size: 43px !important;
+}
+.gala-top:before{
+        width: 210px !important;
+        top: 50px !important;
+}
+.janeiro-top:before{
+        width: 190px !important;
+        top: 98px !important;
+}
+.janeiro-top:after{
+        width: 230px !important;
+        top: 104px !important;
+}
+
+span.al_letter_n:before {
+    width: 57px !important;
+    height: 51px !important;
+top: -4px !important;
+    left: -66.8% !important;
+}
+span.al_letter_n:after{
+    width: 22px !important;
+    height: 45px !important;
+    top: -10px !important;
+    left: 20.2% !important;
+}
+
+span.al_letter_o:before{
+width: 28px !important;
+    height: 51px !important;
+    top: 0px !important;
+    left: 6.2% !important;
+}
+span.al_letter_o:after{
+    width: 10px !important;
+    height: 20px !important;
+    top: 9px !important;
+    left: 41.2% !important;
+}
+.al_gala_de_title_block{
+    width: 100% !important;
+    margin: 265px auto !important;
+}
+a#menu-button{
+    position: absolute !important;
+    right: 0 !important;
+margin-top: -65px !important;
+}
+
+.al_left_coconut_tree{
+    bottom: 159px !important;
+    margin-left: 2px !important;
+}
+.al_left_coconut_tree img {
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 63px !important;
+    margin-left: 33px !important;
+}
+
+.al_left_coconut_tree:before{
+    left: 55px !important;
+}
+.al_right_coconut_tree{
+        margin-right: 52px !important;
+}
+.al_right_coconut_tree:before{
+        top: 144px !important;
+}
+.al_right_coconut_tree img{
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 75px !important;
+}
+
+.al_date_text{
+    top: 52% !important;
+    width: 50% !important;
+    right: 30px !important;
+}
+
+section.al_second_block .al_title_alcheringa img {
+    width: 100%;
+}
+section.al_second_block:after{
+        margin-top: 33px !important;
+}
+
+.al_second_block_right_floating{
+    top: 54% !important;
+}
+.rotate_kite:before{
+    height: 270px !important;
+    left: 40% !important;
+}
+section.al_third_block{
+    padding: 5em 0 !important;
+    height: 630px !important;
+    background-size: 205% !important;
+}
+section.al_third_block .al_title_section{
+    width: 60% !important;
+}
+section.al_second_block:after {
+        margin-top: 33px !important;
+}
+img.al_wing{
+    top: 55px !important;
+    left: 21% !important;
+    max-width: 50px !important;
+}
+section.al_third_block .al_title_section h2{
+    font-size: 33px !important;
+}
+section.al_third_block .al_title_section h2:before{
+    left: 25% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+section.al_third_block .al_title_section h2:after{
+    right: 24% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+.rocket_stars{
+    display: none !important;
+}
+.al_title_sub_text{
+    width: 100% !important;
+        padding: 50px 50px !important;
+}
+.al_left_horse_move{
+    left: -100px !important;
+}
+.al_left_horse_move img{
+        width: 200px !important;
+}
+.al_right_horse_move{
+    right: -98px !important;
+}
+.al_right_horse_move img {
+    width: 200px !important;
+}
+
+section.al_fourth_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fourth_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 34px !important;
+    text-transform: uppercase !important;
+}
+section.al_fourth_block {
+    height: 100% !important;
+}
+li.first_ballon{
+    display: none !important;
+}
+li.third_ballon{
+    display: none !important;
+}
+li.second_ballon {
+    margin-top: 0px !important;
+    margin-left: -23px !important;
+}
+section.al_fourth_block .al_title_section h2:before{
+        height: 6px !important;
+        left: 16% !important;
+        top: 161px !important;
+}
+section.al_fourth_block .al_title_section h2:after{
+      height: 3px !important;
+      right: 15% !important;
+      top: 161px !important;
+}
+.al_featured_row{
+    width: 100% !important;
+}
+.al_shap_back_first{
+        width: 130px !important;
+    height: 130px !important;
+}
+.rock_finger{
+    width: 50px !important;
+    height: 75px !important;
+    top: 34px !important;
+}
+.al_shap_second_wrap {
+        max-height: 126px !important;
+    min-height: 126px !important;
+}
+.al_shap_back_second{
+        width: 130px !important;
+    height: 125px !important;
+    margin-top: -3px !important;
+}
+.debate{
+        top: 35px !important;
+        height: 62px !important;
+}
+.al_shap_back_third{
+        width: 135px !important;
+    height: 130px !important;
+    margin-top: 50px !important;
+}
+.vogue{
+    top: 95px !important;
+        height: 60px !important;
+}
+.al_shap_back_forth{
+            width: 130px !important;
+    height: 130px !important;
+    margin-top: 48px !important;
+}
+.northeast{
+    top: 77px !important;
+        height: 58px !important;
+}
+section.al_fift_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fift_block .al_title_section h2 {
+        font-size: 40px !important;
+            line-height: 34px !important;
+}
+section.al_fift_block .al_title_section h2:before{
+    height: 5px !important;
+        left: 19% !important;
+    top: 112px !important;
+}
+section.al_fift_block .al_title_section h2:after{
+    height: 5px !important;
+    right: 15% !important;
+    top: 112px !important;
+}
+.al_comedy_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_rap_back_first {
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_creator_back_first{
+        width: 160px !important;
+    height: 150px !important;
+}
+.al_inform_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+
+section.al_project_block .al_project_title_section {
+    width: 90% !important;
+}
+.al_project_title_section .al_project_title_alcheringa h2{
+        font-size: 35px !important;
+        line-height: 50px !important;
+        text-transform: lowercase !important;
+}
+.al_project_text_block{
+    width: 90% !important;
+}
+section.al_northeast_block .al_title_section h2{
+    font-size: 35px !important;
+    border-bottom: 0px solid #1d1932 !important; 
+    line-height: 50px !important;
+    text-transform: lowercase !important;
+}
+.al_title_above_sky{
+    display: none;
+}
+a.al_read_more_btn{
+    padding-bottom: 25px;
+}
+section.al_ne_register_block{
+        padding: 2em 0em 2em 0em !important;
+}
+.register_action_inner h2{
+    font-size: 20px !important;
+}
+section.al_udaan_block{
+        padding: 2em 0em 0em 0em !important;
+}
+section.al_udaan_block .al_title_section{
+        width: 60% !important;
+}
+section.al_udaan_block .al_title_section h2{
+        font-size: 37px !important;
+            line-height: 35px !important;
+    text-transform: lowercase !important;
+}
+.al_ne_text_block{
+    padding: 3em 0 !important;
+}
+.al_blank_box{
+        margin-bottom: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2:before{
+    top: 118px !important;
+    height: 5px !important;
+    left: 19% !important;
+}
+section.al_initiatives_block .al_title_section h2:after{
+    height: 4px !important;
+    right: 20% !important;
+    top: 119px !important;
+}
+section.al_initiatives_block .al_title_section{
+    width: 70% !important;
+}
+
+section.al_modules_block .al_title_section {
+    width: 70% !important;
+    margin-bottom: 65px !important;
+}
+section.al_modules_block .al_title_section h2 {
+    font-size: 40px !important;
+    line-height: 35px !important;
+}
+.al_modules_row{
+    padding-top: 0em !important;
+}
+.al_mod_second_block_right_floating{
+right: 70px !important;
+    top: 68.5% !important;
+}
+section.al_pronites_block .al_title_section{
+        width: 65% !important;
+}
+section.al_pronites_block .al_title_section h2{
+    font-size: 45px !important;
+    line-height: 45px !important;
+}
+
+section.al_pronites_block .al_title_section h2:before{
+        height: 5px !important;
+        left: 21% !important;
+        top: 156px !important;
+}
+section.al_pronites_block .al_title_section h2:after{
+            height: 5px !important;
+            right: 19% !important;
+                top: 156px !important;
+}
+.line_up_div {
+max-height: 60px !important;
+    min-height: 60px !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: #1d1a33 !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    margin-bottom: 40px;
+}
+.line_up_title h3{
+        font-size: 25px !important;
+}
+.al_lineup_block{
+    padding: 2em 0 !important;
+}
+.line_up_title{
+    padding: 0px !important;
+}
+
+section.al_pronites_block .arrow_div {
+display: none;
+}
+.pronites{
+    margin-left: 0px !important;
+}
+.pronites .next-slide{
+        right: 40px !important;
+}
+.pronites .nav-btn{
+        top: 460px !important;
+}
+
+section.al_proshows_block .al_title_section {
+    width: 90% !important;
+        padding: 4em 0 !important;
+}
+section.al_proshows_block .al_title_section h2 {
+        font-size: 40px !important;
+        line-height: 38px !important;
+}
+.al_coming_soon h2{
+    font-size: 35px !important;
+}
+.vogue_arrow_div {
+    display: none;
+}
+.vogue_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.vogue_title {
+        padding: 2em 2em 2em 2em !important;
+}
+.vogue_title h3 {
+        font-size: 23px !important;
+            line-height: 40px !important;
+}
+.vogue_title h3:before{
+        max-width: 140px !important;
+    min-width: 140px !important;
+    left: 60px !important;
+}
+.vogueslide {
+    left: -35% !important;
+}
+.vogueslide a{
+    bottom: 50px !important;
+    right: -53px !important;
+}
+.vogueslide .owl-nav {
+    display: none;
+}
+.al_vogue_first{
+        height: 553px !important;
+}
+.al_vogue_first:after{
+    height: 553px !important;
+}
+.al_vogue_second{
+    height: 553px !important;
+}
+.al_vogue_second:after{
+    height: 553px !important;
+}
+.al_vogue_third{
+    height: 553px !important;
+}
+.al_vogue_third:after{
+    height: 553px !important;
+}
+.al_vogue_four{
+    height: 553px !important;
+}
+.al_vogue_third:after{
+   height: 553px !important;
+}
+.al_vogue_five {
+    height: 553px !important;
+}
+.al_vogue_five:after{
+   height: 553px !important;
+}
+.vogue_inside_right_div {
+        display: none !important;
+}
+.vogue_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.vogue_inside_title{
+    padding: 40px 0px !important;
+}
+.vogue_inside_title h3{
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.vogue_inside_title h3:before{
+        left: 77px !important;
+}
+.al_gm_text_block{
+        margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+.al_custom_nav_tab{
+    display: block;
+}
+
+.nav-tabs .nav-link {
+        font-size: 15px !important;
+    padding: 0px 10px 0px 0px !important;
+}
+.sidenav .menu-items a{
+        padding: 8px 8px 8px 45px !important;
+}
+.gc_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgb(38, 35, 57) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.gc_title{
+        padding: 2em 0em 0px 2em !important;
+}
+
+.gc_right_div {
+        max-width: 600px !important;
+    min-width: 600px !important;
+    position: absolute !important;
+    z-index: 99 !important;
+    right: 4px !important;
+}
+
+section.al_highway_block .al_title_section .al_title_alcheringa h2 {
+        font-size: 50px !important;
+}
+.al_high_date_text{
+        width: 100% !important;
+    right: 5% !important;
+}
+.al_high_date_text div{
+    font-size: 17px !important;
+}
+.al_high_thirty_january:before {
+    top: 28px !important;
+}
+.al_high_second_february:after{
+        top: 79px !important;
+}
+.al_location_title_section .al_location_title_alcheringa h2 {
+    font-size: 40px !important;
+}
+.al_location_title_section {
+        width: 100% !important;
+}
+.al_l1_back_first {
+    width: 160px !important;
+    height: 160px !important;
+}
+
+.al_l2_back_first{
+        width: 174px !important;
+    height: 150px !important;
+}
+.al_l3_back_first {
+        width: 180px !important;
+    height: 130px !important;
+}
+
+.al_l4_back_first{
+    width: 180px !important;
+    height: 140px !important;
+}
+.al_l5_back_first {
+    width: 200px !important;
+    height: 160px !important;
+}
+.al_l6_back_first{
+        width: 140px !important;
+    height: 170px !important;
+}
+section.al_register{
+    background-size: cover !important;
+}
+.register_text_block{
+    display: none;
+}
+
+.al_register_block form {
+ padding: 5em 2em 2em 2em !important;
+}
+ul.al_footer_contact_details{
+        columns: 1 !important;
+}
+.footer_widget_title h2 {
+        text-align: left !important;
+}
+ul.al_footer_contact_details li {
+    margin-bottom: 16px !important;
+}
+.al_footer_logo_social {
+    padding: 2em 0px !important;
+}
+}
+
+@media only screen and (max-width: 320px){
+    .al_login_register_btn a {
+    padding: 8px 55px !important;
+}
+  .al_container {
+    padding: 15em 0px !important;
+}
+.al_loader_logo img {
+    width: 80% !important;
+}
+.al_left_metro_layout {
+    display: none !important;
+}
+.al_side_menu {
+    width: 100% !important;;
+}
+.al_sky .sky_second {
+    display: none !important;
+}
+.al_nav{
+    display: none;
+}
+.al_login{
+    display: none;
+}
+
+section.al_first_block{
+    height: 450px !important;
+}
+.gala-top span{
+    font-size: 43px !important;
+}
+
+span.al_letter_a:after {
+    width: 9px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 35.7% !important;
+}
+span.al_letter_g:before{
+    width: 26px !important;
+    height: 52px !important;
+top: 13px !important;
+    left: 26% !important;
+}
+span.al_letter_g:after{
+    width: 26px !important;
+    height: 52px !important;
+top: 26px !important;
+    left: 28% !important;
+}
+
+span.al_letter_l:before{
+    width: 60px !important;
+    height: 60px !important;
+    top: -26px !important;
+    left: 33% !important;
+}
+
+span.al_letter_d:before{
+    width: 52px !important;
+    height: 125px !important;
+    top: -14px !important;
+    left: 57.4% !important;
+}
+span.al_letter_d:after{
+    width: 8px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 61.1% !important;
+}
+span.al_letter_e:before{
+    width: 8px !important;
+    height: 15px !important;
+    top: 23px !important;
+    left: 69.8% !important;
+}
+span.al_letter_e:after{
+    width: 28px !important;
+    height: 51px !important;
+    top: 22px !important;
+    left: 67.2% !important;
+}
+.janeiro-top span{
+    font-size: 43px !important;
+}
+.gala-top:before{
+        width: 210px !important;
+        top: 50px !important;
+}
+.janeiro-top:before{
+        width: 190px !important;
+        top: 98px !important;
+}
+.janeiro-top:after{
+        width: 230px !important;
+        top: 104px !important;
+}
+
+span.al_letter_n:before {
+    width: 57px !important;
+    height: 51px !important;
+top: -4px !important;
+    left: -66.8% !important;
+}
+span.al_letter_n:after{
+    width: 22px !important;
+    height: 45px !important;
+    top: -10px !important;
+    left: 20.2% !important;
+}
+
+span.al_letter_o:before{
+width: 28px !important;
+    height: 51px !important;
+    top: 0px !important;
+    left: 6.2% !important;
+}
+span.al_letter_o:after{
+    width: 10px !important;
+    height: 20px !important;
+    top: 9px !important;
+    left: 41.2% !important;
+}
+.al_gala_de_title_block{
+    width: 100% !important;
+    margin: 265px auto !important;
+}
+a#menu-button{
+    position: absolute !important;
+    right: 0 !important;
+margin-top: -65px !important;
+}
+
+.al_left_coconut_tree{
+    bottom: 159px !important;
+    margin-left: 2px !important;
+}
+.al_left_coconut_tree img {
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 63px !important;
+    margin-left: -7px !important;
+}
+
+.al_left_coconut_tree:before{
+    left: 12px !important;
+}
+.al_right_coconut_tree{
+        margin-right: 3px !important;
+}
+.al_right_coconut_tree:before{
+        top: 144px !important;
+}
+.al_right_coconut_tree img{
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 75px !important;
+}
+
+.al_date_text{
+    top: 52% !important;
+    width: 50% !important;
+    right: 85px !important;
+}
+
+.al_sky div{
+    margin-left: 2% !important;
+}
+
+section.al_second_block .al_title_alcheringa img {
+    width: 100%;
+}
+section.al_second_block:after{
+        margin-top: 33px !important;
+}
+
+.al_second_block_right_floating{
+    top: 54% !important;
+}
+.rotate_kite:before {
+    height: 321px !important;
+    left: 55% !important;
+}
+section.al_third_block{
+    padding: 5em 0 !important;
+    height: 630px !important;
+    background-size: 205% !important;
+}
+section.al_third_block .al_title_section{
+    width: 60% !important;
+}
+section.al_second_block:after {
+        margin-top: 33px !important;
+}
+img.al_wing{
+    top: 55px !important;
+    left: 21% !important;
+    max-width: 50px !important;
+}
+section.al_third_block .al_title_section h2{
+    font-size: 33px !important;
+}
+section.al_third_block .al_title_section h2:before{
+    left: 25% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+section.al_third_block .al_title_section h2:after{
+    right: 24% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+.rocket_stars{
+    display: none !important;
+}
+.al_title_sub_text{
+    width: 100% !important;
+        padding: 50px 50px !important;
+}
+.al_left_horse_move{
+    left: -100px !important;
+}
+.al_left_horse_move img{
+        width: 200px !important;
+}
+.al_right_horse_move{
+    right: -98px !important;
+}
+.al_right_horse_move img {
+    width: 200px !important;
+}
+
+section.al_fourth_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fourth_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 34px !important;
+    text-transform: uppercase !important;
+}
+section.al_fourth_block {
+    height: 100% !important;
+}
+li.first_ballon{
+    display: none !important;
+}
+li.third_ballon{
+    display: none !important;
+}
+li.second_ballon {
+    margin-top: 0px !important;
+    margin-left: -23px !important;
+}
+li.forth_ballon {
+    right: 5% !important;
+}
+
+section.al_fourth_block .al_title_section h2:before{
+        height: 6px !important;
+        left: 16% !important;
+        top: 161px !important;
+}
+section.al_fourth_block .al_title_section h2:after{
+      height: 3px !important;
+      right: 15% !important;
+      top: 161px !important;
+}
+.al_featured_row{
+    width: 100% !important;
+}
+.al_shap_back_first{
+        width: 130px !important;
+    height: 130px !important;
+}
+.rock_finger{
+    width: 50px !important;
+    height: 75px !important;
+    top: 34px !important;
+}
+.al_shap_second_wrap {
+        max-height: 126px !important;
+    min-height: 126px !important;
+}
+.al_shap_back_second{
+        width: 130px !important;
+    height: 125px !important;
+    margin-top: -3px !important;
+}
+.debate{
+        top: 35px !important;
+        height: 62px !important;
+}
+.al_shap_back_third{
+        width: 135px !important;
+    height: 130px !important;
+    margin-top: 50px !important;
+}
+.vogue{
+    top: 95px !important;
+        height: 60px !important;
+}
+.al_shap_back_forth{
+            width: 130px !important;
+    height: 130px !important;
+    margin-top: 48px !important;
+}
+.northeast{
+    top: 77px !important;
+        height: 58px !important;
+}
+section.al_fift_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fift_block .al_title_section h2 {
+        font-size: 40px !important;
+            line-height: 34px !important;
+}
+section.al_fift_block .al_title_section h2:before{
+    height: 5px !important;
+        left: 19% !important;
+    top: 112px !important;
+}
+section.al_fift_block .al_title_section h2:after{
+    height: 5px !important;
+    right: 15% !important;
+    top: 112px !important;
+}
+.al_comedy_back_first{
+width: 130px !important;
+    height: 130px !important;
+}
+.comedy_box{
+        top: 55px !important;
+            height: 60px !important;
+}
+.al_rap_back_first {
+    width: 130px !important;
+    height: 140px !important;
+}
+.al_creator_back_first{
+width: 130px !important;
+    height: 130px !important;
+}
+.al_inform_back_first{
+    width: 130px !important;
+    height: 130px !important;
+}
+
+section.al_project_block .al_project_title_section {
+    width: 90% !important;
+}
+.al_project_title_section .al_project_title_alcheringa h2{
+        font-size: 35px !important;
+        line-height: 50px !important;
+        text-transform: lowercase !important;
+}
+.al_project_text_block{
+    width: 90% !important;
+}
+section.al_northeast_block .al_title_section h2{
+    font-size: 35px !important;
+    border-bottom: 0px solid #1d1932 !important; 
+    line-height: 50px !important;
+    text-transform: lowercase !important;
+}
+.al_title_above_sky{
+    display: none;
+}
+a.al_read_more_btn{
+    padding-bottom: 25px;
+}
+section.al_ne_register_block{
+        padding: 2em 0em 2em 0em !important;
+}
+.register_action_inner h2{
+    font-size: 20px !important;
+}
+section.al_udaan_block{
+        padding: 2em 0em 0em 0em !important;
+}
+section.al_udaan_block .al_title_section{
+        width: 60% !important;
+}
+section.al_udaan_block .al_title_section h2{
+        font-size: 37px !important;
+            line-height: 35px !important;
+    text-transform: lowercase !important;
+}
+.al_ne_text_block{
+    padding: 3em 0 !important;
+}
+.al_blank_box{
+        margin-bottom: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2:before{
+    top: 118px !important;
+    height: 5px !important;
+    left: 19% !important;
+}
+section.al_initiatives_block .al_title_section h2:after{
+    height: 4px !important;
+    right: 20% !important;
+    top: 119px !important;
+}
+section.al_initiatives_block .al_title_section{
+    width: 70% !important;
+}
+
+section.al_modules_block .al_title_section {
+    width: 70% !important;
+    margin-bottom: 65px !important;
+}
+section.al_modules_block .al_title_section h2 {
+    font-size: 40px !important;
+    line-height: 35px !important;
+}
+.al_modules_row{
+    padding-top: 0em !important;
+}
+.al_mod_second_block_right_floating{
+right: 70px !important;
+    top: 68.5% !important;
+}
+section.al_pronites_block .al_title_section{
+        width: 65% !important;
+}
+section.al_pronites_block .al_title_section h2{
+    font-size: 45px !important;
+    line-height: 45px !important;
+}
+
+section.al_pronites_block .al_title_section h2:before{
+        height: 5px !important;
+        left: 21% !important;
+        top: 156px !important;
+}
+section.al_pronites_block .al_title_section h2:after{
+            height: 5px !important;
+            right: 19% !important;
+                top: 156px !important;
+}
+.line_up_div {
+max-height: 60px !important;
+    min-height: 60px !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: #1d1a33 !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    margin-bottom: 40px;
+}
+.line_up_title h3{
+        font-size: 25px !important;
+}
+.al_lineup_block{
+    padding: 2em 0 !important;
+}
+.line_up_title{
+    padding: 0px !important;
+}
+
+section.al_pronites_block .arrow_div {
+display: none;
+}
+.pronites{
+    margin-left: 0px !important;
+}
+.pronites .next-slide{
+        right: 40px !important;
+}
+.pronites .nav-btn{
+        top: 460px !important;
+}
+
+section.al_proshows_block .al_title_section {
+    width: 90% !important;
+        padding: 4em 0 !important;
+}
+section.al_proshows_block .al_title_section h2 {
+        font-size: 40px !important;
+        line-height: 38px !important;
+}
+.al_coming_soon h2{
+    font-size: 35px !important;
+}
+.vogue_arrow_div {
+    display: none;
+}
+.vogue_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.vogue_title {
+        padding: 2em 2em 2em 2em !important;
+}
+.vogue_title h3 {
+        font-size: 23px !important;
+            line-height: 40px !important;
+}
+.vogue_title h3:before{
+        max-width: 140px !important;
+    min-width: 140px !important;
+    left: 60px !important;
+}
+.vogueslide {
+    left: -35% !important;
+}
+.vogueslide a{
+    bottom: 50px !important;
+    right: -53px !important;
+}
+.vogueslide .owl-nav {
+    display: none;
+}
+.al_vogue_first{
+        height: 553px !important;
+}
+.al_vogue_first:after{
+    height: 553px !important;
+}
+.al_vogue_second{
+    height: 553px !important;
+}
+.al_vogue_second:after{
+    height: 553px !important;
+}
+.al_vogue_third{
+    height: 553px !important;
+}
+.al_vogue_third:after{
+    height: 553px !important;
+}
+.al_vogue_four{
+    height: 553px !important;
+}
+.al_vogue_third:after{
+   height: 553px !important;
+}
+.al_vogue_five {
+    height: 553px !important;
+}
+.al_vogue_five:after{
+   height: 553px !important;
+}
+.vogue_inside_right_div {
+        display: none !important;
+}
+.vogue_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.vogue_inside_title{
+    padding: 40px 0px !important;
+}
+.vogue_inside_title h3{
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.vogue_inside_title h3:before{
+        left: 77px !important;
+}
+.al_gm_text_block{
+        margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+.al_custom_nav_tab{
+    display: block;
+}
+
+.nav-tabs .nav-link {
+        font-size: 15px !important;
+    padding: 0px 10px 0px 0px !important;
+}
+.sidenav .menu-items a{
+        padding: 8px 8px 8px 45px !important;
+}
+.gc_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgb(38, 35, 57) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.gc_title{
+        padding: 2em 0em 0px 2em !important;
+}
+
+.gc_right_div {
+        max-width: 600px !important;
+    min-width: 600px !important;
+    position: absolute !important;
+    z-index: 99 !important;
+    right: 4px !important;
+}
+
+section.al_highway_block .al_title_section .al_title_alcheringa h2 {
+        font-size: 50px !important;
+}
+.al_high_date_text{
+        width: 100% !important;
+    right: 5% !important;
+}
+.al_high_date_text div{
+    font-size: 17px !important;
+}
+.al_high_thirty_january:before {
+    top: 28px !important;
+}
+.al_high_second_february:after{
+        top: 79px !important;
+}
+.al_location_title_section .al_location_title_alcheringa h2 {
+    font-size: 40px !important;
+}
+.al_location_title_section {
+        width: 100% !important;
+}
+.al_l1_back_first {
+    width: 160px !important;
+    height: 160px !important;
+}
+
+.al_l2_back_first{
+        width: 174px !important;
+    height: 150px !important;
+}
+.al_l3_back_first {
+        width: 180px !important;
+    height: 130px !important;
+}
+
+.al_l4_back_first{
+    width: 180px !important;
+    height: 140px !important;
+}
+.al_l5_back_first {
+    width: 200px !important;
+    height: 160px !important;
+}
+.al_l6_back_first{
+        width: 140px !important;
+    height: 170px !important;
+}
+section.al_register{
+    background-size: cover !important;
+}
+.register_text_block{
+    display: none;
+}
+
+.al_register_block form {
+ padding: 3em 2em 2em 2em !important;
 }
 ul.al_footer_contact_details{
         columns: 1 !important;

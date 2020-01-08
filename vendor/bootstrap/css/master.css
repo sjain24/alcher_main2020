@@ -500,7 +500,7 @@ section.al_first_block {
 }
 .gala-top:before {
     content: '';
-    width: 335px;
+    width: 350px;
     height: 3px;
     background: #e3a532;
     position: absolute;
@@ -757,7 +757,7 @@ span.al_letter_o:after {
     display: block;
     float: left;
     bottom: 175px;
-    margin-left: 27px;
+    margin-left: 9px;
 }
 .al_left_coconut_tree img {
 	position: relative;
@@ -1040,7 +1040,8 @@ opacity: 0.1;
 }
 .rotate_kite img {
 	position: relative;
-	z-index: 99;
+    z-index: 99;
+    opacity: 0.1;
 animation: spin3 3s infinite linear;
   -webkit-animation: spin3 3s infinite linear;
 }
@@ -1075,7 +1076,7 @@ animation: spin3 3s infinite linear;
 .rotate_kite:before {
     content: '';
     /* background: #dea028; */
-    height: 310px;
+    height: 322px;
     width: 10px;
     position: absolute;
     top: 190px;
@@ -1521,7 +1522,7 @@ li.first_ballon img {
 	transform-origin: 0% 0%;
   transform: translate(-10%) rotate(10deg);
   animation: FirstBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes FirstBallon {
@@ -1536,7 +1537,7 @@ li.first_ballon img {
 li.second_ballon img {
   transform: translate(-10%) rotate(10deg);
   animation: SecondBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes SecondBallon {
@@ -1551,7 +1552,7 @@ li.second_ballon img {
 li.third_ballon img {
   transform: translate(-10%) rotate(10deg);
   animation: ThirdBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes ThirdBallon {
@@ -1566,7 +1567,7 @@ li.third_ballon img {
 li.forth_ballon img {
   transform: translate(-20%) rotate(-10deg);
   animation: ForthBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes ForthBallon {
@@ -2579,6 +2580,7 @@ position: absolute;
 .mod_rotate_kite img {
     position: relative;
     z-index: 99;
+    opacity: 0.1;
 animation: spin3 3s infinite linear;
   -webkit-animation: spin3 3s infinite linear;
 }
@@ -2614,6 +2616,7 @@ animation: spin3 3s infinite linear;
     content: '';
     /* background: #dea028; */
     height: 285px;
+    opacity: 0.3;
     width: 10px;
     position: absolute;
     top: 190px;
@@ -4259,6 +4262,143 @@ color: #fff;
 }
 .haute_description {
     margin-top: 40px;
+}
+
+.al_register_container {
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+}
+
+section.al_register {
+        background: url(../images/register_back.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    background-position: center;
+    height: 100vh;
+}
+section.al_register:before{
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(41, 38, 59, 0.6392156862745098);
+    position: absolute;
+}
+.register_text_block {
+    padding: 13em 10em;
+}
+.register_text_block span {
+    color: #fff;
+    font-size: 20px;
+}
+.register_text_block h1 {
+    color: #E3A532;
+    font-size: 60px;
+    font-weight: bold;
+}
+.register_text_block p {
+    font-size: 12px;
+    color: #fff;
+    padding: 20px 0;
+}
+.al_register_block {
+    background: #1E1A33;
+    height: 100vh;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.al_register_block form {
+    padding: 6em 6em 4em 6em;
+}
+ .al_register_block input[type="text"], .al_register_block input[type="email"], .al_register_block input[type="password"], .al_register_block select {
+    background: #555264;
+    border-radius: 100px;
+    border: 1px solid #555264;
+    outline: none;
+    color: #fff;
+    padding: 10px 35px;
+    font-size: 13px;
+ }
+
+ .al_register_block input[type="submit"], button.al_reg_btn {
+    border: 1px solid #e3a532;
+    display: block;
+    margin: auto;
+    background: #E3A532;
+    width: 100%;
+    color: #fff;
+    border-radius: 100px;
+    padding: 6px;
+    margin-top: 58px;
+    cursor: pointer;
+}
+
+.al_log_social {
+    display: flex;
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: space-evenly;
+    vertical-align: middle;
+    align-items: center;
+}
+.sign_in span {
+    color: #ededed;
+    font-size: 10px;
+    display: block;
+}
+.social_login span {
+    color: #ededed;
+    font-size: 10px;
+    display: block;
+}
+
+a.sign_in_btn {
+    background: #1d1a33;
+    border: 1px solid #e3a532;
+    color: #fff;
+    padding: 0px 20px;
+    display: block;
+    border-radius: 100px;
+    font-size: 15px;
+    margin-top: 9px;
+}
+
+.social_login ul.al_social_footer {
+    margin-top: 13px;
+    margin-bottom: 0px;
+}
+a.google i {
+    color: #fff;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: #CC4444;
+    vertical-align: middle;
+    line-height: 30px;
+    border-radius: 100px;
+}
+
+
+ .al_register_block .form-control::-webkit-input-placeholder {
+  color: #bbb;
+  font-size: 12px;
+}
+
+ .al_register_block .form-check-label{
+    color: #fff;
+    font-size: 13px;
+ }
+.al_register_block .form-check-inline .form-check-input {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 22px;
+}
+
+.al_register_block .form-check-inline {
+margin-bottom: 20px;
 }
 
 /* Scrollbar ****************************/

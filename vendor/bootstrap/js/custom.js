@@ -96,7 +96,7 @@ $('#menuhide').click(function(e){
             if ((scrollHeight - scrollPosition) / scrollHeight === 0) {
                 // when scroll to bottom of the page
             }
-             console.log(" Hi scrollPosition  "+scrollPosition );
+            //  console.log(" Hi scrollPosition  "+scrollPosition );
              if( scrollPosition>1854 ){
 
                    $( ".al_wing" ).removeClass( "displaynone" );                

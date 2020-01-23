@@ -500,7 +500,7 @@ section.al_first_block {
 }
 .gala-top:before {
     content: '';
-    width: 335px;
+    width: 350px;
     height: 3px;
     background: #e3a532;
     position: absolute;
@@ -757,7 +757,7 @@ span.al_letter_o:after {
     display: block;
     float: left;
     bottom: 175px;
-    margin-left: 27px;
+    margin-left: 9px;
 }
 .al_left_coconut_tree img {
 	position: relative;
@@ -1040,7 +1040,8 @@ opacity: 0.1;
 }
 .rotate_kite img {
 	position: relative;
-	z-index: 99;
+    z-index: 99;
+    opacity: 0.1;
 animation: spin3 3s infinite linear;
   -webkit-animation: spin3 3s infinite linear;
 }
@@ -1075,7 +1076,7 @@ animation: spin3 3s infinite linear;
 .rotate_kite:before {
     content: '';
     /* background: #dea028; */
-    height: 310px;
+    height: 322px;
     width: 10px;
     position: absolute;
     top: 190px;
@@ -1521,7 +1522,7 @@ li.first_ballon img {
 	transform-origin: 0% 0%;
   transform: translate(-10%) rotate(10deg);
   animation: FirstBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes FirstBallon {
@@ -1536,7 +1537,7 @@ li.first_ballon img {
 li.second_ballon img {
   transform: translate(-10%) rotate(10deg);
   animation: SecondBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes SecondBallon {
@@ -1551,7 +1552,7 @@ li.second_ballon img {
 li.third_ballon img {
   transform: translate(-10%) rotate(10deg);
   animation: ThirdBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes ThirdBallon {
@@ -1566,7 +1567,7 @@ li.third_ballon img {
 li.forth_ballon img {
   transform: translate(-20%) rotate(-10deg);
   animation: ForthBallon 7s ease-in-out infinite;
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 @keyframes ForthBallon {
@@ -2579,6 +2580,7 @@ position: absolute;
 .mod_rotate_kite img {
     position: relative;
     z-index: 99;
+    opacity: 0.1;
 animation: spin3 3s infinite linear;
   -webkit-animation: spin3 3s infinite linear;
 }
@@ -2614,6 +2616,7 @@ animation: spin3 3s infinite linear;
     content: '';
     /* background: #dea028; */
     height: 285px;
+    opacity: 0.3;
     width: 10px;
     position: absolute;
     top: 190px;
@@ -3323,6 +3326,3402 @@ span.author:before{
     max-width: none !important;
     overflow: hidden;
 }
+/********* Classs Aprt Start ***************************/
+
+.class_apart_modal {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.class_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.class_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.class_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.class_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 28px;
+}
+.class_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_class_apart.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.class_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_class_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_class_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_class_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_class_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/rock_phonix.jpg);
+    background-position: left 23% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background-size: 85%;
+}
+
+.al_class_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_class_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_class_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_class_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/ms_alcheringa.jpg);
+    background-position: center right 35%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_class_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_class_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_class_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_class_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/crossfade.jpg);
+    background-position: center left 118%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.al_class_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_class_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_class_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_class_four:after {
+    content: "";
+    position: absolute;
+    background: url(../images/alcher_got_talent.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: 85%;
+    width: 100%;
+}
+
+.al_class_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_class_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_class_five:after {
+-webkit-clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+    clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+}
+.al_class_five:after {
+    content: "";
+    position: absolute;
+    background: url(../images/rap_battle.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_class_six_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_class_six {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_class_six:after {
+-webkit-clip-path: polygon(47% 0, 90% 0, 55% 100%, 7% 100%);
+    clip-path: polygon(47% 0, 90% 0, 55% 100%, 7% 100%);
+}
+.al_class_six:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.al_class_seven_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_class_seven {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_class_seven:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_class_seven:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.classslide .owl-nav.disabled {
+    display: block !important;
+}
+.classslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.classslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .classslide .owl-prev.disabled,
+  .classslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .classslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .classslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .classslide {
+    left: 10%;
+}
+
+.classslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.classslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 45px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.class_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.class_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.class_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.class_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.class_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.class_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.class_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_class_apart.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+/******** END CLASS APART **********************************************/
+
+/******** Start Music **************************************************/
+
+.music_modal {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.music_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.music_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.music_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.music_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 0px;
+}
+.music_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_music.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.music_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_music_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_music_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_music_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_music_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/raga_high.jpg);
+    background-position: left 100% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_music_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_music_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_music_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_music_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/unplugged.jpg);
+    background-position: left 45% top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size:cover;
+    width: 100%;
+}
+
+.al_music_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_music_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_music_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_music_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/voice_alcheringa.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size:cover;
+    width: 100%;
+}
+
+
+.al_music_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_music_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_music_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_music_four:after {
+    content: "";
+    position: absolute;
+    background: url(../images/choir.jpg);
+    background-position: left 77% top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_music_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_music_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_music_five:after {
+-webkit-clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+    clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+}
+.al_music_five:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.al_music_six_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_music_six {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_music_six:after {
+-webkit-clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+    clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+}
+.al_music_six:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.musicslide .owl-nav.disabled {
+    display: block !important;
+}
+.musicslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.musicslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .musicslide .owl-prev.disabled,
+  .musicslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .musicslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .musicslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .musicslide {
+    left: 10%;
+}
+
+.musicslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.musicslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 45px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.music_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.music_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.music_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.music_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.music_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.music_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.music_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_music.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+
+/******* End Music ******************************************************/
+/******* Literary Start *************************************************/
+
+.literary_modal{
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.literary_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.literary_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.literary_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.literary_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 0px;
+}
+.literary_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_literary.png);
+    background-repeat: no-repeat;
+background-size: 20%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.literary_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_literary_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_literary_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_literary_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_literary_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/parliamentary_debate.jpg);
+    background-position: left 0% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_literary_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_literary_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_literary_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_literary_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/poetry_slam.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_literary_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_literary_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_literary_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_literary_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/mehfil.jpg);
+background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.al_literary_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_literary_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_literary_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_literary_four:after {
+    content: "";
+    position: absolute;
+    background: url(../images/jam.jpg);
+    background-position: right top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_literary_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_literary_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_literary_five:after {
+-webkit-clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+    clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+}
+.al_literary_five:after {
+    content: "";
+    position: absolute;
+    background: url(../images/zephyr.jpg);
+background-position: left top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_literary_six_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_literary_six {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_literary_six:after {
+-webkit-clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+    clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+}
+.al_literary_six:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.al_literary_seven_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_literary_seven {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_literary_seven:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_literary_seven:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.literaryslide .owl-nav.disabled {
+    display: block !important;
+}
+.literaryslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.literaryslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .literaryslide .owl-prev.disabled,
+  .literaryslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .literaryslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .literaryslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .literaryslide {
+    left: 10%;
+}
+
+.literaryslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.literaryslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 40px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.literary_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.literary_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.literary_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.literary_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.literary_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.literary_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.literary_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_literary.png);
+    background-repeat: no-repeat;
+    background-size: 26%;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+/* END Literary ***********************************************************/
+
+/* Start Art Talkies ******************************************************/
+.art_modal{
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.art_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.art_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.art_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.art_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 0px;
+}
+.art_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_art_talkies.png);
+    background-repeat: no-repeat;
+background-size: 35%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.art_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_art_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_art_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_art_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/clay.png);
+    background-position: left 23% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_art_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_art_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_art_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/al_states_dress.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: 85%;
+    width: 100%;
+}
+
+.al_art_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_art_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_art_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/face_art.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size:cover;
+    width: 100%;
+}
+
+
+.al_art_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_art_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_art_four:after {
+    content: "";
+    position: absolute;
+    background: url(../images/graffiti.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_art_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_art_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_five:after {
+-webkit-clip-path: polygon(43% 0, 100% 0, 278% 178%, 5% 100%);
+    clip-path: polygon(43% 0, 100% 0, 278% 178%, 5% 100%);
+}
+.al_art_five:after {
+    content: "";
+    position: absolute;
+    background: url(../images/live_sketching.png);
+    background-position: center left 43%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_art_six_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_art_six {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_six:after {
+-webkit-clip-path: polygon(43% 0, 100% 0, 80% 100%, 5% 100%);
+    clip-path: polygon(43% 0, 100% 0, 80% 100%, 5% 100%);
+}
+.al_art_six:after {
+    content: "";
+    position: absolute;
+    background: url(../images/rangoli.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_art_seven_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_art_seven {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_seven:after {
+-webkit-clip-path: polygon(40% 0, 92% 0, 58% 100%, 5% 100%);
+    clip-path: polygon(40% 0, 92% 0, 58% 100%, 5% 100%);
+}
+.al_art_seven:after {
+    content: "";
+    position: absolute;
+    background: url(../images/who_is_it.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_art_eight_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_art_eight {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_eight:after {
+-webkit-clip-path: polygon(40% 0, 92% 0, 57% 100%, 4% 100%);
+    clip-path: polygon(40% 0, 92% 0, 57% 100%, 4% 100%);
+}
+.al_art_eight:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_art_nine_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_art_nine {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_art_nine:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_art_nine:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.artslide .owl-nav.disabled {
+    display: block !important;
+}
+.artslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.artslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .artslide .owl-prev.disabled,
+  .artslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .artslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .artslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .artslide {
+    left: 10%;
+}
+
+.artslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.artslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 40px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.art_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.art_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.art_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.art_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.art_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.art_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.art_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_art_talkies.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+/**** End Art Talkies ************************************************/
+
+/***** Start Stage Craft *********************************************/
+
+.drama_modal{
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.drama_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.drama_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.drama_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.drama_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 0px;
+}
+.drama_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_drama.png);
+    background-repeat: no-repeat;
+background-size: 35%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.drama_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_drama_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_drama_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_drama_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_drama_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/theatrix.jpg);
+    background-position: left 23% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_drama_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_drama_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_drama_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_drama_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/halla_bol.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_drama_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_drama_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_drama_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_drama_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/monodrama.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size:cover;
+    width: 100%;
+}
+
+
+.al_drama_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_drama_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_drama_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_drama_four:after {
+    content: "";
+    position: absolute;
+    background: #262339;
+    /* background: url(../images/al_intersection.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_drama_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_drama_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_drama_five:after {
+    -webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_drama_five:after {
+    content: "";
+    position: absolute;
+    /* background: url(../images/al_intersection.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.dramaslide .owl-nav.disabled {
+    display: block !important;
+}
+.dramaslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.dramaslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .dramaslide .owl-prev.disabled,
+  .dramaslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .dramaslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .dramaslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .dramaslide {
+    left: 10%;
+}
+
+.dramaslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.dramaslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 40px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.drama_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.drama_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.drama_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.drama_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.drama_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.drama_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.drama_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_drama.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+/******** End Stage Craft ***********************************************/
+
+/***** Start Dance *********************************************/
+
+.dance_modal {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.dance_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.dance_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.dance_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.dance_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 0px;
+}
+.dance_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_dance.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 75px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.dance_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_dance_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_dance_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_dance_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_dance_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/electric_heels.png);
+    background-position: left 23% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_dance_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_dance_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_dance_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_dance_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/step_up.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_dance_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_dance_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_dance_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_dance_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/dancing_duo.jpg);
+    background-position: center left 149%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.al_dance_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_dance_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_dance_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_dance_four:after {
+    content: "";
+    position: absolute;
+    background: url(../images/al_glamour_nova.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: 85%;
+    width: 100%;
+}
+
+.al_dance_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_dance_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_dance_five:after {
+-webkit-clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+    clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+}
+.al_dance_five:after {
+    content: "";
+    position: absolute;
+    background: url(../images/navras.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_dance_six_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_dance_six {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_dance_six:after {
+-webkit-clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+    clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+}
+.al_dance_six:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.al_dance_seven_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_dance_seven {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_dance_seven:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_dance_seven:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.danceslide .owl-nav.disabled {
+    display: block !important;
+}
+.danceslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.danceslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .danceslide .owl-prev.disabled,
+  .danceslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .danceslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .danceslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .danceslide {
+    left: 10%;
+}
+
+.danceslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.danceslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 45px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.dance_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.dance_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.dance_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.dance_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.dance_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.dance_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.dance_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_dance.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+/******** End Dance ***********************************************/
+
+/***** Start Sports *********************************************/
+
+.sport_modal {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.sport_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.sport_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.sport_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.sport_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 0px;
+}
+.sport_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_sports.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 75px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.sport_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_sport_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_sport_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_sport_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_sport_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/football.png);
+    background-position: left 23% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_sport_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_sport_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_sport_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_sport_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/arm_wrestling.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_sport_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_sport_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_sport_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_sport_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/basketball.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.al_sport_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_sport_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_sport_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_sport_four:after {
+    content: "";
+    position: absolute;
+    background: url(../images/gully_cricket.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size:cover;
+    width: 100%;
+}
+
+.al_sport_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_sport_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_sport_five:after {
+-webkit-clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+    clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+}
+.al_sport_five:after {
+    content: "";
+    position: absolute;
+    background: url(../images/volleyball.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_sport_six_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_sport_six {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_sport_six:after {
+-webkit-clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+    clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+}
+.al_sport_six:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.al_sport_seven_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_sport_seven {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_sport_seven:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_sport_seven:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.sportslide .owl-nav.disabled {
+    display: block !important;
+}
+.sportslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.sportslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .sportslide .owl-prev.disabled,
+  .sportslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .sportslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .sportslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .sportslide {
+    left: 10%;
+}
+
+.sportslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.sportslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 45px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.sport_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.sport_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.sport_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.sport_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.sport_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.sport_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.sport_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_sports.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+/******** End Sports ***********************************************/
+/******** Start Digital ********************************************/
+.digital_modal {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.digital_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.digital_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.digital_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.digital_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 55px;
+}
+.digital_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_digital.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 75px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.digital_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_digital_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_digital_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_digital_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_digital_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/custom_brush.png);
+    background-position: left 23% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_digital_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_digital_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_digital_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_digital_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/doodle.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_digital_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_digital_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_digital_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_digital_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/diva_hunk.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.al_digital_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_digital_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_digital_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_digital_four:after {
+    content: "";
+    position: absolute;
+    background: url(../images/xpressions.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size:cover;
+    width: 100%;
+}
+
+.al_digital_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_digital_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_digital_five:after {
+-webkit-clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+    clip-path: polygon(45% 0, 110% 0, 278% 178%, 5% 100%);
+}
+.al_digital_five:after {
+        content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.al_digital_six_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_digital_six {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_digital_six:after {
+-webkit-clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+    clip-path: polygon(40% 0, 90% 0, 55% 100%, 2% 100%);
+}
+.al_digital_six:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+    background: #242237;
+}
+
+.al_digital_seven:after {
+    content: "";
+    position: absolute;
+/*    background: url(../images/al_intersection.jpg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.digitalslide .owl-nav.disabled {
+    display: block !important;
+}
+.digitalslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.digitalslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .digitalslide .owl-prev.disabled,
+  .digitalslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .digitalslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .digitalslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .digitalslide {
+    left: 10%;
+}
+
+.digitalslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.digitalslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 45px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.digital_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.digital_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.digital_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.digital_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.digital_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.digital_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.digital_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_digital.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    height: 60px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+/******** End Digital *********************************************/
+/***** Start Movies *********************************************/
+
+.movie_modal{
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: hidden;
+}
+.movie_arrow_div {
+    max-height: 655px;
+    min-height: 655px;
+    -webkit-clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    clip-path: polygon(50% 0, 100% 0, 100% 100%, 4% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: absolute;
+    z-index: 99;
+    right: -80px;
+    top: 0;
+}
+.movie_div {
+    -webkit-clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    clip-path: polygon(35% 0, 99% 0, 67% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    left: -217px;
+}
+.movie_title {
+    text-align: center;
+    padding: 13em 9em 0em 18em;
+    position: relative;
+    overflow: visible;
+}
+.movie_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 60px;
+    position: relative;
+line-height: 40px;
+    padding-left: 51px;
+}
+.movie_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_movie.png);
+    background-repeat: no-repeat;
+background-size: 25%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: 0px;
+    max-width: 200px;
+    min-width: 200px;
+    width: 100%;
+}
+.movie_title p {
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    padding-right: 35px;
+}
+
+.al_movie_first_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_movie_first {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_movie_first:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_movie_first:after {
+    content: "";
+    position: absolute;
+    background: url(../images/director_cut.png);
+    background-position: left 23% top 12%;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_movie_second_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_movie_second {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_movie_second:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_movie_second:after {
+    content: "";
+    position: absolute;
+    background: url(../images/snap_thrillz.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_movie_third_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_movie_third {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_movie_third:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_movie_third:after {
+    content: "";
+    position: absolute;
+    background: url(../images/musically.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size:cover;
+    width: 100%;
+}
+
+
+.al_movie_four_wrap {
+    max-width: 700px;
+    min-width: 700px;
+    width: 100%;
+}
+.al_movie_four {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_movie_four:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_movie_four:after {
+    content: "";
+    position: absolute;
+    background: #262339;
+    /* background: url(../images/al_intersection.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_movie_five_wrap {
+    max-width: 580px;
+    min-width: 580px;
+    width: 100%;
+}
+.al_movie_five {
+    width: 100%;
+    height: 655px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+.al_movie_five:after {
+    -webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+    clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+.al_movie_five:after {
+    content: "";
+    position: absolute;
+    /* background: url(../images/al_intersection.jpg); */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 655px;
+    background-size: cover;
+    width: 100%;
+}
+
+.movieslide .owl-nav.disabled {
+    display: block !important;
+}
+.movieslide  .owl-nav{
+    overflow: hidden;
+    height: 0px;
+    margin-top: 0px !important;
+  }
+.movieslide .nav-btn{
+    height: 40px;
+    position: absolute;
+    width: 40px;
+    cursor: pointer;
+    top: 560px;
+    z-index: 99;
+  }
+
+  .movieslide .owl-prev.disabled,
+  .movieslide .owl-next.disabled{
+    pointer-events: none;
+        opacity: 1 !important;
+        cursor: pointer;
+  }
+  
+  .movieslide .next-slide{
+      background: url(../images/al_right_arrow.png) no-repeat;
+     right: 195px;
+    background-size: 100%;
+  }
+
+  .movieslide .prev-slide{
+      background: url(../images/al_left_arrow.png) no-repeat;
+   right: 195px;
+    background-size: 100%;
+    opacity: 0;
+  }
+
+  .movieslide {
+    left: 10%;
+}
+
+.movieslide .owl-stage-outer {
+    overflow: visible !important;
+}
+.movieslide a {
+    position: absolute;
+    z-index: 99;
+    bottom: 85px;
+    /* right: 0; */
+    background: #e3a532;
+    color: #fff;
+    padding: 7px 40px;
+    font-size: 18px;
+    border-radius: 100px;
+    left: 83px;
+    display: block;
+    width: 268px;
+    text-align: center;
+}
+
+.movie_inside_modal {
+    background: #29263B;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+}
+
+.movie_inside_modal .modal-content {
+    height: 100% !important;
+    min-height: 100vh !important;
+    overflow: scroll;
+    overflow-x: hidden;
+    z-index: 99;
+    background: #29263B;
+}
+.movie_inside_right_div {
+    height: 100%;
+    -webkit-clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    clip-path: polygon(45% 0, 100% 0, 100% 100%, 6% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 446px;
+    min-width: 446px;
+    position: fixed;
+    z-index: 99;
+    right: -110px;
+    top: 0;
+}
+.movie_inside_div {
+    -webkit-clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    clip-path: polygon(33% 0, 100% 0, 74.2% 100%, 5% 100%);
+    background: rgba(38, 35, 57, 0.8588235294117647);
+    max-width: 680px;
+    min-width: 680px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    left: -227px;
+}
+.movie_inside_title {
+    padding: 2em 7em 0px 20em;
+    position: relative;
+    overflow: visible;
+}
+
+.movie_inside_title h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 22px;
+    padding-bottom: 60px;
+    position: relative;
+    line-height: 60px;
+    padding-left: 65px;
+}
+.movie_inside_title h3:before {
+    content: '';
+    display: inline-flex;
+    background: url(../images/al_movie.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    height: 70px;
+    position: absolute;
+    z-index: 99;
+    left: -5px;
+    max-width: 170px;
+    min-width: 170px;
+    width: 100%;
+}
+
+/******** End Movies ***********************************************/
+
 
 section.al_highway_block {
     position: relative;
@@ -4054,6 +7453,517 @@ a.register_btn {
     padding: 10px 44px;
     border-radius: 100px;
 }
+
+section.al_team_block {
+    position: relative;
+    background: url(../images/al_team_back.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center bottom;
+    padding: 10em 0;
+    width: 100%;
+    min-height: 46em;
+}
+
+.al_team_title_section{
+    font-family: Mangan Regular;
+}
+
+section.al_team_block .al_team_title_section {
+    width: 90%;
+    position: relative;
+    margin: auto;
+}
+
+.al_team_title_section .al_team_title_alcheringa h2 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 400;
+    border-bottom: 2px solid #e3a532;
+    line-height: 53px;
+    text-transform: uppercase;
+}
+section.al_atlantis_block {
+    position: relative;
+    background: #e3a532;
+    padding: 0em 0em 5em 0em;
+}
+section.al_atlantis_block .al_title_section h2 {
+    color: #171616;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+.al_atlantis_text_block {
+    padding: 2em 0;
+    margin: auto;
+    width: 50%;
+    position: relative;
+    z-index: 999;
+    text-align: center;
+}
+.al_atlantis_main_text p {
+    color: #000;
+    font-size: 14px;
+    padding-bottom: 24px;
+}
+.team_watch_movie {
+    background: url(../images/team_watchmovie.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 12em;
+        position: relative;
+}
+.team_watch_movie:before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5019607843137255);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.movie_text {
+    text-align: center;
+    position: relative;
+}
+.movie_text h2 {
+    color: #fff;
+    font-family: Exo Regular;
+    font-size: 20px;
+    font-weight: 200;
+}
+section.al_team_item_block {
+    position: relative;
+    background: #1d1a33;
+    height: 100%;
+    padding: 5em 0;
+    min-height: 100vh;
+}
+section.al_team_item_block .al_title_section h2 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 55px;
+    border-bottom: 2px solid #e3a531;
+    line-height: 45px;
+}
+section.al_team_item_block .al_title_section h2:before {
+    content: '';
+    background: #1c1a33;
+    height: 2px;
+    width: 10px;
+    position: absolute;
+    left: 30%;
+    top: 125px;
+    z-index: 100;
+}
+section.al_team_item_block .al_title_section h2:after {
+    content: '';
+    background: #1c1a33;
+    height: 2px;
+    width: 6px;
+    position: absolute;
+    right: 32%;
+    top: 125px;
+    z-index: 100;
+}
+section.al_team_item_block .al_title_section {
+    width: 50%;
+    margin: auto;
+}
+.team_row {
+    margin-top: 30px;
+}
+.team_vertical_tab .nav-link.active, .team_vertical_tab .show>.nav-link {
+    color: #fff;
+    background-color: unset !important;
+    border-radius: 0px;
+}
+.team_vertical_tab .nav-link {
+    border-radius: .25rem;
+    padding: 15px 0px !important;
+    font-size: 17px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 0px;
+    background: url(../images/team_name_back.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 55px;
+}
+
+.team_vertical_tab:before {
+    content: '';
+    display: block;
+    height: 100%;
+    background: url(../images/team_nam_before.png);
+    background-size: 100%;
+    background-position: center top;
+    width: 36px;
+    position: absolute;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    top: -18px;
+    /* margin: auto; */
+    left: 116px;
+}
+a#v-pills-convenor-tab {
+    transform: rotate(3deg);
+    margin-left: 25px !important;
+}
+a#v-pills-finance-tab {
+    transform: rotate(-2deg);
+    margin-right: 25px !important;
+}
+a#v-pills-marketing-tab {
+    transform: rotate(-8deg);
+    margin-left: 25px;
+}
+a#v-pills-branding-tab {
+    transform: rotate(2deg);
+    margin-right: 25px;
+}
+a#v-pills-event-tab {
+    transform: rotate(-3deg);
+    margin-left: 25px;
+}
+a#v-pills-creative-tab {
+    transform: rotate(-7deg);
+    margin-right: 25px;
+}
+a#v-pills-mun-tab {
+    transform: rotate(2deg);
+    margin-left: 26px;
+}
+a#v-pills-web-tab {
+        transform: rotate(-3deg);
+}
+
+.main_profile_inner:before{
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/profile_back_before.png);
+    display: block;
+    position: absolute;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+  opacity: 0;
+}
+.convenor_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/naveen_godara.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.finance1_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/adarsh_gupta.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.finance2_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/sankalp_gupta.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.finance3_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/sagnic_mandal.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.finance4_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/ankita_patre.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.marketing1_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/ayush_dalia.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.marketing2_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/kartikey_sharma.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.marketing3_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/hemant.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.branding1_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/indira_sharma.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.branding2_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/priyal.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.branding3_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/akshat.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.event1_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/nikunj.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.event2_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/rithvik.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.event3_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/pravar.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.creative1_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/priyanshu.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.creative2_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/akash.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.mun_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/param.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.web_profile_inner {
+content: '';
+    width: 100%;
+    height: 100%;
+    background: url(../images/siddharth.webp);
+    display: block;
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+  min-height: 335px;
+}
+
+.profile_details {
+    position: absolute;
+    padding: 10px 10px;
+    justify-content: center;
+    vertical-align: middle;
+    width: 100%;
+    opacity: 0;
+    visibility: hidden;
+    /* height: 100%; */
+    text-align: center;
+    transition: 0.4s;
+    bottom: 95px;
+    z-index: 9999999;
+}
+.main_profile_inner:hover .profile_details{
+    opacity: 1;
+    visibility: visible;
+}
+.team_profile_inner:hover .main_profile_inner::before {
+    opacity: 1;
+}
+.profile_details h4 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.profile_details span {
+    color: #e3a531;
+    font-size: 11px;
+    display: block;
+}
+ul.team_ballon {
+columns: 2;
+    text-align: center;
+    opacity: 0;
+    margin-top: 200px;
+    position: absolute;
+    width: 100%;
+    transition: 0.2s;
+}
+.main_profile_inner:hover ul.team_ballon {
+    opacity: 1;
+    margin-top: 10px;
+}
+ul.team_ballon img {
+    width: 100%;
+    max-width: 60px;
+}
+
+ul.team_sky {
+columns: 3;
+    text-align: center;
+    opacity: 0;
+    margin-top: 200px;
+    position: absolute;
+    width: 100%;
+    z-index: 9999;
+}
+.main_profile_inner:hover ul.team_sky {
+    opacity: 1;
+    margin-top: 70px;
+}
+.main_profile_inner:hover ul.team_sky img {
+    width: 100%;
+    max-width:70px;
+}
+ul.team_sky img {
+    width: 0;
+    max-width:0px;
+        transition: 0.2s;
+}
+
+
 .al_gm_text_block {
         position: relative;
     color: #fff;
@@ -4242,7 +8152,7 @@ color: #fff;
 .al_vertical_tab .nav-link {
     border-radius: .25rem;
     /* padding: 6px 0px !important; */
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     color: #fff;
     margin-bottom: 10px;
@@ -4259,6 +8169,143 @@ color: #fff;
 }
 .haute_description {
     margin-top: 40px;
+}
+
+.al_register_container {
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+}
+
+section.al_register {
+        background: url(../images/register_back.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    background-position: center;
+    height: 100vh;
+}
+section.al_register:before{
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgba(41, 38, 59, 0.6392156862745098);
+    position: absolute;
+}
+.register_text_block {
+    padding: 13em 10em;
+}
+.register_text_block span {
+    color: #fff;
+    font-size: 20px;
+}
+.register_text_block h1 {
+    color: #E3A532;
+    font-size: 60px;
+    font-weight: bold;
+}
+.register_text_block p {
+    font-size: 12px;
+    color: #fff;
+    padding: 20px 0;
+}
+.al_register_block {
+    background: #1E1A33;
+    height: 100vh;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.al_register_block form {
+    padding: 6em 6em 4em 6em;
+}
+ .al_register_block input[type="text"], .al_register_block input[type="email"], .al_register_block input[type="password"], .al_register_block select {
+    background: #555264;
+    border-radius: 100px;
+    border: 1px solid #555264;
+    outline: none;
+    color: #fff;
+    padding: 10px 35px;
+    font-size: 13px;
+ }
+
+ .al_register_block input[type="submit"], button.al_reg_btn {
+    border: 1px solid #e3a532;
+    display: block;
+    margin: auto;
+    background: #E3A532;
+    width: 100%;
+    color: #fff;
+    border-radius: 100px;
+    padding: 6px;
+    margin-top: 58px;
+    cursor: pointer;
+}
+
+.al_log_social {
+    display: flex;
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: space-evenly;
+    vertical-align: middle;
+    align-items: center;
+}
+.sign_in span {
+    color: #ededed;
+    font-size: 10px;
+    display: block;
+}
+.social_login span {
+    color: #ededed;
+    font-size: 10px;
+    display: block;
+}
+
+a.sign_in_btn {
+    background: #1d1a33;
+    border: 1px solid #e3a532;
+    color: #fff;
+    padding: 0px 20px;
+    display: block;
+    border-radius: 100px;
+    font-size: 15px;
+    margin-top: 9px;
+}
+
+.social_login ul.al_social_footer {
+    margin-top: 13px;
+    margin-bottom: 0px;
+}
+a.google i {
+    color: #fff;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: #CC4444;
+    vertical-align: middle;
+    line-height: 30px;
+    border-radius: 100px;
+}
+
+
+ .al_register_block .form-control::-webkit-input-placeholder {
+  color: #bbb;
+  font-size: 12px;
+}
+
+ .al_register_block .form-check-label{
+    color: #fff;
+    font-size: 13px;
+ }
+.al_register_block .form-check-inline .form-check-input {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 22px;
+}
+
+.al_register_block .form-check-inline {
+margin-bottom: 20px;
 }
 
 /* Scrollbar ****************************/
@@ -4286,6 +8333,109 @@ body::-webkit-scrollbar-thumb {
 }
  
 .vogue_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.class_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.class_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.class_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.music_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.music_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.music_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.drama_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.drama_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.drama_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.literary_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.literary_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.literary_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.art_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.art_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.art_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.sport_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.sport_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.sport_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+.digital_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.digital_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.digital_inside_modal .modal-content::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.movie_inside_modal .modal-content::-webkit-scrollbar {
+  width: 4px;
+}
+
+.movie_inside_modal .modal-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+.movie_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
 }

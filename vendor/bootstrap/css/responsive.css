@@ -1391,6 +1391,49 @@ font-size: 30px !important;
         right: 280px !important;
 }
 /**** End Sport **************************/
+
+section.al_team_block {
+  background-size: 100% !important;
+  padding: 15em 0 !important;
+    min-height: 100vh !important;
+    height: 100% !important;
+}
+
+li.nav-item.age14item {
+margin-top: 195px !important;
+    margin-left: 18px !important;
+}
+
+li.nav-item.age15item {
+    margin-top: 317px !important;
+    margin-left: 14% !important;
+}
+
+li.nav-item.age16item {
+margin-left: 12% !important;
+    margin-top: 142px !important;
+}
+
+li.nav-item.age17item {
+    margin-left: 13% !important;
+    margin-top: 408px !important;
+}
+
+li.nav-item.age18item {
+    margin-left: 13% !important;
+    margin-top: 280px !important;
+}
+
+li.nav-item.age19item {
+margin-left: 16% !important;
+    margin-top: 26% !important;
+}
+
+li.nav-item.age20item {
+margin-left: 16% !important;
+    margin-top: 193px !important;
+}
+
 }
 
 
@@ -1429,6 +1472,45 @@ section.al_second_block:after{
 }
 .rotate_kite:before{
     height: 304px !important;
+}
+
+section.al_atlantis_block {
+  margin-top: -2px;
+}
+
+li.nav-item.age14item {
+margin-top: 61px !important;
+    margin-left: 18px !important;
+}
+
+li.nav-item.age15item {
+    margin-top: 168px !important;
+    margin-left: 14% !important;
+}
+
+li.nav-item.age16item {
+margin-left: 16% !important;
+    margin-top: 69px !important;
+}
+
+li.nav-item.age17item {
+    margin-left: 13% !important;
+    margin-top: 185px !important;
+}
+
+li.nav-item.age18item {
+margin-left: 13% !important;
+    margin-top: 102px !important;
+}
+
+li.nav-item.age19item {
+margin-left: 18% !important;
+    margin-top: 183px !important;
+}
+
+li.nav-item.age20item {
+margin-left: 16% !important;
+    margin-top: 38px !important;
 }
 
 }
@@ -1771,6 +1853,69 @@ ul.al_footer_contact_details li {
 }
 .al_footer_logo_social {
     padding: 2em 0px !important;
+}
+section.al_atlantis_block {
+      margin-top: -10px;
+}
+li.nav-item.age14item {
+    margin-top: 15% !important;
+    margin-left: 100px;
+}
+.age_tab .age14item .nav-link {
+padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+li.nav-item.age15item {
+margin-top: 22% !important;
+    margin-left: 18% !important;
+}
+.age_tab .age15item .nav-link {
+padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+li.nav-item.age16item {
+    margin-left: 12% !important;
+    margin-top: 11% !important;
+}
+.age_tab .age16item .nav-link {
+padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+li.nav-item.age17item {
+    margin-left: 13% !important;
+    margin-top: 27% !important;
+}
+.age_tab .age17item .nav-link {
+padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+li.nav-item.age18item {
+    margin-left: 13% !important;
+    margin-top: 21% !important;
+}
+
+.age_tab .age18item .nav-link {
+padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+li.nav-item.age19item {
+    margin-left: 16% !important;
+    margin-top: 27% !important;
+}
+.age_tab .age19item .nav-link {
+padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+li.nav-item.age20item {
+    margin-left: 14% !important;
+    margin-top: 15% !important;
+}
+.age_tab .age20item .nav-link {
+padding-left: 20px !important;
+    padding-right: 20px !important;
 }
 
 }
@@ -2136,6 +2281,50 @@ ul.al_footer_contact_details li {
 }
 .al_footer_logo_social {
     padding: 2em 0px !important;
+}
+section.al_team_block {
+  background-size: 100% !important;
+  min-height: 32em !important;
+}
+.al_team_title_section .al_team_title_alcheringa h2 {
+  font-size: 40px !important;
+}
+section.al_team_item_block .al_title_section {
+      width: 70% !important;
+}
+section.al_team_item_block .al_title_section h2 {
+      font-size: 31px !important;
+}
+.team_watch_movie {
+      padding: 3em 0 !important;
+}
+.team_profile_inner {
+    margin-top: 70px;
+}
+
+.team_vertical_tab .nav-link {
+  background-size: 75% !important;
+  height: 50px !important;
+}
+.team_vertical_tab:before {
+  left: 157px !important;
+      min-height: 70vh !important;
+}
+.main_profile_inner{
+  min-height: 335px !important;
+  background-size: 75% !important; 
+}
+
+.main_profile_inner:before{
+  min-height: 335px !important;
+      background-size: 75% !important;
+}
+section.al_atlantis_block {
+  padding: 3em 0em 5em 0em !important;
+    margin-top: -10px !important;
+}
+.al_atlantis_text_block {
+  width: 100% !important;
 }
 }
 
@@ -4351,8 +4540,93 @@ ul.al_footer_contact_details li {
 .al_footer_logo_social {
     padding: 2em 0px !important;
 }
+section.al_team_block {
+  background-size: 100% !important;
+  min-height: 32em !important;
+}
+.al_team_title_section .al_team_title_alcheringa h2 {
+  font-size: 40px !important;
+}
+section.al_team_item_block .al_title_section {
+      width: 70% !important;
+}
+section.al_team_item_block .al_title_section h2 {
+      font-size: 31px !important;
+}
+.team_watch_movie {
+      padding: 3em 0 !important;
+}
+.team_profile_inner {
+    margin-top: 70px;
+}
+
+.team_vertical_tab .nav-link {
+  background-size: 75% !important;
+  height: 50px !important;
+}
+.team_vertical_tab:before {
+  left: 157px !important;
+      min-height: 70vh !important;
+}
+.main_profile_inner{
+  min-height: 335px !important;
+  background-size: 75% !important; 
+}
+
+.main_profile_inner:before{
+  min-height: 335px !important;
+      background-size: 75% !important;
+}
+section.al_atlantis_block {
+  padding: 3em 0em 5em 0em !important;
+    margin-top: -10px !important;
+}
+.al_atlantis_text_block {
+  width: 100% !important;
+}
+
+li.nav-item.age14item {
+margin-top: -8px !important;
+    margin-left: -17px !important;
+}
+
+li.nav-item.age15item {
+margin-top: 23px !important;
+    margin-left: 19% !important;
+}
+
+li.nav-item.age16item {
+margin-left: 18% !important;
+    margin-top: -2px !important;
+}
+
+li.nav-item.age17item {
+margin-left: 21% !important;
+    margin-top: 22px !important;
+}
+
+li.nav-item.age18item {
+margin-left: 17% !important;
+    margin-top:-3px !important;
+}
+
+li.nav-item.age19item {
+margin-left: 18% !important;
+    margin-top: 27px !important;
+}
+
+li.nav-item.age20item {
+margin-left: 5% !important;
+    margin-top: -18px !important;
+}
+.age_tab img {
+    max-width: 55px !important;
+    min-width: 55px !important;
+}
 
 }
+
+
 
 @media only screen and (min-width:361px) and (max-width: 480px) {
   /* For mobile phones: */
@@ -6392,6 +6666,2212 @@ ul.al_footer_contact_details li {
 .al_footer_logo_social {
     padding: 2em 0px !important;
 }
+
+section.al_team_block {
+  background-size: 100% !important;
+  min-height: 32em !important;
+}
+.al_team_title_section .al_team_title_alcheringa h2 {
+  font-size: 40px !important;
+}
+section.al_team_item_block .al_title_section {
+      width: 70% !important;
+}
+section.al_team_item_block .al_title_section h2 {
+      font-size: 31px !important;
+}
+.team_watch_movie {
+      padding: 3em 0 !important;
+}
+.team_profile_inner {
+    margin-top: 70px;
+}
+
+.team_vertical_tab .nav-link {
+  background-size: 75% !important;
+  height: 50px !important;
+}
+.team_vertical_tab:before {
+  left: 187px !important;
+      min-height: 55vh !important;
+}
+.main_profile_inner{
+  min-height: 375px !important;
+  background-size: 75% !important; 
+}
+
+.main_profile_inner:before{
+  min-height: 335px !important;
+      background-size: 75% !important;
+}
+section.al_atlantis_block {
+  padding: 3em 0em 5em 0em !important;
+    margin-top: -10px !important;
+}
+.al_atlantis_text_block {
+  width: 100% !important;
+}
+li.nav-item.age14item {
+margin-top: 32px !important;
+    margin-left: -17px !important;
+}
+
+li.nav-item.age15item {
+margin-top: 56px !important;
+    margin-left: 19% !important;
+}
+
+li.nav-item.age16item {
+margin-left: 18% !important;
+    margin-top: 22px !important;
+}
+
+li.nav-item.age17item {
+margin-left: 21% !important;
+    margin-top: 70px !important;
+}
+
+li.nav-item.age18item {
+margin-left: 17% !important;
+margin-top: 40px !important;
+}
+
+li.nav-item.age19item {
+margin-left: 18% !important;
+margin-top: 75px !important;
+}
+
+li.nav-item.age20item {
+margin-left: 5% !important;
+    margin-top: 25px !important;
+}
+.age_tab img {
+    max-width: 55px !important;
+    min-width: 55px !important;
+}
+}
+
+@media only screen and (min-width:361px) and (max-width: 375px) {
+  /* For mobile phones: */
+
+.al_login_register_btn a {
+    padding: 8px 55px !important;
+}
+  .al_container {
+    padding: 15em 0px !important;
+}
+.al_loader_logo img {
+    width: 90% !important;
+}
+.al_left_metro_layout {
+    display: none !important;
+}
+.al_side_menu {
+    width: 100% !important;;
+}
+.al_sky .sky_second {
+    display: none !important;
+}
+.al_nav{
+    display: none;
+}
+.al_login{
+    display: none;
+}
+
+section.al_first_block{
+    height: 450px !important;
+}
+.gala-top span{
+    font-size: 43px !important;
+}
+
+span.al_letter_a:after {
+    width: 9px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 35.7% !important;
+}
+span.al_letter_g:before{
+    width: 26px !important;
+    height: 52px !important;
+top: 13px !important;
+    left: 26% !important;
+}
+span.al_letter_g:after{
+    width: 26px !important;
+    height: 52px !important;
+top: 26px !important;
+    left: 28% !important;
+}
+
+span.al_letter_l:before{
+    width: 60px !important;
+    height: 60px !important;
+    top: -26px !important;
+    left: 33% !important;
+}
+
+span.al_letter_d:before{
+    width: 52px !important;
+    height: 125px !important;
+    top: -14px !important;
+    left: 57.4% !important;
+}
+span.al_letter_d:after{
+    width: 8px !important;
+    height: 20px !important;
+    top: 35px !important;
+    left: 61.1% !important;
+}
+span.al_letter_e:before{
+    width: 8px !important;
+    height: 15px !important;
+    top: 23px !important;
+    left: 69.8% !important;
+}
+span.al_letter_e:after{
+    width: 28px !important;
+    height: 51px !important;
+    top: 22px !important;
+    left: 67.2% !important;
+}
+.janeiro-top span{
+    font-size: 43px !important;
+}
+.gala-top:before{
+        width: 210px !important;
+        top: 50px !important;
+}
+.janeiro-top:before{
+        width: 190px !important;
+        top: 98px !important;
+}
+.janeiro-top:after{
+        width: 230px !important;
+        top: 104px !important;
+}
+
+span.al_letter_n:before {
+    width: 57px !important;
+    height: 51px !important;
+top: -4px !important;
+    left: -66.8% !important;
+}
+span.al_letter_n:after{
+    width: 22px !important;
+    height: 45px !important;
+    top: -10px !important;
+    left: 20.2% !important;
+}
+
+span.al_letter_o:before{
+width: 28px !important;
+    height: 51px !important;
+    top: 0px !important;
+    left: 6.2% !important;
+}
+span.al_letter_o:after{
+    width: 10px !important;
+    height: 20px !important;
+    top: 9px !important;
+    left: 41.2% !important;
+}
+.al_gala_de_title_block{
+    width: 100% !important;
+    margin: 265px auto !important;
+}
+a#menu-button{
+    position: absolute !important;
+    right: 0 !important;
+margin-top: -65px !important;
+}
+
+.al_left_coconut_tree{
+    bottom: 159px !important;
+    margin-left: 2px !important;
+}
+.al_left_coconut_tree img {
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 63px !important;
+    margin-left: 33px !important;
+}
+
+.al_left_coconut_tree:before{
+    left: 55px !important;
+}
+.al_right_coconut_tree{
+        margin-right: 52px !important;
+}
+.al_right_coconut_tree:before{
+        top: 144px !important;
+}
+.al_right_coconut_tree img{
+    max-width: 40px !important;
+    max-height: 70px !important;
+    margin-top: 75px !important;
+}
+
+.al_date_text{
+    top: 52% !important;
+    width: 50% !important;
+    right: 30px !important;
+}
+
+section.al_second_block .al_title_alcheringa img {
+    width: 100%;
+}
+section.al_second_block:after{
+        margin-top: 33px !important;
+}
+
+.al_second_block_right_floating{
+    top: 54% !important;
+}
+.rotate_kite:before{
+    height: 270px !important;
+    left: 40% !important;
+}
+section.al_third_block{
+    padding: 5em 0 !important;
+    height: 630px !important;
+    background-size: 205% !important;
+}
+section.al_third_block .al_title_section{
+    width: 60% !important;
+}
+section.al_second_block:after {
+        margin-top: 33px !important;
+}
+img.al_wing{
+    top: 55px !important;
+    left: 21% !important;
+    max-width: 50px !important;
+}
+section.al_third_block .al_title_section h2{
+    font-size: 33px !important;
+}
+section.al_third_block .al_title_section h2:before{
+    left: 25% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+section.al_third_block .al_title_section h2:after{
+    right: 24% !important;
+    top: 124px !important;
+    height: 5px !important;
+}
+.rocket_stars{
+    display: none !important;
+}
+.al_title_sub_text{
+    width: 100% !important;
+        padding: 50px 50px !important;
+}
+.al_left_horse_move{
+    left: -100px !important;
+}
+.al_left_horse_move img{
+        width: 200px !important;
+}
+.al_right_horse_move{
+    right: -98px !important;
+}
+.al_right_horse_move img {
+    width: 200px !important;
+}
+
+section.al_fourth_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fourth_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 34px !important;
+    text-transform: uppercase !important;
+}
+section.al_fourth_block {
+    height: 100% !important;
+}
+li.first_ballon{
+    display: none !important;
+}
+li.third_ballon{
+    display: none !important;
+}
+li.second_ballon {
+    margin-top: 0px !important;
+    margin-left: -23px !important;
+}
+section.al_fourth_block .al_title_section h2:before{
+        height: 6px !important;
+        left: 16% !important;
+        top: 161px !important;
+}
+section.al_fourth_block .al_title_section h2:after{
+      height: 3px !important;
+      right: 15% !important;
+      top: 161px !important;
+}
+.al_featured_row{
+    width: 100% !important;
+}
+.al_shap_back_first{
+        width: 130px !important;
+    height: 130px !important;
+}
+.rock_finger{
+    width: 50px !important;
+    height: 75px !important;
+    top: 34px !important;
+}
+.al_shap_second_wrap {
+        max-height: 126px !important;
+    min-height: 126px !important;
+}
+.al_shap_back_second{
+        width: 130px !important;
+    height: 125px !important;
+    margin-top: -3px !important;
+}
+.debate{
+        top: 35px !important;
+        height: 62px !important;
+}
+.al_shap_back_third{
+        width: 135px !important;
+    height: 130px !important;
+    margin-top: 50px !important;
+}
+.vogue{
+    top: 95px !important;
+        height: 60px !important;
+}
+.al_shap_back_forth{
+            width: 130px !important;
+    height: 130px !important;
+    margin-top: 48px !important;
+}
+.northeast{
+    top: 77px !important;
+        height: 58px !important;
+}
+section.al_fift_block .al_title_section{
+    width: 80% !important;
+}
+section.al_fift_block .al_title_section h2 {
+        font-size: 40px !important;
+            line-height: 34px !important;
+}
+section.al_fift_block .al_title_section h2:before{
+    height: 5px !important;
+        left: 19% !important;
+    top: 112px !important;
+}
+section.al_fift_block .al_title_section h2:after{
+    height: 5px !important;
+    right: 15% !important;
+    top: 112px !important;
+}
+.al_comedy_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_rap_back_first {
+    width: 160px !important;
+    height: 150px !important;
+}
+.al_creator_back_first{
+        width: 160px !important;
+    height: 150px !important;
+}
+.al_inform_back_first{
+    width: 160px !important;
+    height: 150px !important;
+}
+
+section.al_project_block .al_project_title_section {
+    width: 90% !important;
+}
+.al_project_title_section .al_project_title_alcheringa h2{
+        font-size: 35px !important;
+        line-height: 50px !important;
+        text-transform: lowercase !important;
+}
+.al_project_text_block{
+    width: 90% !important;
+}
+section.al_northeast_block .al_title_section h2{
+    font-size: 35px !important;
+    border-bottom: 0px solid #1d1932 !important; 
+    line-height: 50px !important;
+    text-transform: lowercase !important;
+}
+.al_title_above_sky{
+    display: none;
+}
+a.al_read_more_btn{
+    padding-bottom: 25px;
+}
+section.al_ne_register_block{
+        padding: 2em 0em 2em 0em !important;
+}
+.register_action_inner h2{
+    font-size: 20px !important;
+}
+section.al_udaan_block{
+        padding: 2em 0em 0em 0em !important;
+}
+section.al_udaan_block .al_title_section{
+        width: 60% !important;
+}
+section.al_udaan_block .al_title_section h2{
+        font-size: 37px !important;
+            line-height: 35px !important;
+    text-transform: lowercase !important;
+}
+.al_ne_text_block{
+    padding: 3em 0 !important;
+}
+.al_blank_box{
+        margin-bottom: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2{
+    font-size: 40px !important;
+    line-height: 40px !important;
+}
+section.al_initiatives_block .al_title_section h2:before{
+    top: 118px !important;
+    height: 5px !important;
+    left: 19% !important;
+}
+section.al_initiatives_block .al_title_section h2:after{
+    height: 4px !important;
+    right: 20% !important;
+    top: 119px !important;
+}
+section.al_initiatives_block .al_title_section{
+    width: 70% !important;
+}
+
+section.al_modules_block .al_title_section {
+    width: 70% !important;
+    margin-bottom: 65px !important;
+}
+section.al_modules_block .al_title_section h2 {
+    font-size: 40px !important;
+    line-height: 35px !important;
+}
+.al_modules_row{
+    padding-top: 0em !important;
+}
+.al_mod_second_block_right_floating{
+right: 70px !important;
+    top: 68.5% !important;
+}
+section.al_pronites_block .al_title_section{
+        width: 65% !important;
+}
+section.al_pronites_block .al_title_section h2{
+    font-size: 45px !important;
+    line-height: 45px !important;
+}
+
+section.al_pronites_block .al_title_section h2:before{
+        height: 5px !important;
+        left: 21% !important;
+        top: 156px !important;
+}
+section.al_pronites_block .al_title_section h2:after{
+            height: 5px !important;
+            right: 19% !important;
+                top: 156px !important;
+}
+.line_up_div {
+max-height: 60px !important;
+    min-height: 60px !important;
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: #1d1a33 !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    margin-bottom: 40px;
+}
+.line_up_title h3{
+        font-size: 25px !important;
+}
+.al_lineup_block{
+    padding: 2em 0 !important;
+}
+.line_up_title{
+    padding: 0px !important;
+}
+
+section.al_pronites_block .arrow_div {
+display: none;
+}
+.pronites{
+    margin-left: 0px !important;
+}
+.pronites .next-slide{
+        right: 40px !important;
+}
+.pronites .nav-btn{
+        top: 460px !important;
+}
+
+section.al_proshows_block .al_title_section {
+    width: 90% !important;
+        padding: 4em 0 !important;
+}
+section.al_proshows_block .al_title_section h2 {
+        font-size: 40px !important;
+        line-height: 38px !important;
+}
+.al_coming_soon h2{
+    font-size: 35px !important;
+}
+.vogue_arrow_div {
+    display: none;
+}
+.vogue_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.vogue_title {
+        padding: 2em 2em 2em 2em !important;
+}
+.vogue_title h3 {
+        font-size: 23px !important;
+            line-height: 40px !important;
+}
+.vogue_title h3:before{
+        max-width: 140px !important;
+    min-width: 140px !important;
+    left: 60px !important;
+}
+.vogueslide {
+    left: -35% !important;
+}
+.vogueslide a{
+    bottom: 50px !important;
+    right: -53px !important;
+}
+.vogueslide .owl-nav {
+    display: none;
+}
+.al_vogue_first{
+        height: 553px !important;
+}
+.al_vogue_first:after{
+    height: 553px !important;
+}
+.al_vogue_second{
+    height: 553px !important;
+}
+.al_vogue_second:after{
+    height: 553px !important;
+}
+.al_vogue_third{
+    height: 553px !important;
+}
+.al_vogue_third:after{
+    height: 553px !important;
+}
+.al_vogue_four{
+    height: 553px !important;
+}
+.al_vogue_third:after{
+   height: 553px !important;
+}
+.al_vogue_five {
+    height: 553px !important;
+}
+.al_vogue_five:after{
+   height: 553px !important;
+}
+.vogue_inside_right_div {
+        display: none !important;
+}
+.vogue_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.vogue_inside_title{
+    padding: 40px 0px !important;
+}
+.vogue_inside_title h3{
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.vogue_inside_title h3:before{
+        left: 77px !important;
+}
+
+/*** Start Class Aprt Css ******************/
+.class_arrow_div{
+    display: none;
+}
+.class_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.class_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.class_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.classslide {
+    left: -35% !important;
+}
+.classslide a {
+    bottom: 50px !important;
+    right: 8px !important;
+    padding: 4px 19px !important;
+    font-size: 15px !important;
+    width: 180px !important;
+    left: 70px !important;
+}
+
+.al_class_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_class_first {
+    height: 593px !important;
+}
+.al_class_first:after {
+    height: 593px !important;
+}
+
+.al_class_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_class_second {
+    height: 593px !important;
+}
+.al_class_second:after {
+    height: 593px !important;
+}
+
+.al_class_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_class_third {
+    height: 593px !important;
+}
+.al_class_third:after {
+    height: 553px !important;
+}
+.al_class_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_class_four {
+    height: 593px !important;
+}
+.al_class_four:after {
+    height: 593px !important;
+}
+
+.al_class_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_class_five {
+    height: 593px !important;
+}
+.al_class_five:after {
+    height: 593px !important;
+}
+.al_class_five:after {
+    content: '';
+    -webkit-clip-path: polygon(35% 0, 110% 0, 278% 178%, 5% 100%) !important;
+    clip-path: polygon(35% 0, 110% 0, 278% 178%, 5% 100%) !important;
+}
+
+.al_class_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_class_six {
+    height: 593px !important;
+}
+.al_class_six:after {
+    -webkit-clip-path: polygon(35% 0, 88% 0, 60% 100%, 7% 100%) !important;
+    clip-path: polygon(35% 0, 88% 0, 60% 100%, 7% 100%) !important;
+}
+.al_class_six:after {
+    height: 593px !important;
+}
+
+.al_class_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_class_seven {
+    height: 593px !important;
+}
+.al_class_seven:after {
+    -webkit-clip-path: polygon(35% 0, 88% 0, 52% 100%, 7% 100%) !important;
+    clip-path: polygon(35% 0, 88% 0, 52% 100%, 7% 100%) !important;
+}
+.al_class_seven:after {
+    height: 593px !important;
+}
+.classslide .owl-nav {
+    display: none;
+}
+.class_inside_right_div {
+    display: none !important;
+}
+.class_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.class_inside_title {
+    padding: 40px 0px !important;
+}
+.class_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.class_inside_title h3:before {
+    left: 77px !important;
+}
+
+/*** End Class Aprt Css *******************************/
+/*** Start Dance css ********************************/
+.dance_arrow_div{
+    display: none;
+}
+.dance_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.dance_title {
+    padding: 2em 2em 2em 2em !important;
+}
+
+.dance_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.danceslide {
+    left: -35% !important;
+}
+.danceslide a {
+    bottom: 50px !important;
+    right: 8px !important;
+    padding: 4px 19px !important;
+    font-size: 15px !important;
+    width: 180px !important;
+    left: 90px !important;
+}
+
+.al_dance_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_dance_first {
+    height: 593px !important;
+}
+.al_dance_first:after {
+    height: 593px !important;
+}
+
+.al_dance_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_dance_second {
+    height: 593px !important;
+}
+.al_dance_second:after {
+    height: 593px !important;
+}
+
+.al_dance_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_dance_third {
+    height: 593px !important;
+}
+.al_dance_third:after {
+    height: 593px !important;
+        background-position: center left 108% !important;
+}
+.al_dance_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_dance_four {
+    height: 593px !important;
+}
+.al_dance_four:after {
+    height: 593px !important;
+}
+
+.al_dance_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_dance_five {
+    height: 593px !important;
+}
+.al_dance_five:after {
+    height: 593px !important;
+}
+.al_dance_five:after {
+    content: '';
+    -webkit-clip-path: polygon(35% 0, 110% 0, 278% 178%, 5% 100%) !important;
+    clip-path: polygon(35% 0, 110% 0, 278% 178%, 5% 100%) !important;
+}
+
+.al_dance_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_dance_six {
+    height: 593px !important;
+}
+.al_dance_six:after {
+    -webkit-clip-path: polygon(35% 0, 88% 0, 60% 100%, 7% 100%) !important;
+    clip-path: polygon(35% 0, 88% 0, 60% 100%, 7% 100%) !important;
+}
+.al_dance_six:after {
+    height: 593px !important;
+}
+
+.al_dance_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_dance_seven {
+    height: 593px !important;
+}
+.al_dance_seven:after {
+    -webkit-clip-path: polygon(35% 0, 88% 0, 52% 100%, 7% 100%) !important;
+    clip-path: polygon(35% 0, 88% 0, 52% 100%, 7% 100%) !important;
+}
+.al_dance_seven:after {
+    height: 593px !important;
+}
+.danceslide .owl-nav {
+    display: none;
+}
+.dance_inside_right_div {
+    display: none !important;
+}
+.dance_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.dance_inside_title {
+    padding: 40px 0px !important;
+}
+.dance_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.dance_inside_title h3:before {
+    left: 77px !important;
+}
+
+/*** End Dance Css ************************************/
+/**** Start Art Talkies *******************************/
+.art_arrow_div{
+    display: none !important;
+}
+.art_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.art_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.art_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.art_title h3:before {
+    left: 33px !important;
+    height: 80px !important;
+    margin-top: -20px;
+}
+.artslide a {
+    left: 120px !important;
+    padding: 4px 2px !important;
+    font-size: 17px !important;
+    width: 170px !important;
+    bottom: 100px !important;
+}
+
+.artslide {
+    left: -35% !important;
+}
+.al_art_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_first {
+    height: 550px !important;
+}
+.al_art_first:after {
+    height: 550px !important;
+}
+
+.al_art_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_second {
+    height: 550px !important;
+}
+.al_art_second:after {
+    height: 550px !important;
+}
+
+.al_art_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_third {
+    height: 550px !important;
+}
+.al_art_third:after {
+    height: 550px !important;
+}
+.al_art_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_four {
+    height: 550px !important;
+}
+.al_art_four:after {
+    height: 550px !important;
+    -webkit-clip-path: polygon(38% 0, 98% 0, 65% 100%, 5% 100%) !important;
+    clip-path: polygon(38% 0, 98% 0, 65% 100%, 5% 100%) !important;
+}
+.al_art_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_five {
+    height: 550px !important;
+}
+.al_art_five:after {
+    height: 550px !important;
+}
+
+.al_art_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_six {
+    height: 550px !important;
+}
+.al_art_six:after {
+    height: 550px !important;
+}
+
+.al_art_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_seven {
+    height: 550px !important;
+}
+.al_art_seven:after {
+    height: 550px !important;
+}
+.al_art_eight_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_eight {
+    height: 550px !important;
+}
+.al_art_eight:after {
+    height: 550px !important;
+}
+
+.al_art_nine_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_art_nine {
+    height: 550px !important;
+}
+.al_art_nine:after {
+    height: 550px !important;
+}
+.artslide .owl-nav {
+    display: none;
+}
+.art_inside_right_div {
+    display: none !important;
+}
+.art_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.art_inside_title {
+    padding: 40px 0px !important;
+}
+.art_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.art_inside_title h3:before {
+    left: 77px !important;
+    margin-top: -10px;
+}
+/**** End Art Talkies *********************************/
+/**** Start Digital *******************************/
+.digital_arrow_div{
+    display: none !important;
+}
+.digital_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.digital_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.digital_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.digital_title h3:before {
+    left: 33px !important;
+    height: 80px !important;
+    margin-top: -20px;
+}
+.digitalslide a {
+    bottom: 50px !important;
+    right: -22px !important;
+    padding: 4px 2px !important;
+    font-size: 17px !important;
+    width: 170px !important;
+}
+
+.digitalslide {
+    left: -25% !important;
+}
+.al_digital_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_digital_first {
+    height: 610px !important;
+}
+.al_digital_first:after {
+    height: 610px !important;
+}
+
+.al_digital_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_digital_second {
+    height: 610px !important;
+}
+.al_digital_second:after {
+    height: 610px !important;
+}
+
+.al_digital_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_digital_third {
+    height: 610px !important;
+}
+.al_digital_third:after {
+    height: 610px !important;
+}
+.al_digital_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_digital_four {
+    height: 610px !important;
+}
+.al_digital_four:after {
+    height: 610px !important;
+}
+.al_digital_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_digital_five {
+    height: 610px !important;
+}
+.al_digital_five:after {
+    height: 610px !important;
+}
+
+.al_digital_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_digital_six {
+    height: 610px !important;
+}
+.al_digital_six:after {
+    height: 610px !important;
+}
+
+.al_digital_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+
+.digitalslide .owl-nav {
+    display: none;
+}
+.digital_inside_right_div {
+    display: none !important;
+}
+.digital_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.digital_inside_title {
+    padding: 40px 0px !important;
+}
+.digital_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.digital_inside_title h3:before {
+    left: 77px !important;
+    margin-top: -10px;
+}
+/**** End Digital *********************************/
+
+/**** Start Drama *******************************/
+.drama_arrow_div{
+    display: none !important;
+}
+.drama_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.drama_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.drama_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.drama_title h3:before {
+    left: 33px !important;
+    height: 80px !important;
+    margin-top: -20px;
+}
+.dramaslide a {
+    bottom: 50px !important;
+    right: -22px !important;
+    padding: 4px 2px !important;
+    font-size: 17px !important;
+    width: 170px !important;
+}
+
+.dramaslide {
+    left: -25% !important;
+}
+.al_drama_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_drama_first {
+    height: 610px !important;
+}
+.al_drama_first:after {
+    height: 610px !important;
+}
+
+.al_drama_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_drama_second {
+    height: 610px !important;
+}
+.al_drama_second:after {
+    height: 610px !important;
+}
+
+.al_drama_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_drama_third {
+    height: 610px !important;
+}
+.al_drama_third:after {
+    height: 610px !important;
+}
+.al_drama_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_drama_four {
+    height: 610px !important;
+}
+.al_drama_four:after {
+    height: 610px !important;
+}
+.al_drama_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_drama_five {
+    height: 610px !important;
+}
+.al_drama_five:after {
+    height: 610px !important;
+}
+
+.al_drama_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_drama_six {
+    height: 610px !important;
+}
+.al_drama_six:after {
+    height: 610px !important;
+}
+
+.al_drama_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+
+.dramaslide .owl-nav {
+    display: none;
+}
+.drama_inside_right_div {
+    display: none !important;
+}
+.drama_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.drama_inside_title {
+    padding: 40px 0px !important;
+}
+.drama_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.drama_inside_title h3:before {
+    left: 77px !important;
+    margin-top: -10px;
+}
+/**** End Drama *********************************/
+/**** Start Literary *******************************/
+.literary_arrow_div{
+    display: none !important;
+}
+.literary_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.literary_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.literary_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.literary_title h3:before {
+    left: 33px !important;
+    height: 80px !important;
+    margin-top: -20px;
+}
+.literaryslide a {
+    bottom: 50px !important;
+    padding: 4px 2px !important;
+    font-size: 17px !important;
+    width: 190px !important;
+    left: 95px !important;
+}
+
+.literaryslide {
+    left: -35% !important;
+}
+.al_literary_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_literary_first {
+    height: 610px !important;
+}
+.al_literary_first:after {
+    height: 610px !important;
+}
+
+.al_literary_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_literary_second {
+    height: 610px !important;
+}
+.al_literary_second:after {
+    height: 610px !important;
+}
+
+.al_literary_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_literary_third {
+    height: 610px !important;
+}
+.al_literary_third:after {
+    height: 610px !important;
+}
+.al_literary_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_literary_four {
+    height: 610px !important;
+}
+.al_literary_four:after {
+    height: 610px !important;
+}
+.al_literary_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_literary_five {
+    height: 610px !important;
+}
+.al_literary_five:after {
+    height: 610px !important;
+    -webkit-clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+    clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+}
+
+.al_literary_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_literary_six {
+    height: 610px !important;
+}
+.al_literary_six:after {
+    height: 610px !important;
+    -webkit-clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+    clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+}
+
+.al_literary_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_literary_seven {
+    height: 610px !important;
+}
+.al_literary_seven:after {
+    height: 610px !important;
+}
+
+.literaryslide .owl-nav {
+    display: none;
+}
+.literary_inside_right_div {
+    display: none !important;
+}
+.literary_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.literary_inside_title {
+    padding: 40px 0px !important;
+}
+.literary_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.literary_inside_title h3:before {
+    left: 77px !important;
+    margin-top: -10px;
+}
+/**** End Literary *********************************/
+/**** Start Movie *******************************/
+.movie_arrow_div{
+    display: none !important;
+}
+.movie_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.movie_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.movie_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.movie_title h3:before {
+    left: 20px !important;
+    height: 60px !important;
+    margin-top: -5px;
+}
+.movieslide a {
+    bottom: 50px !important;
+    padding: 4px 2px !important;
+    font-size: 17px !important;
+    width: 190px !important;
+    left: 95px !important;
+}
+
+.movieslide {
+    left: -15% !important;
+}
+.al_movie_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_movie_first {
+    height: 610px !important;
+}
+.al_movie_first:after {
+    height: 610px !important;
+}
+
+.al_movie_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_movie_second {
+    height: 610px !important;
+}
+.al_movie_second:after {
+    height: 610px !important;
+}
+
+.al_movie_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_movie_third {
+    height: 610px !important;
+}
+.al_movie_third:after {
+    height: 610px !important;
+}
+.al_movie_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_movie_four {
+    height: 610px !important;
+}
+.al_movie_four:after {
+    height: 610px !important;
+}
+.al_movie_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_movie_five {
+    height: 610px !important;
+}
+.al_movie_five:after {
+    height: 610px !important;
+    -webkit-clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+    clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+}
+
+.al_movie_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_movie_six {
+    height: 610px !important;
+}
+.al_movie_six:after {
+    height: 610px !important;
+    -webkit-clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+    clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+}
+
+.al_movie_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_movie_seven {
+    height:610px !important;
+}
+.al_movie_seven:after {
+    height: 610px !important;
+}
+
+.movieslide .owl-nav {
+    display: none;
+}
+.movie_inside_right_div {
+    display: none !important;
+}
+.movie_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.movie_inside_title {
+    padding: 40px 0px !important;
+}
+.movie_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.movie_inside_title h3:before {
+    left: 77px !important;
+    margin-top: -10px;
+}
+/**** End Movies *********************************/
+/**** Start Music *******************************/
+.music_arrow_div{
+    display: none !important;
+}
+.music_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.music_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.music_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.music_title h3:before {
+    left: 20px !important;
+    height: 60px !important;
+    margin-top: -5px;
+}
+.musicslide a {
+    bottom: 50px !important;
+    padding: 4px 2px !important;
+    font-size: 17px !important;
+    width: 190px !important;
+    left: 90px !important;
+}
+
+.musicslide {
+    left: -35% !important;
+}
+.al_music_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_music_first {
+    height: 610px !important;
+}
+.al_music_first:after {
+    height: 610px !important;
+}
+
+.al_music_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_music_second {
+    height: 610px !important;
+}
+.al_music_second:after {
+    height: 610px !important;
+}
+
+.al_music_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_music_third {
+    height: 610px !important;
+}
+.al_music_third:after {
+    height: 610px !important;
+}
+.al_music_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_music_four {
+    height: 610px !important;
+}
+.al_music_four:after {
+    height: 610px !important;
+}
+.al_music_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_music_five {
+    height: 610px !important;
+}
+.al_music_five:after {
+    height: 610px !important;
+    -webkit-clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+    clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+}
+
+.al_music_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_music_six {
+    height: 610px !important;
+}
+.al_music_six:after {
+    height: 610px !important;
+    -webkit-clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+    clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+}
+
+.al_music_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_music_seven {
+    height: 610px !important;
+}
+.al_music_seven:after {
+    height: 610px !important;
+}
+
+.musicslide .owl-nav {
+    display: none;
+}
+.music_inside_right_div {
+    display: none !important;
+}
+.music_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.music_inside_title {
+    padding: 40px 0px !important;
+}
+.music_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.music_inside_title h3:before {
+    left: 77px !important;
+    margin-top: -10px;
+}
+/**** End Music *********************************/
+/**** Start Sport *******************************/
+.sport_arrow_div{
+    display: none !important;
+}
+.sport_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.sport_title {
+    padding: 2em 2em 2em 2em !important;
+}
+.sport_title h3 {
+    font-size: 23px !important;
+    line-height: 40px !important;
+}
+.sport_title h3:before {
+    left: 75px !important;
+    height: 60px !important;
+    margin-top: -5px;
+}
+.sportslide a {
+    bottom: 50px !important;
+    padding: 4px 2px !important;
+    font-size: 17px !important;
+    width: 190px !important;
+    left: 64px !important;
+}
+
+.sportslide {
+    left: -25% !important;
+}
+.al_sport_first_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_sport_first {
+    height: 630px !important;
+}
+.al_sport_first:after {
+    height: 630px !important;
+}
+
+.al_sport_second_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_sport_second {
+    height: 630px !important;
+}
+.al_sport_second:after {
+    height: 630px !important;
+}
+
+.al_sport_third_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_sport_third {
+    height: 630px !important;
+}
+.al_sport_third:after {
+    height: 630px !important;
+}
+.al_sport_four_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_sport_four {
+    height: 630px !important;
+}
+.al_sport_four:after {
+    height: 630px !important;
+}
+.al_sport_five_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_sport_five {
+    height: 630px !important;
+}
+.al_sport_five:after {
+    height: 630px !important;
+    -webkit-clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+    clip-path: polygon(36% 0, 110% 0, 278% 178%, 5% 100%) !important;
+}
+
+.al_sport_six_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_sport_six {
+    height: 630px !important;
+}
+.al_sport_six:after {
+    height: 630px !important;
+    -webkit-clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+    clip-path: polygon(36% 0, 89% 0, 53% 100%, 8% 100%) !important;
+    background: #1d1a33 !important;
+}
+
+.al_sport_seven_wrap {
+    max-width: 500px !important;
+    min-width: 500px !important;
+}
+.al_sport_seven {
+    height: 630px !important;
+}
+.al_sport_seven:after {
+    height: 630px !important;
+}
+
+.sportslide .owl-nav {
+    display: none;
+}
+.sport_inside_right_div {
+    display: none !important;
+}
+.sport_inside_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+    background: rgba(38, 35, 57, 0.8588235294117647) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.sport_inside_title {
+    padding: 40px 0px !important;
+}
+.sport_inside_title h3 {
+    font-size: 22px !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+    line-height: 52px !important;
+    padding-left: 150px !important;
+}
+.sport_inside_title h3:before {
+    left: 77px !important;
+    margin-top: -10px;
+}
+/**** End Sport *********************************/
+.al_gm_text_block{
+        margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+.al_custom_nav_tab{
+    display: block;
+}
+
+.nav-tabs .nav-link {
+        font-size: 15px !important;
+    padding: 0px 10px 0px 0px !important;
+}
+.sidenav .menu-items a{
+        padding: 8px 8px 8px 45px !important;
+}
+.gc_div {
+    -webkit-clip-path: none !important;
+    clip-path: none !important;
+background: rgb(38, 35, 57) !important;
+    max-width: inherit !important;
+    min-width: inherit !important;
+    position: relative !important;
+    left: 0px !important;
+    width: 100% !important;
+    height: 100% !important
+}
+.gc_title{
+        padding: 2em 0em 0px 2em !important;
+}
+
+.gc_right_div {
+        max-width: 600px !important;
+    min-width: 600px !important;
+    position: absolute !important;
+    z-index: 99 !important;
+    right: 4px !important;
+}
+
+section.al_highway_block .al_title_section .al_title_alcheringa h2 {
+        font-size: 50px !important;
+}
+.al_high_date_text{
+        width: 100% !important;
+    right: 5% !important;
+}
+.al_high_date_text div{
+    font-size: 17px !important;
+}
+.al_high_thirty_january:before {
+    top: 28px !important;
+}
+.al_high_second_february:after{
+        top: 79px !important;
+}
+.al_location_title_section .al_location_title_alcheringa h2 {
+    font-size: 40px !important;
+}
+.al_location_title_section {
+        width: 100% !important;
+}
+.al_l1_back_first {
+    width: 160px !important;
+    height: 160px !important;
+}
+
+.al_l2_back_first{
+        width: 174px !important;
+    height: 150px !important;
+}
+.al_l3_back_first {
+        width: 180px !important;
+    height: 130px !important;
+}
+
+.al_l4_back_first{
+    width: 180px !important;
+    height: 140px !important;
+}
+.al_l5_back_first {
+    width: 200px !important;
+    height: 160px !important;
+}
+.al_l6_back_first{
+        width: 140px !important;
+    height: 170px !important;
+}
+section.al_register{
+    background-size: cover !important;
+}
+.register_text_block{
+    display: none;
+}
+
+.al_register_block form {
+ padding: 5em 2em 2em 2em !important;
+}
+ul.al_footer_contact_details{
+        columns: 1 !important;
+}
+.footer_widget_title h2 {
+        text-align: left !important;
+}
+ul.al_footer_contact_details li {
+    margin-bottom: 16px !important;
+}
+.al_footer_logo_social {
+    padding: 2em 0px !important;
+}
+
+section.al_team_block {
+  background-size: 100% !important;
+  min-height: 32em !important;
+}
+.al_team_title_section .al_team_title_alcheringa h2 {
+  font-size: 40px !important;
+}
+section.al_team_item_block .al_title_section {
+      width: 70% !important;
+}
+section.al_team_item_block .al_title_section h2 {
+      font-size: 31px !important;
+}
+.team_watch_movie {
+      padding: 3em 0 !important;
+}
+.team_profile_inner {
+    margin-top: 70px;
+}
+
+.team_vertical_tab .nav-link {
+  background-size: 75% !important;
+  height: 50px !important;
+}
+.team_vertical_tab:before {
+  left: 187px !important;
+      min-height: 55vh !important;
+}
+.main_profile_inner{
+  min-height: 375px !important;
+  background-size: 75% !important; 
+}
+
+.main_profile_inner:before{
+  min-height: 335px !important;
+      background-size: 75% !important;
+}
+section.al_atlantis_block {
+  padding: 3em 0em 5em 0em !important;
+    margin-top: -10px !important;
+}
+.al_atlantis_text_block {
+  width: 100% !important;
+}
+li.nav-item.age14item {
+margin-top: -12px !important;
+    margin-left: -17px !important;
+}
+
+li.nav-item.age15item {
+margin-top:23px !important;
+    margin-left: 19% !important;
+}
+
+li.nav-item.age16item {
+margin-left: 18% !important;
+    margin-top: -4px !important;
+}
+
+li.nav-item.age17item {
+margin-left: 21% !important;
+    margin-top: 23px !important;
+}
+
+li.nav-item.age18item {
+margin-left: 17% !important;
+margin-top: -4px !important;
+}
+
+li.nav-item.age19item {
+margin-left: 18% !important;
+margin-top: 26px !important;
+}
+
+li.nav-item.age20item {
+margin-left: 5% !important;
+margin-top: -21px !important;
+}
+.age_tab img {
+    max-width: 55px !important;
+    min-width: 55px !important;
+}
 }
 
 
@@ -7231,6 +9711,51 @@ ul.al_footer_contact_details li {
 }
 .al_footer_logo_social {
     padding: 2em 0px !important;
+}
+
+section.al_team_block {
+  background-size: 100% !important;
+  min-height: 32em !important;
+}
+.al_team_title_section .al_team_title_alcheringa h2 {
+  font-size: 40px !important;
+}
+section.al_team_item_block .al_title_section {
+      width: 70% !important;
+}
+section.al_team_item_block .al_title_section h2 {
+      font-size: 31px !important;
+}
+.team_watch_movie {
+      padding: 3em 0 !important;
+}
+.team_profile_inner {
+    margin-top: 70px;
+}
+
+.team_vertical_tab .nav-link {
+  background-size: 75% !important;
+  height: 50px !important;
+}
+.team_vertical_tab:before {
+  left: 157px !important;
+      min-height: 70vh !important;
+}
+.main_profile_inner{
+  min-height: 335px !important;
+  background-size: 75% !important; 
+}
+
+.main_profile_inner:before{
+  min-height: 335px !important;
+      background-size: 75% !important;
+}
+section.al_atlantis_block {
+  padding: 3em 0em 5em 0em !important;
+    margin-top: -10px !important;
+}
+.al_atlantis_text_block {
+  width: 100% !important;
 }
 }
 
@@ -9472,5 +11997,88 @@ ul.al_footer_contact_details li {
 }
 .al_footer_logo_social {
     padding: 2em 0px !important;
+}
+section.al_team_block {
+  background-size: 100% !important;
+  min-height: 32em !important;
+}
+.al_team_title_section .al_team_title_alcheringa h2 {
+  font-size: 40px !important;
+}
+section.al_team_item_block .al_title_section {
+      width: 70% !important;
+}
+section.al_team_item_block .al_title_section h2 {
+      font-size: 31px !important;
+}
+.team_watch_movie {
+      padding: 3em 0 !important;
+}
+.team_profile_inner {
+    margin-top: 70px;
+}
+
+.team_vertical_tab .nav-link {
+  background-size: 75% !important;
+  height: 50px !important;
+}
+.team_vertical_tab:before {
+  left: 157px !important;
+      min-height: 70vh !important;
+}
+.main_profile_inner{
+  min-height: 335px !important;
+  background-size: 75% !important; 
+}
+
+.main_profile_inner:before{
+  min-height: 335px !important;
+      background-size: 75% !important;
+}
+section.al_atlantis_block {
+  padding: 3em 0em 5em 0em !important;
+    margin-top: -10px !important;
+}
+.al_atlantis_text_block {
+  width: 100% !important;
+}
+
+li.nav-item.age14item {
+margin-top: 32px !important;
+    margin-left: -17px !important;
+}
+
+li.nav-item.age15item {
+margin-top: 56px !important;
+    margin-left: 19% !important;
+}
+
+li.nav-item.age16item {
+margin-left: 18% !important;
+    margin-top: 22px !important;
+}
+
+li.nav-item.age17item {
+margin-left: 21% !important;
+    margin-top: 70px !important;
+}
+
+li.nav-item.age18item {
+margin-left: 17% !important;
+margin-top: 40px !important;
+}
+
+li.nav-item.age19item {
+margin-left: 18% !important;
+margin-top: 75px !important;
+}
+
+li.nav-item.age20item {
+margin-left: 5% !important;
+    margin-top: 25px !important;
+}
+.age_tab img {
+    max-width: 55px !important;
+    min-width: 55px !important;
 }
 }

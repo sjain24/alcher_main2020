@@ -8612,3 +8612,21 @@ li.nav-item.age20item {
 .age_tab .age20item .nav-link {
     position: absolute;
 }
+.team_watch_movie2019 {
+    background: url(../images/watch_aftermovie_2019.jpg);
+    background-size: cover;
+}
+.team_watch_movie2018 {
+    background: url(../images/watch_aftermovie_2018.jpg);
+    background-size: cover;
+}
+.team_watch_movie2017 {
+    background: url(../images/watch_aftermovie_2017.jpg);
+    background-size: cover;
+
+}
+.team_watch_movie2014 {
+    background: url(../images/watch_aftermovie_2014.jpg);
+    background-size: cover;
+    
+}

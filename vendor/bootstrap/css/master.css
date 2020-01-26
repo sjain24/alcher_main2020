@@ -7458,7 +7458,7 @@ section.al_team_block {
     position: relative;
     background: url(../images/al_team_back.png);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: contain;
     background-position: center bottom;
     padding: 10em 0;
     width: 100%;

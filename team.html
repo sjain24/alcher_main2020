@@ -17,7 +17,7 @@
 <link href="vendor/bootstrap/css/owl.carousel.min.css" rel="stylesheet">
 <link href="vendor/bootstrap/css/owl.theme.default.min.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-<link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
+
 
 </head>
 
@@ -156,10 +156,13 @@
             <li class="nav-item">
               <a class="nav-link" href="project.html">Initiatives</a>
             </li>
-            <!---<li class="nav-item">
-              <a class="nav-link" href="#">About us</a>
-            </li>  -->
+            <li class="nav-item">
+              <a class="nav-link" href="project.html">Team</a>
+            </li>
+            
+
           </ul>
+
         </div>
       </div>
     </nav>
@@ -174,7 +177,7 @@
 </header>
 
 <section class="al_team_block">
-<div class="container">
+<div class="container" id="section2">
 <div class="al_team_title_section text-center">
         <div class="al_team_title_alcheringa">
         <h2> Alcher through the ages </h2>
@@ -457,19 +460,20 @@
       </div>
 <div class="container">
 <div class="row" class="team_row" style="margin-top: 80px;">
-    <div class="col-3">
+    <div class="col-3 col-md-3 col-sm-12 col-12 order-1 order-md-1 order-sm-2">
       <div class="nav flex-column nav-pills team_vertical_tab" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-        <a class="nav-link active show" id="v-pills-convenor-tab" data-toggle="pill" href="#v-pills-convenor" role="tab" aria-controls="v-pills-convenor" aria-selected="false">Convenor</a>
-        <a class="nav-link" id="v-pills-finance-tab" data-toggle="pill" href="#v-pills-finance" role="tab" aria-controls="v-pills-finance" aria-selected="false">Finance</a>
-        <a class="nav-link" id="v-pills-marketing-tab" data-toggle="pill" href="#v-pills-marketing" role="tab" aria-controls="v-pills-marketing" aria-selected="false">Marketing</a>
         <a class="nav-link" id="v-pills-branding-tab" data-toggle="pill" href="#v-pills-branding" role="tab" aria-controls="v-pills-branding" aria-selected="true">PR and Branding</a>
+        <a class="nav-link" id="v-pills-web-tab" data-toggle="pill" href="#v-pills-web" role="tab" aria-controls="v-pills-web" aria-selected="true">Web-Operations</a>
+        <a class="nav-link" id="v-pills-marketing-tab" data-toggle="pill" href="#v-pills-marketing" role="tab" aria-controls="v-pills-marketing" aria-selected="false">Marketing</a>
         <a class="nav-link" id="v-pills-event-tab" data-toggle="pill" href="#v-pills-event" role="tab" aria-controls="v-pills-event" aria-selected="true">Events</a>
         <a class="nav-link" id="v-pills-creative-tab" data-toggle="pill" href="#v-pills-creative" role="tab" aria-controls="v-pills-creative" aria-selected="true">Creatives</a>
         <a class="nav-link" id="v-pills-mun-tab" data-toggle="pill" href="#v-pills-mun" role="tab" aria-controls="v-pills-mun" aria-selected="true">MUN</a>
-        <a class="nav-link" id="v-pills-web-tab" data-toggle="pill" href="#v-pills-web" role="tab" aria-controls="v-pills-web" aria-selected="true">Web-Operations</a>
+        <a class="nav-link" id="v-pills-finance-tab" data-toggle="pill" href="#v-pills-finance" role="tab" aria-controls="v-pills-finance" aria-selected="false">Finance</a>
+        <a class="nav-link active show" id="v-pills-convenor-tab" data-toggle="pill" href="#v-pills-convenor" role="tab" aria-controls="v-pills-convenor" aria-selected="false">Convenor</a>
+        
       </div>
     </div>
-    <div class="col-9">
+    <div class="col-9 col-md-9 col-sm-12 col-12 order-2 order-md-2 order-sm-1">
       <div class="tab-content" id="v-pills-tabContent">
         <div class="tab-pane fade active show" id="v-pills-convenor" role="tabpanel" aria-labelledby="v-pills-convenor-tab">
 
@@ -1086,7 +1090,33 @@
     <script src="vendor/bootstrap/js/wow.min.js"></script>
     <script src="vendor/bootstrap/js/custom.js"> </script>
     <script src="vendor/bootstrap/js/owl.carousel.min.js"> </script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
 
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).position().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+</script>
   </body>
 
 </html>

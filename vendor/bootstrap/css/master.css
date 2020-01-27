@@ -36,6 +36,10 @@ body{
     font-family: Exo Regular;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body a {
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -8632,6 +8636,8 @@ li.nav-item.age20item {
 }
 /***************/
 .move-vertical {
+
+    z-index: -1;
     -webkit-animation: mover 1s infinite  alternate;
     animation: mover 1s infinite  alternate;
 }

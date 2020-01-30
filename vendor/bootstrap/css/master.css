@@ -1,6 +1,6 @@
 /*********************************************************************************
 
-    Template Name: Alcheringa 2020 
+    Template Name: Alcheringa 2020
     Template URI: https://themes.alcheringa.in
     Description: Alcheringa 2020
     Author: Manab
@@ -27,7 +27,7 @@ src: url("../fonts/mangan.otf");
     font-family:"Exo Light";
     src: url("../fonts/Exo-Light.ttf") format("truetype");
 }
-html, 
+html,
 body{
 	font-size: 100%;
 	margin: 0;
@@ -80,7 +80,7 @@ textarea {
 }
 textarea {
 	overflow: auto;
-}	
+}
 img {
 	border: 0;
 }
@@ -109,7 +109,7 @@ button,
 input,
 select,
 textarea {
-	color: #404040; 
+	color: #404040;
 	font-size: 16px;
 	*font-size: 1rem;
 	line-height: 1.5;
@@ -195,7 +195,7 @@ ul {
   -moz-transform:rotate(680deg);
   -webkit-transform:rotate(680deg);
   -o-transform:rotate(680deg);
-  -ms-transform:rotate(680deg); 
+  -ms-transform:rotate(680deg);
   }
 }
 @-webkit-keyframes spin1 {
@@ -209,7 +209,7 @@ ul {
   -moz-transform:rotate(680deg);
   -webkit-transform:rotate(680deg);
   -o-transform:rotate(680deg);
-  -ms-transform:rotate(680deg); 
+  -ms-transform:rotate(680deg);
   }
 }
 
@@ -326,7 +326,7 @@ a#menu-button {
 }
 .show-menu  {
   width: 100%;
- } 
+ }
 .menu-items {
     margin: 50px auto;
 }
@@ -653,7 +653,7 @@ span.al_letter_n:before {
     height: 51px;
     top: 0px;
     left: -60.8%;
-    
+
 }
 @keyframes example {
     0%   { left:-40%; top:-15px;}
@@ -678,7 +678,7 @@ span.al_letter_n:after {
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
-  
+
   @keyframes shake {
     0% { transform: translate(1px, 1px) rotate(0deg); }
     10% { transform: translate(-1px, -2px) rotate(-1deg); }
@@ -901,7 +901,7 @@ position: absolute;
     position: absolute;
     left: -37px;
     top: 24px;
-    
+
 }
 .al_thirty_january{
     font-family: Mangan Regular;
@@ -1060,7 +1060,7 @@ animation: spin3 3s infinite linear;
   -moz-transform:rotate(680deg);
   -webkit-transform:rotate(680deg);
   -o-transform:rotate(680deg);
-  -ms-transform:rotate(680deg); 
+  -ms-transform:rotate(680deg);
   }
 }
 @-webkit-keyframes spin3 {
@@ -1074,7 +1074,7 @@ animation: spin3 3s infinite linear;
   -moz-transform:rotate(680deg);
   -webkit-transform:rotate(680deg);
   -o-transform:rotate(680deg);
-  -ms-transform:rotate(680deg); 
+  -ms-transform:rotate(680deg);
   }
 }
 .rotate_kite:before {
@@ -1200,10 +1200,10 @@ span.star:before {
     margin-top: 55px;
 }
 .move_rocket {
-	transition: 2s ease-in-out; 
+	transition: 2s ease-in-out;
 	transform: translate(50px,-100px);
     -webkit-transform: translate(50px,-100px);
-    -o-transform: translate(50px,-100px); 
+    -o-transform: translate(50px,-100px);
     -moz-transform: translate(50px,-100px);
 }
 section.al_fourth_block {
@@ -1269,7 +1269,7 @@ section.al_fourth_block .al_title_section h2:after {
     width: 180px;
     height: 180px;
     position: relative;
-    	transition: 2s ease-in-out; 
+    	transition: 2s ease-in-out;
 }
 .al_shap_back_first:after {
     content: "";
@@ -1993,7 +1993,7 @@ section.al_modules_block .al_title_above_sky {
     width: 130px;
     height: 130px;
     position: relative;
-        transition: 2s ease-in-out; 
+        transition: 2s ease-in-out;
 }
 .al_mod_shap_back_first:after {
     content: "";
@@ -2195,7 +2195,7 @@ clip-path: polygon(0 63%, 36% 0, 100% 35%, 66% 100%);
     width: 130px;
     height: 130px;
     position: relative;
-        transition: 2s ease-in-out; 
+        transition: 2s ease-in-out;
 }
 .al_mod_s_shap_back_first:after {
     content: "";
@@ -2242,7 +2242,7 @@ position: absolute;
     width: 130px;
     height: 130px;
     position: relative;
-        transition: 2s ease-in-out; 
+        transition: 2s ease-in-out;
 }
 .al_mod_s_shap_back_second:after {
     content: "";
@@ -2407,7 +2407,7 @@ clip-path: polygon(0 51%, 54% 0, 100% 63%, 55% 100%);
     width: 130px;
     height: 130px;
     position: relative;
-        transition: 2s ease-in-out; 
+        transition: 2s ease-in-out;
 }
 .al_mod_t_shap_back_first:after {
     content: "";
@@ -2454,7 +2454,7 @@ position: absolute;
     width: 110px;
     height: 120px;
     position: relative;
-        transition: 2s ease-in-out; 
+        transition: 2s ease-in-out;
 }
 .al_mod_t_shap_back_second:after {
     content: "";
@@ -2599,7 +2599,7 @@ animation: spin3 3s infinite linear;
   -moz-transform:rotate(680deg);
   -webkit-transform:rotate(680deg);
   -o-transform:rotate(680deg);
-  -ms-transform:rotate(680deg); 
+  -ms-transform:rotate(680deg);
   }
 }
 @-webkit-keyframes spin3 {
@@ -2613,7 +2613,7 @@ animation: spin3 3s infinite linear;
   -moz-transform:rotate(680deg);
   -webkit-transform:rotate(680deg);
   -o-transform:rotate(680deg);
-  -ms-transform:rotate(680deg); 
+  -ms-transform:rotate(680deg);
   }
 }
 .mod_rotate_kite:before {
@@ -2702,7 +2702,7 @@ section.al_pronites_block .al_title_section h2:after {
     pointer-events: none;
     opacity: 0.2;
   }
-  
+
   .pronites .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 250px;
@@ -2767,7 +2767,7 @@ text-align: center;
 .al_pronite_first:after {
 content: "";
     position: absolute;
-    background: url(../images/al_linup1.jpg);
+    background: url(../images/pro1.webp);
     background-position:center left;
     background-repeat: no-repeat;
     height: 500px;
@@ -2776,7 +2776,7 @@ content: "";
 }
 
 .al_pronite_first:after {
--webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+-webkit-clip-path: polygon(50% 50%, 50% 0, 65% 100%, 5% 100%);
 clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
 }
 
@@ -2797,7 +2797,7 @@ clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
 .al_pronite_second:after {
 content: "";
     position: absolute;
-    background: url(../images/al_linup2.jpg);
+    background: url(../images/pro2.webp);
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
@@ -2806,7 +2806,7 @@ content: "";
 }
 
 .al_pronite_second:after {
--webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+-webkit-clip-path: polygon(50% 50%, 92% 0, 65% 100%, 5% 100%);
 clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
 }
 
@@ -2827,7 +2827,7 @@ clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
 .al_pronite_third:after {
 content: "";
     position: absolute;
-    background: url(../images/al_linup3.jpg);
+    background: url(../images/pro3.webp);
     background-position: center left;
     background-repeat: no-repeat;
     height: 500px;
@@ -2856,7 +2856,7 @@ clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
 .al_pronite_four:after {
 content: "";
     position: absolute;
-    background: url(../images/al_linup4.jpg);
+    background: url(../images/pro4.webp);
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
@@ -2885,7 +2885,7 @@ clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
 .al_pronite_five:after {
 content: "";
     position: absolute;
-    background: url(../images/al_linup5.jpg);
+    background: url(../images/pro5.webp);
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
@@ -2898,6 +2898,166 @@ content: "";
 clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
 }
 
+.al_pronite_6 {
+    width:100%;
+    height: 500px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+
+.al_pronite_6:after {
+content: "";
+    position: absolute;
+    background: url(../images/pro6.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_pronite_6:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+
+.al_pronite_7 {
+    width:100%;
+    height: 500px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+
+.al_pronite_7:after {
+content: "";
+    position: absolute;
+    background: url(../images/pro7.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_pronite_7:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+
+.al_pronite_8 {
+    width:100%;
+    height: 500px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+
+.al_pronite_8:after {
+content: "";
+    position: absolute;
+    background: url(../images/pro8.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_pronite_8:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+
+.al_pronite_9 {
+    width:100%;
+    height: 500px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+
+.al_pronite_9:after {
+content: "";
+    position: absolute;
+    background: url(../images/pro9.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_pronite_9:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+
+.al_pronite_10 {
+    width:100%;
+    height: 500px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+
+.al_pronite_10:after {
+content: "";
+    position: absolute;
+    background: url(../images/pro10.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_pronite_10:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+
+.al_pronite_11 {
+    width:100%;
+    height: 500px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+
+.al_pronite_11:after {
+content: "";
+    position: absolute;
+    background: url(../images/pr11.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_pronite_11:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
+
+.al_pronite_12 {
+    width:100%;
+    height: 500px;
+    position: relative;
+    transition: 2s ease-in-out;
+}
+
+.al_pronite_12:after {
+content: "";
+    position: absolute;
+    background: url(../images/pro12.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    width: 100%;
+}
+
+.al_pronite_12:after {
+-webkit-clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+clip-path: polygon(36% 0, 92% 0, 65% 100%, 5% 100%);
+}
 
 section.al_proshows_block {
     background: url(../images/al_proshow.png);
@@ -3273,7 +3433,7 @@ span.author:before{
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .vogueslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -3609,7 +3769,7 @@ span.author:before{
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .classslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -3972,7 +4132,7 @@ span.author:before{
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .musicslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -4360,7 +4520,7 @@ background-position: left top;
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .literaryslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -4798,7 +4958,7 @@ background-size: 35%;
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .artslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -5134,7 +5294,7 @@ background-size: 35%;
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .dramaslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -5522,7 +5682,7 @@ background-size: 35%;
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .danceslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -5910,7 +6070,7 @@ background-size: 35%;
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .sportslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -6282,7 +6442,7 @@ background-size: 35%;
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .digitalslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -6616,7 +6776,7 @@ background-size: 25%;
         opacity: 1 !important;
         cursor: pointer;
   }
-  
+
   .movieslide .next-slide{
       background: url(../images/al_right_arrow.png) no-repeat;
      right: 195px;
@@ -6910,7 +7070,7 @@ color: #fff;
 }
 
 .l2_border_style_thin {
-    background-color: #00ACB3; 
+    background-color: #00ACB3;
 }
 
 .l2_border_style_thin:after {
@@ -8317,11 +8477,11 @@ margin-bottom: 20px;
 body::-webkit-scrollbar {
   width: 4px;
 }
- 
+
 body::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 body::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8335,7 +8495,7 @@ body::-webkit-scrollbar-thumb {
 .vogue_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .vogue_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8348,7 +8508,7 @@ body::-webkit-scrollbar-thumb {
 .class_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .class_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8361,7 +8521,7 @@ body::-webkit-scrollbar-thumb {
 .music_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .music_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8374,7 +8534,7 @@ body::-webkit-scrollbar-thumb {
 .drama_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .drama_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8387,7 +8547,7 @@ body::-webkit-scrollbar-thumb {
 .literary_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .literary_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8400,7 +8560,7 @@ body::-webkit-scrollbar-thumb {
 .art_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .art_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8413,7 +8573,7 @@ body::-webkit-scrollbar-thumb {
 .sport_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .sport_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8425,7 +8585,7 @@ body::-webkit-scrollbar-thumb {
 .digital_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .digital_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8438,7 +8598,7 @@ body::-webkit-scrollbar-thumb {
 .movie_inside_modal .modal-content::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 }
- 
+
 .movie_inside_modal .modal-content::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid slategrey;
@@ -8632,7 +8792,7 @@ li.nav-item.age20item {
 .team_watch_movie2014 {
     background: url(../images/watch_aftermovie_2014.jpg);
     background-size: cover;
-    
+
 }
 /***************/
 .move-vertical {
